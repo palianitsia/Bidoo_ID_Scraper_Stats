@@ -1,0 +1,34 @@
+{
+  "id": "26508",
+  "title": "Segway‐Ninebot ZT3 PRO",
+  "records": [
+    {
+      "idAsta": "101620896",
+      "prezzo": "56.92",
+      "vincitore": "lyriandor",
+      "durata": "9h 34m",
+      "puntateTotali": "2834"
+    },
+    {
+      "idAsta": "100866782",
+      "prezzo": "143.95",
+      "vincitore": "teopina",
+      "durata": "24h 22m",
+      "puntateTotali": "122"
+    },
+    {
+      "idAsta": "100198632",
+      "prezzo": "88.60",
+      "vincitore": "diegrift",
+      "durata": "15h 6m",
+      "puntateTotali": "101"
+    },
+    {
+      "idAsta": "101936820",
+      "prezzo": "74.62",
+      "vincitore": "aurorion",
+      "durata": "12h 28m",
+      "puntateTotali": "142"
+    }
+  ]
+}

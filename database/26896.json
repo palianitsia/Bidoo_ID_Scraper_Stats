@@ -1,0 +1,42 @@
+{
+  "id": "26896",
+  "title": "Pragmata",
+  "records": [
+    {
+      "idAsta": "97015693",
+      "prezzo": "1.29",
+      "vincitore": "deathsoul393",
+      "durata": "9m",
+      "puntateTotali": "45",
+      "paid_bids": "0",
+      "free_bids": "45"
+    },
+    {
+      "idAsta": "97208360",
+      "prezzo": "21.97",
+      "vincitore": "ninfadora88",
+      "durata": "2h 32m",
+      "puntateTotali": "1095",
+      "paid_bids": "349",
+      "free_bids": "746"
+    },
+    {
+      "idAsta": "97343866",
+      "prezzo": "1.67",
+      "vincitore": "robiper",
+      "durata": "12m",
+      "puntateTotali": "18",
+      "paid_bids": "0",
+      "free_bids": "18"
+    },
+    {
+      "idAsta": "97403842",
+      "prezzo": "4.31",
+      "vincitore": "ginokpie9",
+      "durata": "45m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    }
+  ]
+}

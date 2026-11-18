@@ -1,0 +1,33 @@
+{
+  "id": "27693",
+  "title": "Google Pixel 11 256GB",
+  "records": [
+    {
+      "idAsta": "97076953",
+      "prezzo": "148.15",
+      "vincitore": "sodeite",
+      "durata": "25h 11m",
+      "puntateTotali": "348",
+      "paid_bids": "0",
+      "free_bids": "348"
+    },
+    {
+      "idAsta": "97105017",
+      "prezzo": "285.01",
+      "vincitore": "saltima39",
+      "durata": "32h 52m",
+      "puntateTotali": "291",
+      "paid_bids": "0",
+      "free_bids": "291"
+    },
+    {
+      "idAsta": "97494916",
+      "prezzo": "226.87",
+      "vincitore": "boschi348",
+      "durata": "26h 17m",
+      "puntateTotali": "10121",
+      "paid_bids": "3925",
+      "free_bids": "6196"
+    }
+  ]
+}

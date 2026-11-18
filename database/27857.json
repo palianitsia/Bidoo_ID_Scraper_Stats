@@ -1,0 +1,34 @@
+{
+  "id": "27857",
+  "title": "Gucci JetSet GG Marmont Small",
+  "records": [
+    {
+      "idAsta": "101449400",
+      "prezzo": "197.61",
+      "vincitore": "fedorone",
+      "durata": "33h 23m",
+      "puntateTotali": "8262"
+    },
+    {
+      "idAsta": "101109994",
+      "prezzo": "125.72",
+      "vincitore": "gnolavini",
+      "durata": "14h 13m",
+      "puntateTotali": "5189"
+    },
+    {
+      "idAsta": "100786214",
+      "prezzo": "1.04",
+      "vincitore": "21kriss",
+      "durata": "9m",
+      "puntateTotali": "50"
+    },
+    {
+      "idAsta": "100379976",
+      "prezzo": "108.77",
+      "vincitore": "topodon",
+      "durata": "18h 11m",
+      "puntateTotali": "2550"
+    }
+  ]
+}

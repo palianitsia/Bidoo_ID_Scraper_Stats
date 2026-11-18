@@ -1,0 +1,48 @@
+{
+  "id": "27513",
+  "title": "Harry Potter Ed. Castello di Hogwarts",
+  "records": [
+    {
+      "idAsta": "101642521",
+      "prezzo": "36.17",
+      "vincitore": "enzoscossa",
+      "durata": "6h 15m",
+      "puntateTotali": "35"
+    },
+    {
+      "idAsta": "101453746",
+      "prezzo": "26.56",
+      "vincitore": "italpiro",
+      "durata": "4h 29m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "101231057",
+      "prezzo": "18.08",
+      "vincitore": "gaiacoda",
+      "durata": "3h 5m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101166986",
+      "prezzo": "16.07",
+      "vincitore": "ignamulo",
+      "durata": "2h 46m",
+      "puntateTotali": "75"
+    },
+    {
+      "idAsta": "100909595",
+      "prezzo": "15.88",
+      "vincitore": "valerfiam",
+      "durata": "2h 42m",
+      "puntateTotali": "61"
+    },
+    {
+      "idAsta": "100445413",
+      "prezzo": "42.62",
+      "vincitore": "gregrasso",
+      "durata": "7h 14m",
+      "puntateTotali": "48"
+    }
+  ]
+}

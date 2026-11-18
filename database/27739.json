@@ -1,0 +1,60 @@
+{
+  "id": "27739",
+  "title": "Marvel's Wolverine",
+  "records": [
+    {
+      "idAsta": "97015646",
+      "prezzo": "52.03",
+      "vincitore": "roxjcw",
+      "durata": "6h 2m",
+      "puntateTotali": "2550",
+      "paid_bids": "0",
+      "free_bids": "2550"
+    },
+    {
+      "idAsta": "97076993",
+      "prezzo": "6.02",
+      "vincitore": "foliendro3",
+      "durata": "1h 0m",
+      "puntateTotali": "90",
+      "paid_bids": "40",
+      "free_bids": "50"
+    },
+    {
+      "idAsta": "97096766",
+      "prezzo": "1.74",
+      "vincitore": "minatessi",
+      "durata": "18m",
+      "puntateTotali": "45",
+      "paid_bids": "0",
+      "free_bids": "45"
+    },
+    {
+      "idAsta": "97208313",
+      "prezzo": "3.39",
+      "vincitore": "silvio388",
+      "durata": "24m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "97343837",
+      "prezzo": "8.73",
+      "vincitore": "navarrino",
+      "durata": "1h 1m",
+      "puntateTotali": "302",
+      "paid_bids": "0",
+      "free_bids": "302"
+    },
+    {
+      "idAsta": "97344803",
+      "prezzo": "29.81",
+      "vincitore": "gineari",
+      "durata": "4h 55m",
+      "puntateTotali": "720",
+      "paid_bids": "166",
+      "free_bids": "554"
+    }
+  ]
+}

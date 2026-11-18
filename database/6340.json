@@ -1,0 +1,33 @@
+{
+  "id": "6340",
+  "title": "Galaxy S10 128 Gb",
+  "records": [
+    {
+      "idAsta": "9021296",
+      "prezzo": "96.58",
+      "vincitore": "marapalta",
+      "durata": "8h 37m",
+      "puntateTotali": "1618",
+      "paid_bids": "0",
+      "free_bids": "1618"
+    },
+    {
+      "idAsta": "9021295",
+      "prezzo": "222.92",
+      "vincitore": "hockeytool",
+      "durata": "20h 10m",
+      "puntateTotali": "644",
+      "paid_bids": "529",
+      "free_bids": "115"
+    },
+    {
+      "idAsta": "9021294",
+      "prezzo": "51.51",
+      "vincitore": "radicalstaithes",
+      "durata": "8h 12m",
+      "puntateTotali": "1888",
+      "paid_bids": "74",
+      "free_bids": "1814"
+    }
+  ]
+}

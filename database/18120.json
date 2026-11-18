@@ -1,0 +1,24 @@
+{
+  "id": "18120",
+  "title": "EA SPORTS UFC 5",
+  "records": [
+    {
+      "idAsta": "97015703",
+      "prezzo": "0.65",
+      "vincitore": "sele3040",
+      "durata": "3m",
+      "puntateTotali": "32",
+      "paid_bids": "0",
+      "free_bids": "32"
+    },
+    {
+      "idAsta": "97208370",
+      "prezzo": "0.30",
+      "vincitore": "marinatu4",
+      "durata": "1m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    }
+  ]
+}

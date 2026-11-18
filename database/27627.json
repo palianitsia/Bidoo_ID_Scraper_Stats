@@ -1,0 +1,42 @@
+{
+  "id": "27627",
+  "title": "Stanley Idropulitrice",
+  "records": [
+    {
+      "idAsta": "97045075",
+      "prezzo": "31.78",
+      "vincitore": "solerot93",
+      "durata": "5h 17m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    },
+    {
+      "idAsta": "97284108",
+      "prezzo": "49.46",
+      "vincitore": "mekola83",
+      "durata": "7h 58m",
+      "puntateTotali": "115",
+      "paid_bids": "0",
+      "free_bids": "115"
+    },
+    {
+      "idAsta": "97400703",
+      "prezzo": "90.59",
+      "vincitore": "obsidian29",
+      "durata": "15h 18m",
+      "puntateTotali": "168",
+      "paid_bids": "0",
+      "free_bids": "168"
+    },
+    {
+      "idAsta": "97400742",
+      "prezzo": "4.86",
+      "vincitore": "mitriolli",
+      "durata": "33m",
+      "puntateTotali": "37",
+      "paid_bids": "14",
+      "free_bids": "23"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "26645",
+  "title": "Galaxy S26 512GB",
+  "records": [
+    {
+      "idAsta": "97138998",
+      "prezzo": "165.72",
+      "vincitore": "andecorsi",
+      "durata": "28h 11m",
+      "puntateTotali": "411",
+      "paid_bids": "0",
+      "free_bids": "411"
+    },
+    {
+      "idAsta": "97486656",
+      "prezzo": "293.59",
+      "vincitore": "ottrud",
+      "durata": "65h 49m",
+      "puntateTotali": "250",
+      "paid_bids": "0",
+      "free_bids": "250"
+    },
+    {
+      "idAsta": "97486658",
+      "prezzo": "125.40",
+      "vincitore": "tuffello49",
+      "durata": "14h 11m",
+      "puntateTotali": "5938",
+      "paid_bids": "474",
+      "free_bids": "5464"
+    },
+    {
+      "idAsta": "97486657",
+      "prezzo": "135.51",
+      "vincitore": "steposium",
+      "durata": "22h 45m",
+      "puntateTotali": "756",
+      "paid_bids": "0",
+      "free_bids": "756"
+    }
+  ]
+}

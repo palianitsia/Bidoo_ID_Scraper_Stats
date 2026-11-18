@@ -1,0 +1,24 @@
+{
+  "id": "27249",
+  "title": "Havaianas Top Unisex Black",
+  "records": [
+    {
+      "idAsta": "97436337",
+      "prezzo": "0.43",
+      "vincitore": "coei430",
+      "durata": "3m",
+      "puntateTotali": "21",
+      "paid_bids": "11",
+      "free_bids": "10"
+    },
+    {
+      "idAsta": "97436473",
+      "prezzo": "1.50",
+      "vincitore": "fogliando",
+      "durata": "10m",
+      "puntateTotali": "22",
+      "paid_bids": "0",
+      "free_bids": "22"
+    }
+  ]
+}

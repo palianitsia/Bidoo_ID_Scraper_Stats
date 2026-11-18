@@ -1,0 +1,27 @@
+{
+  "id": "24095",
+  "title": "Mario Kart World",
+  "records": [
+    {
+      "idAsta": "100993503",
+      "prezzo": "26.32",
+      "vincitore": "usaialfe",
+      "durata": "2h 13m",
+      "puntateTotali": "35"
+    },
+    {
+      "idAsta": "100993453",
+      "prezzo": "8.49",
+      "vincitore": "canterano1",
+      "durata": "40m",
+      "puntateTotali": "383"
+    },
+    {
+      "idAsta": "100201436",
+      "prezzo": "14.82",
+      "vincitore": "danielefaggi",
+      "durata": "1h 19m",
+      "puntateTotali": "16"
+    }
+  ]
+}

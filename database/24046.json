@@ -1,0 +1,87 @@
+{
+  "id": "24046",
+  "title": "Nintendo Switch 2",
+  "records": [
+    {
+      "idAsta": "97015691",
+      "prezzo": "78.48",
+      "vincitore": "giorgiafrisi",
+      "durata": "13h 13m",
+      "puntateTotali": "3818",
+      "paid_bids": "2967",
+      "free_bids": "851"
+    },
+    {
+      "idAsta": "97015770",
+      "prezzo": "109.72",
+      "vincitore": "draykos",
+      "durata": "12h 22m",
+      "puntateTotali": "5173",
+      "paid_bids": "2295",
+      "free_bids": "2878"
+    },
+    {
+      "idAsta": "97025725",
+      "prezzo": "130.05",
+      "vincitore": "marimaffei",
+      "durata": "21h 50m",
+      "puntateTotali": "492",
+      "paid_bids": "206",
+      "free_bids": "286"
+    },
+    {
+      "idAsta": "97167763",
+      "prezzo": "142.57",
+      "vincitore": "avvmiriadi",
+      "durata": "23h 54m",
+      "puntateTotali": "3511",
+      "paid_bids": "1647",
+      "free_bids": "1864"
+    },
+    {
+      "idAsta": "97208358",
+      "prezzo": "182.47",
+      "vincitore": "sofir94",
+      "durata": "30h 43m",
+      "puntateTotali": "74",
+      "paid_bids": "0",
+      "free_bids": "74"
+    },
+    {
+      "idAsta": "97208407",
+      "prezzo": "66.76",
+      "vincitore": "napolimex",
+      "durata": "7h 22m",
+      "puntateTotali": "291",
+      "paid_bids": "0",
+      "free_bids": "291"
+    },
+    {
+      "idAsta": "97381836",
+      "prezzo": "43.78",
+      "vincitore": "miktire9",
+      "durata": "7h 19m",
+      "puntateTotali": "1981",
+      "paid_bids": "339",
+      "free_bids": "1642"
+    },
+    {
+      "idAsta": "97426811",
+      "prezzo": "108.84",
+      "vincitore": "mauliccia22",
+      "durata": "18h 18m",
+      "puntateTotali": "4286",
+      "paid_bids": "642",
+      "free_bids": "3644"
+    },
+    {
+      "idAsta": "97501069",
+      "prezzo": "122.84",
+      "vincitore": "kingpaul2",
+      "durata": "20h 41m",
+      "puntateTotali": "5222",
+      "paid_bids": "2434",
+      "free_bids": "2788"
+    }
+  ]
+}

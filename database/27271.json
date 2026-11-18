@@ -1,0 +1,24 @@
+{
+  "id": "27271",
+  "title": "XIAOMI 17T 12+256GB",
+  "records": [
+    {
+      "idAsta": "97139009",
+      "prezzo": "75.15",
+      "vincitore": "finoles",
+      "durata": "12h 47m",
+      "puntateTotali": "3474",
+      "paid_bids": "58",
+      "free_bids": "3416"
+    },
+    {
+      "idAsta": "97381331",
+      "prezzo": "175.36",
+      "vincitore": "matriorli3",
+      "durata": "30h 0m",
+      "puntateTotali": "95",
+      "paid_bids": "0",
+      "free_bids": "95"
+    }
+  ]
+}

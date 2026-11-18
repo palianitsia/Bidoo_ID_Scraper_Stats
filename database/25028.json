@@ -1,0 +1,24 @@
+{
+  "id": "25028",
+  "title": "Google Pixel Watch 4 41mm LTE",
+  "records": [
+    {
+      "idAsta": "97097339",
+      "prezzo": "119.84",
+      "vincitore": "supermario3",
+      "durata": "20h 39m",
+      "puntateTotali": "55",
+      "paid_bids": "0",
+      "free_bids": "55"
+    },
+    {
+      "idAsta": "97344703",
+      "prezzo": "44.96",
+      "vincitore": "potoee0d0",
+      "durata": "7h 40m",
+      "puntateTotali": "2244",
+      "paid_bids": "2092",
+      "free_bids": "152"
+    }
+  ]
+}

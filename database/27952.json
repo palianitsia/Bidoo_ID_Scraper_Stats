@@ -1,0 +1,41 @@
+{
+  "id": "27952",
+  "title": "Lego Harry Potter Ministero della Magia",
+  "records": [
+    {
+      "idAsta": "101333437",
+      "prezzo": "65.79",
+      "vincitore": "matinano",
+      "durata": "11h 15m",
+      "puntateTotali": "2932"
+    },
+    {
+      "idAsta": "100851600",
+      "prezzo": "5.01",
+      "vincitore": "vtln93",
+      "durata": "50m",
+      "puntateTotali": "247"
+    },
+    {
+      "idAsta": "100302105",
+      "prezzo": "161.66",
+      "vincitore": "gabriozzi",
+      "durata": "27h 34m",
+      "puntateTotali": "35"
+    },
+    {
+      "idAsta": "99985064",
+      "prezzo": "230.10",
+      "vincitore": "enzoscan",
+      "durata": "38h 54m",
+      "puntateTotali": "35"
+    },
+    {
+      "idAsta": "101941687",
+      "prezzo": "28.50",
+      "vincitore": "renamiele",
+      "durata": "4h 56m",
+      "puntateTotali": "1102"
+    }
+  ]
+}

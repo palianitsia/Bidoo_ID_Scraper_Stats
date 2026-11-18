@@ -1,0 +1,24 @@
+{
+  "id": "7492",
+  "title": "Diadora tapis roulant",
+  "records": [
+    {
+      "idAsta": "9020648",
+      "prezzo": "40.86",
+      "vincitore": "queendraf",
+      "durata": "9h 46m",
+      "puntateTotali": "1628",
+      "paid_bids": "253",
+      "free_bids": "1375"
+    },
+    {
+      "idAsta": "9078148",
+      "prezzo": "17.32",
+      "vincitore": "frollax",
+      "durata": "5h 54m",
+      "puntateTotali": "656",
+      "paid_bids": "72",
+      "free_bids": "584"
+    }
+  ]
+}

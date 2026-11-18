@@ -1,0 +1,42 @@
+{
+  "id": "27063",
+  "title": "Bose QuietComfort Ultra (2ª Gen)",
+  "records": [
+    {
+      "idAsta": "97280891",
+      "prezzo": "45.34",
+      "vincitore": "inkiostra9",
+      "durata": "5h 22m",
+      "puntateTotali": "1961",
+      "paid_bids": "0",
+      "free_bids": "1961"
+    },
+    {
+      "idAsta": "97329366",
+      "prezzo": "67.69",
+      "vincitore": "sontideio38",
+      "durata": "5h 54m",
+      "puntateTotali": "3277",
+      "paid_bids": "301",
+      "free_bids": "2976"
+    },
+    {
+      "idAsta": "97329367",
+      "prezzo": "31.70",
+      "vincitore": "reuma394",
+      "durata": "3h 40m",
+      "puntateTotali": "1529",
+      "paid_bids": "0",
+      "free_bids": "1529"
+    },
+    {
+      "idAsta": "97329368",
+      "prezzo": "54.28",
+      "vincitore": "fedemunis",
+      "durata": "9h 8m",
+      "puntateTotali": "74",
+      "paid_bids": "0",
+      "free_bids": "74"
+    }
+  ]
+}

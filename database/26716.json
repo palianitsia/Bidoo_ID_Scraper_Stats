@@ -1,0 +1,24 @@
+{
+  "id": "26716",
+  "title": "MacBook Neo 13\" 256GB",
+  "records": [
+    {
+      "idAsta": "97263007",
+      "prezzo": "104.00",
+      "vincitore": "marina1985428",
+      "durata": "11h 53m",
+      "puntateTotali": "5056",
+      "paid_bids": "455",
+      "free_bids": "4601"
+    },
+    {
+      "idAsta": "97432751",
+      "prezzo": "105.71",
+      "vincitore": "sbarbina33",
+      "durata": "17h 50m",
+      "puntateTotali": "44",
+      "paid_bids": "0",
+      "free_bids": "44"
+    }
+  ]
+}

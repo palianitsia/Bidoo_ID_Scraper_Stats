@@ -1,0 +1,42 @@
+{
+  "id": "19417",
+  "title": "Spremiagrumi Elettrico 1L Nero",
+  "records": [
+    {
+      "idAsta": "97205153",
+      "prezzo": "0.33",
+      "vincitore": "pentadem3",
+      "durata": "1m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    },
+    {
+      "idAsta": "97205203",
+      "prezzo": "0.26",
+      "vincitore": "scisci81",
+      "durata": "1m",
+      "puntateTotali": "5",
+      "paid_bids": "0",
+      "free_bids": "5"
+    },
+    {
+      "idAsta": "97205248",
+      "prezzo": "0.85",
+      "vincitore": "mrkieur",
+      "durata": "3m",
+      "puntateTotali": "38",
+      "paid_bids": "0",
+      "free_bids": "38"
+    },
+    {
+      "idAsta": "97205343",
+      "prezzo": "0.39",
+      "vincitore": "tricarica",
+      "durata": "2m",
+      "puntateTotali": "19",
+      "paid_bids": "0",
+      "free_bids": "19"
+    }
+  ]
+}

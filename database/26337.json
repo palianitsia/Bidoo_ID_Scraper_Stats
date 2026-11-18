@@ -1,0 +1,24 @@
+{
+  "id": "26337",
+  "title": "NutriChef Batteria in Ceramica 18 Pezzi",
+  "records": [
+    {
+      "idAsta": "97343875",
+      "prezzo": "6.24",
+      "vincitore": "giullare945",
+      "durata": "42m",
+      "puntateTotali": "64",
+      "paid_bids": "0",
+      "free_bids": "64"
+    },
+    {
+      "idAsta": "97343854",
+      "prezzo": "6.05",
+      "vincitore": "leone1091",
+      "durata": "42m",
+      "puntateTotali": "30",
+      "paid_bids": "0",
+      "free_bids": "30"
+    }
+  ]
+}

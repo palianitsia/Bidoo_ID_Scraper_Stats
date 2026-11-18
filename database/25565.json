@@ -1,0 +1,33 @@
+{
+  "id": "25565",
+  "title": "Creed Millesime Imperial EDP Unisex",
+  "records": [
+    {
+      "idAsta": "97044928",
+      "prezzo": "27.68",
+      "vincitore": "mistergoo",
+      "durata": "4h 37m",
+      "puntateTotali": "1204",
+      "paid_bids": "168",
+      "free_bids": "1036"
+    },
+    {
+      "idAsta": "97222688",
+      "prezzo": "11.43",
+      "vincitore": "fabiov123456789",
+      "durata": "1h 54m",
+      "puntateTotali": "539",
+      "paid_bids": "90",
+      "free_bids": "449"
+    },
+    {
+      "idAsta": "97284032",
+      "prezzo": "8.49",
+      "vincitore": "nilosartos",
+      "durata": "1h 25m",
+      "puntateTotali": "261",
+      "paid_bids": "0",
+      "free_bids": "261"
+    }
+  ]
+}

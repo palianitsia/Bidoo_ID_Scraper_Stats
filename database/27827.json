@@ -1,0 +1,48 @@
+{
+  "id": "27827",
+  "title": "Sedia da Scrivania Computer",
+  "records": [
+    {
+      "idAsta": "101766120",
+      "prezzo": "74.50",
+      "vincitore": "elegrembo",
+      "durata": "12h 59m",
+      "puntateTotali": "12"
+    },
+    {
+      "idAsta": "101537098",
+      "prezzo": "39.51",
+      "vincitore": "iacoram",
+      "durata": "6h 34m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "101330593",
+      "prezzo": "8.53",
+      "vincitore": "bsmalmostoso",
+      "durata": "1h 25m",
+      "puntateTotali": "353"
+    },
+    {
+      "idAsta": "101294879",
+      "prezzo": "23.95",
+      "vincitore": "isibrillo",
+      "durata": "4h 3m",
+      "puntateTotali": "98"
+    },
+    {
+      "idAsta": "100815683",
+      "prezzo": "44.81",
+      "vincitore": "elmobuio",
+      "durata": "7h 11m",
+      "puntateTotali": "177"
+    },
+    {
+      "idAsta": "100329185",
+      "prezzo": "11.26",
+      "vincitore": "flavigora",
+      "durata": "1h 53m",
+      "puntateTotali": "34"
+    }
+  ]
+}

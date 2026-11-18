@@ -1,0 +1,62 @@
+{
+  "id": "28110",
+  "title": "Box Robobeauty",
+  "records": [
+    {
+      "idAsta": "101676838",
+      "prezzo": "33.76",
+      "vincitore": "fregonebrocco",
+      "durata": "4h 15m",
+      "puntateTotali": "10"
+    },
+    {
+      "idAsta": "101430571",
+      "prezzo": "25.94",
+      "vincitore": "brunamura",
+      "durata": "2h 54m",
+      "puntateTotali": "6"
+    },
+    {
+      "idAsta": "101073651",
+      "prezzo": "41.95",
+      "vincitore": "rinapece",
+      "durata": "4h 45m",
+      "puntateTotali": "64"
+    },
+    {
+      "idAsta": "100852580",
+      "prezzo": "50.64",
+      "vincitore": "achitrota",
+      "durata": "5h 56m",
+      "puntateTotali": "2479"
+    },
+    {
+      "idAsta": "100799314",
+      "prezzo": "27.30",
+      "vincitore": "gii96",
+      "durata": "3h 13m",
+      "puntateTotali": "920"
+    },
+    {
+      "idAsta": "100546040",
+      "prezzo": "51.62",
+      "vincitore": "lucianaurel",
+      "durata": "5h 59m",
+      "puntateTotali": "8"
+    },
+    {
+      "idAsta": "100265783",
+      "prezzo": "8.32",
+      "vincitore": "bezu22",
+      "durata": "55m",
+      "puntateTotali": "3"
+    },
+    {
+      "idAsta": "101863433",
+      "prezzo": "29.85",
+      "vincitore": "camibonusi",
+      "durata": "3h 20m",
+      "puntateTotali": "1428"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5594",
+  "title": "Huawei Mediapad T5",
+  "records": [
+    {
+      "idAsta": "9021266",
+      "prezzo": "34.15",
+      "vincitore": "rr77",
+      "durata": "6h 44m",
+      "puntateTotali": "1571",
+      "paid_bids": "646",
+      "free_bids": "925"
+    },
+    {
+      "idAsta": "9021265",
+      "prezzo": "64.31",
+      "vincitore": "shovelshook",
+      "durata": "4h 20m",
+      "puntateTotali": "831",
+      "paid_bids": "287",
+      "free_bids": "544"
+    },
+    {
+      "idAsta": "9021264",
+      "prezzo": "48.46",
+      "vincitore": "lella3005",
+      "durata": "4h 30m",
+      "puntateTotali": "826",
+      "paid_bids": "415",
+      "free_bids": "411"
+    },
+    {
+      "idAsta": "9052515",
+      "prezzo": "9.66",
+      "vincitore": "briassone",
+      "durata": "1h 16m",
+      "puntateTotali": "219",
+      "paid_bids": "26",
+      "free_bids": "193"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "28283",
+  "title": "Ard Al Zaafaran Gift Set 3 Pezzi",
+  "records": [
+    {
+      "idAsta": "101395105",
+      "prezzo": "191.92",
+      "vincitore": "bunbum",
+      "durata": "21h 46m",
+      "puntateTotali": "38"
+    },
+    {
+      "idAsta": "101395026",
+      "prezzo": "52.11",
+      "vincitore": "vendraspaldi",
+      "durata": "5h 55m",
+      "puntateTotali": "2543"
+    },
+    {
+      "idAsta": "101395071",
+      "prezzo": "29.39",
+      "vincitore": "rudisasso",
+      "durata": "3h 23m",
+      "puntateTotali": "1414"
+    }
+  ]
+}

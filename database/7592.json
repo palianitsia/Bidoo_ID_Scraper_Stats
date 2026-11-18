@@ -1,0 +1,42 @@
+{
+  "id": "7592",
+  "title": "Nintendo Switch Lite",
+  "records": [
+    {
+      "idAsta": "9022052",
+      "prezzo": "70.44",
+      "vincitore": "tispiezzoin2",
+      "durata": "6h 14m",
+      "puntateTotali": "237",
+      "paid_bids": "46",
+      "free_bids": "191"
+    },
+    {
+      "idAsta": "9082459",
+      "prezzo": "18.97",
+      "vincitore": "1due1",
+      "durata": "2h 9m",
+      "puntateTotali": "299",
+      "paid_bids": "0",
+      "free_bids": "299"
+    },
+    {
+      "idAsta": "97015760",
+      "prezzo": "19.93",
+      "vincitore": "marengo940",
+      "durata": "3h 23m",
+      "puntateTotali": "946",
+      "paid_bids": "0",
+      "free_bids": "946"
+    },
+    {
+      "idAsta": "97208397",
+      "prezzo": "48.86",
+      "vincitore": "scimmietta87",
+      "durata": "8h 8m",
+      "puntateTotali": "2258",
+      "paid_bids": "475",
+      "free_bids": "1783"
+    }
+  ]
+}

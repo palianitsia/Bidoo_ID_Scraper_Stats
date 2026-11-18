@@ -1,0 +1,27 @@
+{
+  "id": "28142",
+  "title": "LG OLED C6 55\"",
+  "records": [
+    {
+      "idAsta": "101294940",
+      "prezzo": "241.47",
+      "vincitore": "fabsasso",
+      "durata": "40h 33m",
+      "puntateTotali": "6746"
+    },
+    {
+      "idAsta": "100974356",
+      "prezzo": "635.61",
+      "vincitore": "aqui64",
+      "durata": "106h 54m",
+      "puntateTotali": "19127"
+    },
+    {
+      "idAsta": "100505260",
+      "prezzo": "725.20",
+      "vincitore": "marcvibe",
+      "durata": "121h 53m",
+      "puntateTotali": "1793"
+    }
+  ]
+}

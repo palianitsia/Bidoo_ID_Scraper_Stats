@@ -1,0 +1,15 @@
+{
+  "id": "7595",
+  "title": "Panca Adidas",
+  "records": [
+    {
+      "idAsta": "9078171",
+      "prezzo": "3.15",
+      "vincitore": "carrambano",
+      "durata": "21m",
+      "puntateTotali": "77",
+      "paid_bids": "35",
+      "free_bids": "42"
+    }
+  ]
+}

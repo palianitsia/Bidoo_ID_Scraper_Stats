@@ -1,0 +1,34 @@
+{
+  "id": "27963",
+  "title": "Hasbro Marvel Spider‐Man Venom",
+  "records": [
+    {
+      "idAsta": "101333434",
+      "prezzo": "0.83",
+      "vincitore": "tanoghiro",
+      "durata": "5m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "100851598",
+      "prezzo": "0.63",
+      "vincitore": "cosmroccia",
+      "durata": "4m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "100302102",
+      "prezzo": "0.62",
+      "vincitore": "steffassi",
+      "durata": "3m",
+      "puntateTotali": "15"
+    },
+    {
+      "idAsta": "101941685",
+      "prezzo": "0.63",
+      "vincitore": "enzpala",
+      "durata": "4m",
+      "puntateTotali": "26"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "26886",
+  "title": "AirPods Max 2",
+  "records": [
+    {
+      "idAsta": "97223031",
+      "prezzo": "135.52",
+      "vincitore": "sameto",
+      "durata": "23h 7m",
+      "puntateTotali": "5885",
+      "paid_bids": "1607",
+      "free_bids": "4278"
+    },
+    {
+      "idAsta": "97280843",
+      "prezzo": "133.31",
+      "vincitore": "anjeboss",
+      "durata": "15h 24m",
+      "puntateTotali": "82",
+      "paid_bids": "0",
+      "free_bids": "82"
+    },
+    {
+      "idAsta": "97280890",
+      "prezzo": "75.43",
+      "vincitore": "curtifilippo",
+      "durata": "8h 43m",
+      "puntateTotali": "3696",
+      "paid_bids": "2434",
+      "free_bids": "1262"
+    },
+    {
+      "idAsta": "97329352",
+      "prezzo": "58.41",
+      "vincitore": "maricialdo",
+      "durata": "6h 47m",
+      "puntateTotali": "2884",
+      "paid_bids": "808",
+      "free_bids": "2076"
+    },
+    {
+      "idAsta": "97329353",
+      "prezzo": "119.68",
+      "vincitore": "fisodele",
+      "durata": "20h 13m",
+      "puntateTotali": "348",
+      "paid_bids": "0",
+      "free_bids": "348"
+    },
+    {
+      "idAsta": "97329351",
+      "prezzo": "111.26",
+      "vincitore": "sophiarom",
+      "durata": "9h 40m",
+      "puntateTotali": "224",
+      "paid_bids": "0",
+      "free_bids": "224"
+    },
+    {
+      "idAsta": "97373724",
+      "prezzo": "92.75",
+      "vincitore": "antonellone1",
+      "durata": "15h 50m",
+      "puntateTotali": "4362",
+      "paid_bids": "581",
+      "free_bids": "3781"
+    },
+    {
+      "idAsta": "97373727",
+      "prezzo": "75.39",
+      "vincitore": "skaska93",
+      "durata": "8h 29m",
+      "puntateTotali": "3518",
+      "paid_bids": "324",
+      "free_bids": "3194"
+    },
+    {
+      "idAsta": "97373720",
+      "prezzo": "100.70",
+      "vincitore": "aldoerdiongi",
+      "durata": "22h 39m",
+      "puntateTotali": "4993",
+      "paid_bids": "1351",
+      "free_bids": "3642"
+    },
+    {
+      "idAsta": "97456267",
+      "prezzo": "106.83",
+      "vincitore": "rogerknos",
+      "durata": "18h 8m",
+      "puntateTotali": "5232",
+      "paid_bids": "0",
+      "free_bids": "5232"
+    }
+  ]
+}

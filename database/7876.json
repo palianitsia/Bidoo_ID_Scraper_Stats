@@ -1,0 +1,42 @@
+{
+  "id": "7876",
+  "title": "Set decori pink 42pz",
+  "records": [
+    {
+      "idAsta": "9025113",
+      "prezzo": "1.22",
+      "vincitore": "annibalex",
+      "durata": "11m",
+      "puntateTotali": "38",
+      "paid_bids": "0",
+      "free_bids": "38"
+    },
+    {
+      "idAsta": "9045451",
+      "prezzo": "3.55",
+      "vincitore": "startito",
+      "durata": "35m",
+      "puntateTotali": "66",
+      "paid_bids": "0",
+      "free_bids": "66"
+    },
+    {
+      "idAsta": "9066298",
+      "prezzo": "3.26",
+      "vincitore": "giusinaa",
+      "durata": "20m",
+      "puntateTotali": "161",
+      "paid_bids": "0",
+      "free_bids": "161"
+    },
+    {
+      "idAsta": "9086509",
+      "prezzo": "1.41",
+      "vincitore": "purgeclackamas",
+      "durata": "13m",
+      "puntateTotali": "67",
+      "paid_bids": "0",
+      "free_bids": "67"
+    }
+  ]
+}

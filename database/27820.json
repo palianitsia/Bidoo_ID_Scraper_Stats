@@ -1,0 +1,62 @@
+{
+  "id": "27820",
+  "title": "LEGO One Piece Castello di Drum",
+  "records": [
+    {
+      "idAsta": "101073625",
+      "prezzo": "24.49",
+      "vincitore": "gegezolla",
+      "durata": "2h 55m",
+      "puntateTotali": "36"
+    },
+    {
+      "idAsta": "100852536",
+      "prezzo": "11.42",
+      "vincitore": "lieroso",
+      "durata": "1h 21m",
+      "puntateTotali": "46"
+    },
+    {
+      "idAsta": "100546014",
+      "prezzo": "14.44",
+      "vincitore": "ludovampa",
+      "durata": "1h 38m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "100546063",
+      "prezzo": "12.42",
+      "vincitore": "zigliotto",
+      "durata": "1h 26m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "99985054",
+      "prezzo": "66.66",
+      "vincitore": "buongustai",
+      "durata": "11h 28m",
+      "puntateTotali": "999"
+    },
+    {
+      "idAsta": "101863456",
+      "prezzo": "13.37",
+      "vincitore": "cavaturac",
+      "durata": "1h 34m",
+      "puntateTotali": "75"
+    },
+    {
+      "idAsta": "101863407",
+      "prezzo": "12.28",
+      "vincitore": "adazolla",
+      "durata": "1h 25m",
+      "puntateTotali": "156"
+    },
+    {
+      "idAsta": "101941677",
+      "prezzo": "26.07",
+      "vincitore": "verareplay",
+      "durata": "4h 16m",
+      "puntateTotali": "495"
+    }
+  ]
+}

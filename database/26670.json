@@ -1,0 +1,33 @@
+{
+  "id": "26670",
+  "title": "Xiaomi 17 12+256GB",
+  "records": [
+    {
+      "idAsta": "97105009",
+      "prezzo": "81.58",
+      "vincitore": "koleurt8",
+      "durata": "9h 17m",
+      "puntateTotali": "3943",
+      "paid_bids": "854",
+      "free_bids": "3089"
+    },
+    {
+      "idAsta": "97381339",
+      "prezzo": "147.52",
+      "vincitore": "tancavilla2",
+      "durata": "25h 19m",
+      "puntateTotali": "7307",
+      "paid_bids": "0",
+      "free_bids": "7307"
+    },
+    {
+      "idAsta": "97494908",
+      "prezzo": "100.82",
+      "vincitore": "jaymoss",
+      "durata": "11h 27m",
+      "puntateTotali": "706",
+      "paid_bids": "0",
+      "free_bids": "706"
+    }
+  ]
+}

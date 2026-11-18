@@ -1,0 +1,27 @@
+{
+  "id": "27904",
+  "title": "Cartier Panthère Graphique Nano",
+  "records": [
+    {
+      "idAsta": "101449390",
+      "prezzo": "420.36",
+      "vincitore": "tassiorfe",
+      "durata": "72h 7m",
+      "puntateTotali": "373"
+    },
+    {
+      "idAsta": "100379963",
+      "prezzo": "244.21",
+      "vincitore": "bellafio",
+      "durata": "41h 26m",
+      "puntateTotali": "8880"
+    },
+    {
+      "idAsta": "99973957",
+      "prezzo": "514.10",
+      "vincitore": "pietradante",
+      "durata": "87h 10m",
+      "puntateTotali": "20064"
+    }
+  ]
+}

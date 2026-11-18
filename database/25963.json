@@ -1,0 +1,41 @@
+{
+  "id": "25963",
+  "title": "Palline di Natale Harry Potter 4 Pezzi",
+  "records": [
+    {
+      "idAsta": "101069933",
+      "prezzo": "0.14",
+      "vincitore": "pozzocenere",
+      "durata": "1m",
+      "puntateTotali": "7"
+    },
+    {
+      "idAsta": "101069883",
+      "prezzo": "0.21",
+      "vincitore": "vitostia",
+      "durata": "1m",
+      "puntateTotali": "10"
+    },
+    {
+      "idAsta": "100608158",
+      "prezzo": "0.15",
+      "vincitore": "elitigre",
+      "durata": "1m",
+      "puntateTotali": "7"
+    },
+    {
+      "idAsta": "100556969",
+      "prezzo": "3.24",
+      "vincitore": "yarirush",
+      "durata": "15m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "100557262",
+      "prezzo": "0.73",
+      "vincitore": "19paolo76",
+      "durata": "3m",
+      "puntateTotali": "8"
+    }
+  ]
+}

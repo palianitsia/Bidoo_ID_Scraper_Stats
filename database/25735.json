@@ -1,0 +1,33 @@
+{
+  "id": "25735",
+  "title": "Hyrule Warriors: L'era dell'esilio",
+  "records": [
+    {
+      "idAsta": "97015749",
+      "prezzo": "1.19",
+      "vincitore": "lefrei39",
+      "durata": "9m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    },
+    {
+      "idAsta": "97208390",
+      "prezzo": "1.67",
+      "vincitore": "karla77",
+      "durata": "12m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    },
+    {
+      "idAsta": "97458710",
+      "prezzo": "1.65",
+      "vincitore": "maffarello",
+      "durata": "17m",
+      "puntateTotali": "26",
+      "paid_bids": "0",
+      "free_bids": "26"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "28179",
+  "title": "Alexa Tablet 11 8‐64 GB 11\"",
+  "records": [
+    {
+      "idAsta": "101575351",
+      "prezzo": "74.58",
+      "vincitore": "manuspada",
+      "durata": "8h 37m",
+      "puntateTotali": "83"
+    },
+    {
+      "idAsta": "101172171",
+      "prezzo": "49.16",
+      "vincitore": "berncalmo",
+      "durata": "5h 44m",
+      "puntateTotali": "2429"
+    },
+    {
+      "idAsta": "100945323",
+      "prezzo": "59.50",
+      "vincitore": "rinogufo",
+      "durata": "6h 46m",
+      "puntateTotali": "2934"
+    },
+    {
+      "idAsta": "101981933",
+      "prezzo": "53.20",
+      "vincitore": "ulisudore",
+      "durata": "5h 3m",
+      "puntateTotali": "2152"
+    }
+  ]
+}

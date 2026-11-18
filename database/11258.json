@@ -1,0 +1,33 @@
+{
+  "id": "11258",
+  "title": "Peg Perego Seggiolone Tatamia",
+  "records": [
+    {
+      "idAsta": "97435933",
+      "prezzo": "6.05",
+      "vincitore": "asbudelio",
+      "durata": "1h 2m",
+      "puntateTotali": "301",
+      "paid_bids": "0",
+      "free_bids": "301"
+    },
+    {
+      "idAsta": "97456307",
+      "prezzo": "36.97",
+      "vincitore": "maskut39",
+      "durata": "6h 9m",
+      "puntateTotali": "1261",
+      "paid_bids": "0",
+      "free_bids": "1261"
+    },
+    {
+      "idAsta": "97489437",
+      "prezzo": "11.53",
+      "vincitore": "martakoi",
+      "durata": "1h 58m",
+      "puntateTotali": "450",
+      "paid_bids": "0",
+      "free_bids": "450"
+    }
+  ]
+}

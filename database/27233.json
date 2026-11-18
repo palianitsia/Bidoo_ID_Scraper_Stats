@@ -1,0 +1,33 @@
+{
+  "id": "27233",
+  "title": "Piscina Bestway Fast Set 366 x 76 cm",
+  "records": [
+    {
+      "idAsta": "97213786",
+      "prezzo": "2.34",
+      "vincitore": "martaclx",
+      "durata": "24m",
+      "puntateTotali": "10",
+      "paid_bids": "0",
+      "free_bids": "10"
+    },
+    {
+      "idAsta": "97396800",
+      "prezzo": "24.50",
+      "vincitore": "sbendofoli9",
+      "durata": "3h 50m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    },
+    {
+      "idAsta": "97449448",
+      "prezzo": "1.36",
+      "vincitore": "giakkalbo",
+      "durata": "14m",
+      "puntateTotali": "13",
+      "paid_bids": "0",
+      "free_bids": "13"
+    }
+  ]
+}

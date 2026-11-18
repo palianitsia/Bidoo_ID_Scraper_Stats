@@ -1,0 +1,27 @@
+{
+  "id": "24161",
+  "title": "F.lli Schiano E‐Star Elettrica",
+  "records": [
+    {
+      "idAsta": "101620914",
+      "prezzo": "127.09",
+      "vincitore": "luporotto",
+      "durata": "21h 25m",
+      "puntateTotali": "5008"
+    },
+    {
+      "idAsta": "100866801",
+      "prezzo": "153.35",
+      "vincitore": "pierosfregia",
+      "durata": "25h 55m",
+      "puntateTotali": "86"
+    },
+    {
+      "idAsta": "99920895",
+      "prezzo": "90.90",
+      "vincitore": "bonofiore",
+      "durata": "15h 27m",
+      "puntateTotali": "709"
+    }
+  ]
+}

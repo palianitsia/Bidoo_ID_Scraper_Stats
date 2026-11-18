@@ -1,0 +1,33 @@
+{
+  "id": "26343",
+  "title": "Yakuza Kiwami 3 & The Dark Ties",
+  "records": [
+    {
+      "idAsta": "97015651",
+      "prezzo": "0.94",
+      "vincitore": "magiste9",
+      "durata": "6m",
+      "puntateTotali": "16",
+      "paid_bids": "0",
+      "free_bids": "16"
+    },
+    {
+      "idAsta": "97208318",
+      "prezzo": "0.95",
+      "vincitore": "koreffru",
+      "durata": "7m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "97403886",
+      "prezzo": "1.85",
+      "vincitore": "cortis82",
+      "durata": "13m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    }
+  ]
+}

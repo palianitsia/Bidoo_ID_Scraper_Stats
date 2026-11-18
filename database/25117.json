@@ -1,0 +1,60 @@
+{
+  "id": "25117",
+  "title": "iPhone Air 512GB",
+  "records": [
+    {
+      "idAsta": "97018706",
+      "prezzo": "417.08",
+      "vincitore": "mrkortez",
+      "durata": "47h 39m",
+      "puntateTotali": "246",
+      "paid_bids": "0",
+      "free_bids": "246"
+    },
+    {
+      "idAsta": "97018702",
+      "prezzo": "299.14",
+      "vincitore": "cojjiue2",
+      "durata": "50h 53m",
+      "puntateTotali": "512",
+      "paid_bids": "0",
+      "free_bids": "512"
+    },
+    {
+      "idAsta": "97204490",
+      "prezzo": "225.75",
+      "vincitore": "forinato",
+      "durata": "25h 35m",
+      "puntateTotali": "144",
+      "paid_bids": "0",
+      "free_bids": "144"
+    },
+    {
+      "idAsta": "97324037",
+      "prezzo": "169.66",
+      "vincitore": "fsumel43",
+      "durata": "28h 50m",
+      "puntateTotali": "8408",
+      "paid_bids": "464",
+      "free_bids": "7944"
+    },
+    {
+      "idAsta": "97324041",
+      "prezzo": "371.57",
+      "vincitore": "jennifer857",
+      "durata": "42h 43m",
+      "puntateTotali": "876",
+      "paid_bids": "0",
+      "free_bids": "876"
+    },
+    {
+      "idAsta": "97458950",
+      "prezzo": "195.84",
+      "vincitore": "matrix8384",
+      "durata": "32h 56m",
+      "puntateTotali": "8823",
+      "paid_bids": "246",
+      "free_bids": "8577"
+    }
+  ]
+}

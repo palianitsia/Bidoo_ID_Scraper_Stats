@@ -1,0 +1,24 @@
+{
+  "id": "7862",
+  "title": "Stalattite di Natale",
+  "records": [
+    {
+      "idAsta": "9057826",
+      "prezzo": "9.89",
+      "vincitore": "snik2019",
+      "durata": "50m",
+      "puntateTotali": "293",
+      "paid_bids": "28",
+      "free_bids": "265"
+    },
+    {
+      "idAsta": "9057825",
+      "prezzo": "1.72",
+      "vincitore": "maridiaz",
+      "durata": "12m",
+      "puntateTotali": "78",
+      "paid_bids": "0",
+      "free_bids": "78"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "26105",
+  "title": "Sonos Roam 2",
+  "records": [
+    {
+      "idAsta": "97222245",
+      "prezzo": "6.57",
+      "vincitore": "ettorino94",
+      "durata": "1h 8m",
+      "puntateTotali": "320",
+      "paid_bids": "0",
+      "free_bids": "320"
+    },
+    {
+      "idAsta": "97280886",
+      "prezzo": "3.08",
+      "vincitore": "ronaldo07cr",
+      "durata": "22m",
+      "puntateTotali": "152",
+      "paid_bids": "0",
+      "free_bids": "152"
+    }
+  ]
+}

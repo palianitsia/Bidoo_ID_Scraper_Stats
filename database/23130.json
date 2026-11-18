@@ -1,0 +1,33 @@
+{
+  "id": "23130",
+  "title": "Galaxy S25+ 512GB",
+  "records": [
+    {
+      "idAsta": "97052236",
+      "prezzo": "327.32",
+      "vincitore": "serdene3",
+      "durata": "55h 47m",
+      "puntateTotali": "569",
+      "paid_bids": "312",
+      "free_bids": "257"
+    },
+    {
+      "idAsta": "97266928",
+      "prezzo": "183.48",
+      "vincitore": "novaflow",
+      "durata": "31h 1m",
+      "puntateTotali": "398",
+      "paid_bids": "0",
+      "free_bids": "398"
+    },
+    {
+      "idAsta": "97388940",
+      "prezzo": "198.23",
+      "vincitore": "charan3",
+      "durata": "33h 25m",
+      "puntateTotali": "8500",
+      "paid_bids": "1080",
+      "free_bids": "7420"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "27348",
+  "title": "Piscina idromassaggio Pure Spa 6ps",
+  "records": [
+    {
+      "idAsta": "97170552",
+      "prezzo": "79.48",
+      "vincitore": "234oboe",
+      "durata": "13h 6m",
+      "puntateTotali": "3198",
+      "paid_bids": "0",
+      "free_bids": "3198"
+    },
+    {
+      "idAsta": "97213778",
+      "prezzo": "99.24",
+      "vincitore": "samedde3ti",
+      "durata": "11h 19m",
+      "puntateTotali": "4696",
+      "paid_bids": "1328",
+      "free_bids": "3368"
+    },
+    {
+      "idAsta": "97396812",
+      "prezzo": "186.96",
+      "vincitore": "secchiona22",
+      "durata": "31h 28m",
+      "puntateTotali": "61",
+      "paid_bids": "0",
+      "free_bids": "61"
+    },
+    {
+      "idAsta": "97396792",
+      "prezzo": "110.46",
+      "vincitore": "tukkuru8",
+      "durata": "18h 36m",
+      "puntateTotali": "3295",
+      "paid_bids": "1306",
+      "free_bids": "1989"
+    },
+    {
+      "idAsta": "97436468",
+      "prezzo": "118.02",
+      "vincitore": "ugalool",
+      "durata": "13h 28m",
+      "puntateTotali": "170",
+      "paid_bids": "0",
+      "free_bids": "170"
+    },
+    {
+      "idAsta": "97449440",
+      "prezzo": "182.08",
+      "vincitore": "magrusalem",
+      "durata": "20h 44m",
+      "puntateTotali": "682",
+      "paid_bids": "544",
+      "free_bids": "138"
+    },
+    {
+      "idAsta": "97458879",
+      "prezzo": "87.62",
+      "vincitore": "fame39",
+      "durata": "14h 38m",
+      "puntateTotali": "4058",
+      "paid_bids": "1202",
+      "free_bids": "2856"
+    },
+    {
+      "idAsta": "97488430",
+      "prezzo": "101.17",
+      "vincitore": "alessandro92011",
+      "durata": "8h 53m",
+      "puntateTotali": "4860",
+      "paid_bids": "0",
+      "free_bids": "4860"
+    },
+    {
+      "idAsta": "97488352",
+      "prezzo": "125.20",
+      "vincitore": "kimangi",
+      "durata": "10h 51m",
+      "puntateTotali": "6133",
+      "paid_bids": "2736",
+      "free_bids": "3397"
+    },
+    {
+      "idAsta": "97488391",
+      "prezzo": "174.29",
+      "vincitore": "metatron48",
+      "durata": "15h 7m",
+      "puntateTotali": "106",
+      "paid_bids": "32",
+      "free_bids": "74"
+    }
+  ]
+}

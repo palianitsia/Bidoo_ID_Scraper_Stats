@@ -1,0 +1,51 @@
+{
+  "id": "5468",
+  "title": "Lame Fusion5 ProGlide",
+  "records": [
+    {
+      "idAsta": "9001377",
+      "prezzo": "1.28",
+      "vincitore": "free3nss",
+      "durata": "9m",
+      "puntateTotali": "63",
+      "paid_bids": "0",
+      "free_bids": "63"
+    },
+    {
+      "idAsta": "9025623",
+      "prezzo": "4.07",
+      "vincitore": "saprofita",
+      "durata": "41m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    },
+    {
+      "idAsta": "9045493",
+      "prezzo": "4.94",
+      "vincitore": "angelano",
+      "durata": "36m",
+      "puntateTotali": "88",
+      "paid_bids": "0",
+      "free_bids": "88"
+    },
+    {
+      "idAsta": "9066719",
+      "prezzo": "3.24",
+      "vincitore": "ilnapolista",
+      "durata": "33m",
+      "puntateTotali": "45",
+      "paid_bids": "0",
+      "free_bids": "45"
+    },
+    {
+      "idAsta": "9086985",
+      "prezzo": "3.57",
+      "vincitore": "patatina2583",
+      "durata": "32m",
+      "puntateTotali": "25",
+      "paid_bids": "0",
+      "free_bids": "25"
+    }
+  ]
+}

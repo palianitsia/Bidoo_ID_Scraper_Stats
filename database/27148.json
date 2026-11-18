@@ -1,0 +1,24 @@
+{
+  "id": "27148",
+  "title": "Lego Bici da corsa",
+  "records": [
+    {
+      "idAsta": "97045621",
+      "prezzo": "5.14",
+      "vincitore": "capalbiano",
+      "durata": "53m",
+      "puntateTotali": "101",
+      "paid_bids": "0",
+      "free_bids": "101"
+    },
+    {
+      "idAsta": "97284643",
+      "prezzo": "11.14",
+      "vincitore": "aldoerdiongi",
+      "durata": "1h 39m",
+      "puntateTotali": "122",
+      "paid_bids": "0",
+      "free_bids": "122"
+    }
+  ]
+}

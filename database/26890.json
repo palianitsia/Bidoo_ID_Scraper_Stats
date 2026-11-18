@@ -1,0 +1,24 @@
+{
+  "id": "26890",
+  "title": "Termix Evolution Plus",
+  "records": [
+    {
+      "idAsta": "97097397",
+      "prezzo": "4.23",
+      "vincitore": "balliantos03",
+      "durata": "42m",
+      "puntateTotali": "36",
+      "paid_bids": "0",
+      "free_bids": "36"
+    },
+    {
+      "idAsta": "97345357",
+      "prezzo": "1.53",
+      "vincitore": "olmira",
+      "durata": "16m",
+      "puntateTotali": "21",
+      "paid_bids": "0",
+      "free_bids": "21"
+    }
+  ]
+}

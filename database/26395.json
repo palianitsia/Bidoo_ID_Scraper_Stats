@@ -1,0 +1,24 @@
+{
+  "id": "26395",
+  "title": "Sector No Limits L.E.",
+  "records": [
+    {
+      "idAsta": "97076967",
+      "prezzo": "6.43",
+      "vincitore": "misfolica",
+      "durata": "1h 6m",
+      "puntateTotali": "7",
+      "paid_bids": "0",
+      "free_bids": "7"
+    },
+    {
+      "idAsta": "97343745",
+      "prezzo": "11.24",
+      "vincitore": "sipolici22",
+      "durata": "1h 18m",
+      "puntateTotali": "48",
+      "paid_bids": "0",
+      "free_bids": "48"
+    }
+  ]
+}

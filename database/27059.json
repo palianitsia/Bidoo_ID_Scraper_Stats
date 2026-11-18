@@ -1,0 +1,24 @@
+{
+  "id": "27059",
+  "title": "Monimoto 9 Tracker GPS",
+  "records": [
+    {
+      "idAsta": "97096315",
+      "prezzo": "2.63",
+      "vincitore": "mikistrada",
+      "durata": "28m",
+      "puntateTotali": "9",
+      "paid_bids": "4",
+      "free_bids": "5"
+    },
+    {
+      "idAsta": "97344582",
+      "prezzo": "4.96",
+      "vincitore": "gionuello",
+      "durata": "52m",
+      "puntateTotali": "61",
+      "paid_bids": "0",
+      "free_bids": "61"
+    }
+  ]
+}

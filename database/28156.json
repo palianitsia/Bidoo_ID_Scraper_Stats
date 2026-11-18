@@ -1,0 +1,27 @@
+{
+  "id": "28156",
+  "title": "Huawei Scale 3 PRO",
+  "records": [
+    {
+      "idAsta": "101537335",
+      "prezzo": "16.41",
+      "vincitore": "ugoferro",
+      "durata": "2h 44m",
+      "puntateTotali": "781"
+    },
+    {
+      "idAsta": "101766491",
+      "prezzo": "35.03",
+      "vincitore": "nivmonta",
+      "durata": "5h 48m",
+      "puntateTotali": "1492"
+    },
+    {
+      "idAsta": "100816604",
+      "prezzo": "46.06",
+      "vincitore": "isharion",
+      "durata": "7h 48m",
+      "puntateTotali": "71"
+    }
+  ]
+}

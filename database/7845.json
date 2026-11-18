@@ -1,0 +1,51 @@
+{
+  "id": "7845",
+  "title": "Albero di Natale 90 cm",
+  "records": [
+    {
+      "idAsta": "9000039",
+      "prezzo": "9.25",
+      "vincitore": "oliver15",
+      "durata": "1h 7m",
+      "puntateTotali": "179",
+      "paid_bids": "0",
+      "free_bids": "179"
+    },
+    {
+      "idAsta": "9025010",
+      "prezzo": "0.07",
+      "vincitore": "apossia",
+      "durata": "1m",
+      "puntateTotali": "3",
+      "paid_bids": "0",
+      "free_bids": "3"
+    },
+    {
+      "idAsta": "9045419",
+      "prezzo": "3.29",
+      "vincitore": "rikimikifili",
+      "durata": "27m",
+      "puntateTotali": "26",
+      "paid_bids": "13",
+      "free_bids": "13"
+    },
+    {
+      "idAsta": "9065801",
+      "prezzo": "6.09",
+      "vincitore": "gettore",
+      "durata": "49m",
+      "puntateTotali": "117",
+      "paid_bids": "30",
+      "free_bids": "87"
+    },
+    {
+      "idAsta": "9086380",
+      "prezzo": "1.83",
+      "vincitore": "charitata",
+      "durata": "16m",
+      "puntateTotali": "25",
+      "paid_bids": "12",
+      "free_bids": "13"
+    }
+  ]
+}

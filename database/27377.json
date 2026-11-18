@@ -1,0 +1,24 @@
+{
+  "id": "27377",
+  "title": "Balenciaga Borsa Le City Piccola",
+  "records": [
+    {
+      "idAsta": "97190445",
+      "prezzo": "279.98",
+      "vincitore": "brandonicchia",
+      "durata": "48h 1m",
+      "puntateTotali": "13949",
+      "paid_bids": "893",
+      "free_bids": "13056"
+    },
+    {
+      "idAsta": "97401007",
+      "prezzo": "280.00",
+      "vincitore": "forumici30",
+      "durata": "47h 55m",
+      "puntateTotali": "13893",
+      "paid_bids": "570",
+      "free_bids": "13323"
+    }
+  ]
+}

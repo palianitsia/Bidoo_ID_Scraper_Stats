@@ -1,0 +1,24 @@
+{
+  "id": "25487",
+  "title": "MacBook Pro M5 14\" 16GB/1TB",
+  "records": [
+    {
+      "idAsta": "97190476",
+      "prezzo": "169.26",
+      "vincitore": "ilisymero39",
+      "durata": "28h 19m",
+      "puntateTotali": "7786",
+      "paid_bids": "387",
+      "free_bids": "7399"
+    },
+    {
+      "idAsta": "97401108",
+      "prezzo": "270.05",
+      "vincitore": "susinka",
+      "durata": "45h 40m",
+      "puntateTotali": "447",
+      "paid_bids": "0",
+      "free_bids": "447"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "25597",
+  "title": "Philips Macchina per la Pasta",
+  "records": [
+    {
+      "idAsta": "97075783",
+      "prezzo": "31.70",
+      "vincitore": "drekma90",
+      "durata": "5h 19m",
+      "puntateTotali": "189",
+      "paid_bids": "86",
+      "free_bids": "103"
+    },
+    {
+      "idAsta": "97458881",
+      "prezzo": "44.33",
+      "vincitore": "mikonos293",
+      "durata": "7h 35m",
+      "puntateTotali": "142",
+      "paid_bids": "71",
+      "free_bids": "71"
+    }
+  ]
+}

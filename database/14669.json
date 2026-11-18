@@ -1,0 +1,51 @@
+{
+  "id": "14669",
+  "title": "Playstation VR2",
+  "records": [
+    {
+      "idAsta": "97015736",
+      "prezzo": "213.34",
+      "vincitore": "selasai9",
+      "durata": "36h 14m",
+      "puntateTotali": "3303",
+      "paid_bids": "2904",
+      "free_bids": "399"
+    },
+    {
+      "idAsta": "97018518",
+      "prezzo": "135.17",
+      "vincitore": "sj3930",
+      "durata": "22h 57m",
+      "puntateTotali": "6538",
+      "paid_bids": "2663",
+      "free_bids": "3875"
+    },
+    {
+      "idAsta": "97208386",
+      "prezzo": "114.86",
+      "vincitore": "omenemo",
+      "durata": "19h 33m",
+      "puntateTotali": "802",
+      "paid_bids": "287",
+      "free_bids": "515"
+    },
+    {
+      "idAsta": "97341975",
+      "prezzo": "194.85",
+      "vincitore": "meschiano",
+      "durata": "32h 53m",
+      "puntateTotali": "274",
+      "paid_bids": "264",
+      "free_bids": "10"
+    },
+    {
+      "idAsta": "97403864",
+      "prezzo": "106.26",
+      "vincitore": "macuna1",
+      "durata": "18h 2m",
+      "puntateTotali": "222",
+      "paid_bids": "98",
+      "free_bids": "124"
+    }
+  ]
+}

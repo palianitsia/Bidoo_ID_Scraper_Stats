@@ -1,0 +1,41 @@
+{
+  "id": "28099",
+  "title": "Bosch Aspirapolvere Lavapavimenti",
+  "records": [
+    {
+      "idAsta": "101430858",
+      "prezzo": "63.45",
+      "vincitore": "ettoorb",
+      "durata": "7h 11m",
+      "puntateTotali": "2605"
+    },
+    {
+      "idAsta": "100751029",
+      "prezzo": "49.99",
+      "vincitore": "lugubrerup",
+      "durata": "8h 23m",
+      "puntateTotali": "385"
+    },
+    {
+      "idAsta": "100445488",
+      "prezzo": "81.30",
+      "vincitore": "carbice",
+      "durata": "9h 25m",
+      "puntateTotali": "110"
+    },
+    {
+      "idAsta": "100132820",
+      "prezzo": "63.80",
+      "vincitore": "stefverba",
+      "durata": "7h 22m",
+      "puntateTotali": "2777"
+    },
+    {
+      "idAsta": "101820892",
+      "prezzo": "113.64",
+      "vincitore": "joanortel",
+      "durata": "19h 2m",
+      "puntateTotali": "60"
+    }
+  ]
+}

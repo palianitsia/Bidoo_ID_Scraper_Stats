@@ -1,0 +1,24 @@
+{
+  "id": "27504",
+  "title": "Samsonite S'Cure Spinner 138L",
+  "records": [
+    {
+      "idAsta": "97045696",
+      "prezzo": "8.77",
+      "vincitore": "leomans28",
+      "durata": "1h 29m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "97284715",
+      "prezzo": "79.71",
+      "vincitore": "acatalan",
+      "durata": "13h 39m",
+      "puntateTotali": "135",
+      "paid_bids": "22",
+      "free_bids": "113"
+    }
+  ]
+}

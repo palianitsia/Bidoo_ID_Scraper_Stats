@@ -1,0 +1,27 @@
+{
+  "id": "28254",
+  "title": "iPad mini 256GB Cellular",
+  "records": [
+    {
+      "idAsta": "101575365",
+      "prezzo": "163.95",
+      "vincitore": "rinugale",
+      "durata": "18h 28m",
+      "puntateTotali": "352"
+    },
+    {
+      "idAsta": "101172180",
+      "prezzo": "195.17",
+      "vincitore": "zoppello",
+      "durata": "22h 7m",
+      "puntateTotali": "7609"
+    },
+    {
+      "idAsta": "100945338",
+      "prezzo": "143.44",
+      "vincitore": "lupomora",
+      "durata": "16h 11m",
+      "puntateTotali": "5540"
+    }
+  ]
+}

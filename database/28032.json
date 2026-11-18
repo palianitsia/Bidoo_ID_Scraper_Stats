@@ -1,0 +1,41 @@
+{
+  "id": "28032",
+  "title": "Caleffi Completo Letto Egypt",
+  "records": [
+    {
+      "idAsta": "101396371",
+      "prezzo": "29.94",
+      "vincitore": "r1613o11m1a",
+      "durata": "4h 59m",
+      "puntateTotali": "1401"
+    },
+    {
+      "idAsta": "101396372",
+      "prezzo": "5.67",
+      "vincitore": "nicostil",
+      "durata": "19m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "100743000",
+      "prezzo": "12.77",
+      "vincitore": "egipolve",
+      "durata": "37m",
+      "puntateTotali": "112"
+    },
+    {
+      "idAsta": "100440984",
+      "prezzo": "13.72",
+      "vincitore": "fedeericca",
+      "durata": "2h 13m",
+      "puntateTotali": "152"
+    },
+    {
+      "idAsta": "100440986",
+      "prezzo": "7.27",
+      "vincitore": "adb71",
+      "durata": "31m",
+      "puntateTotali": "19"
+    }
+  ]
+}

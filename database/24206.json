@@ -1,0 +1,24 @@
+{
+  "id": "24206",
+  "title": "Dondolo Zanzibar 3pt",
+  "records": [
+    {
+      "idAsta": "97213825",
+      "prezzo": "120.96",
+      "vincitore": "daricossi",
+      "durata": "13h 34m",
+      "puntateTotali": "419",
+      "paid_bids": "0",
+      "free_bids": "419"
+    },
+    {
+      "idAsta": "97449488",
+      "prezzo": "65.61",
+      "vincitore": "iguanalina",
+      "durata": "7h 29m",
+      "puntateTotali": "1709",
+      "paid_bids": "605",
+      "free_bids": "1104"
+    }
+  ]
+}

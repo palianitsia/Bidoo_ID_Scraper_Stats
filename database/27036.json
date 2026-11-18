@@ -1,0 +1,24 @@
+{
+  "id": "27036",
+  "title": "JBL PartyBox Encore 2",
+  "records": [
+    {
+      "idAsta": "97222766",
+      "prezzo": "11.38",
+      "vincitore": "casufello29",
+      "durata": "1h 55m",
+      "puntateTotali": "493",
+      "paid_bids": "0",
+      "free_bids": "493"
+    },
+    {
+      "idAsta": "97280896",
+      "prezzo": "8.43",
+      "vincitore": "franksau",
+      "durata": "58m",
+      "puntateTotali": "394",
+      "paid_bids": "0",
+      "free_bids": "394"
+    }
+  ]
+}

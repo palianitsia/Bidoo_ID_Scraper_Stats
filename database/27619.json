@@ -1,0 +1,48 @@
+{
+  "id": "27619",
+  "title": "Bullseye Radiocomandato Toy Story 5",
+  "records": [
+    {
+      "idAsta": "101820700",
+      "prezzo": "9.70",
+      "vincitore": "toromazza",
+      "durata": "1h 40m",
+      "puntateTotali": "74"
+    },
+    {
+      "idAsta": "101333403",
+      "prezzo": "4.91",
+      "vincitore": "nicgiorda",
+      "durata": "34m",
+      "puntateTotali": "34"
+    },
+    {
+      "idAsta": "100851578",
+      "prezzo": "5.04",
+      "vincitore": "valervico",
+      "durata": "36m",
+      "puntateTotali": "124"
+    },
+    {
+      "idAsta": "100302081",
+      "prezzo": "7.55",
+      "vincitore": "rensalti",
+      "durata": "53m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "100116793",
+      "prezzo": "39.00",
+      "vincitore": "aldmiglio",
+      "durata": "6h 35m",
+      "puntateTotali": "48"
+    },
+    {
+      "idAsta": "101941664",
+      "prezzo": "5.88",
+      "vincitore": "fierafeliro",
+      "durata": "41m",
+      "puntateTotali": "30"
+    }
+  ]
+}

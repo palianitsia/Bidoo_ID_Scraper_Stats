@@ -1,0 +1,27 @@
+{
+  "id": "27915",
+  "title": "Fendi Sneaker Fender",
+  "records": [
+    {
+      "idAsta": "101582129",
+      "prezzo": "82.31",
+      "vincitore": "spietatolav",
+      "durata": "13h 56m",
+      "puntateTotali": "518"
+    },
+    {
+      "idAsta": "101449391",
+      "prezzo": "175.62",
+      "vincitore": "teomattio",
+      "durata": "29h 49m",
+      "puntateTotali": "7415"
+    },
+    {
+      "idAsta": "100786202",
+      "prezzo": "150.02",
+      "vincitore": "simonocci",
+      "durata": "25h 16m",
+      "puntateTotali": "837"
+    }
+  ]
+}

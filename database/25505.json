@@ -1,0 +1,33 @@
+{
+  "id": "25505",
+  "title": "iPad Pro M5 11\" 1TB Cellular",
+  "records": [
+    {
+      "idAsta": "97373730",
+      "prezzo": "188.44",
+      "vincitore": "maruccialex",
+      "durata": "42h 14m",
+      "puntateTotali": "236",
+      "paid_bids": "0",
+      "free_bids": "236"
+    },
+    {
+      "idAsta": "97373733",
+      "prezzo": "390.93",
+      "vincitore": "caggiug49",
+      "durata": "66h 54m",
+      "puntateTotali": "17502",
+      "paid_bids": "4273",
+      "free_bids": "13229"
+    },
+    {
+      "idAsta": "97373738",
+      "prezzo": "229.93",
+      "vincitore": "albaneui",
+      "durata": "26h 7m",
+      "puntateTotali": "11273",
+      "paid_bids": "1171",
+      "free_bids": "10102"
+    }
+  ]
+}

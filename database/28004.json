@@ -1,0 +1,34 @@
+{
+  "id": "28004",
+  "title": "REDMI Note 17 Pro 5G 12+256GB",
+  "records": [
+    {
+      "idAsta": "101078251",
+      "prezzo": "38.47",
+      "vincitore": "tersabbia",
+      "durata": "6h 34m",
+      "puntateTotali": "369"
+    },
+    {
+      "idAsta": "101039002",
+      "prezzo": "93.86",
+      "vincitore": "chioderoico",
+      "durata": "15h 55m",
+      "puntateTotali": "4517"
+    },
+    {
+      "idAsta": "100684267",
+      "prezzo": "93.97",
+      "vincitore": "luigivez",
+      "durata": "15h 45m",
+      "puntateTotali": "3516"
+    },
+    {
+      "idAsta": "101903075",
+      "prezzo": "59.01",
+      "vincitore": "peremoll",
+      "durata": "9h 51m",
+      "puntateTotali": "2348"
+    }
+  ]
+}

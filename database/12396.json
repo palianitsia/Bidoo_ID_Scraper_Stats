@@ -1,0 +1,24 @@
+{
+  "id": "12396",
+  "title": "100€ Pam Panorama +200P",
+  "records": [
+    {
+      "idAsta": "97259298",
+      "prezzo": "3.77",
+      "vincitore": "cferep3",
+      "durata": "27m",
+      "puntateTotali": "39",
+      "paid_bids": "0",
+      "free_bids": "39"
+    },
+    {
+      "idAsta": "97486133",
+      "prezzo": "3.05",
+      "vincitore": "mariofico",
+      "durata": "32m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    }
+  ]
+}

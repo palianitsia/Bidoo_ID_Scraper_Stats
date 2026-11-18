@@ -1,0 +1,51 @@
+{
+  "id": "7813",
+  "title": "Airpods Pro",
+  "records": [
+    {
+      "idAsta": "9021206",
+      "prezzo": "44.06",
+      "vincitore": "moranzd",
+      "durata": "7h 20m",
+      "puntateTotali": "1540",
+      "paid_bids": "197",
+      "free_bids": "1343"
+    },
+    {
+      "idAsta": "9021207",
+      "prezzo": "93.76",
+      "vincitore": "manzonea",
+      "durata": "10h 7m",
+      "puntateTotali": "44",
+      "paid_bids": "0",
+      "free_bids": "44"
+    },
+    {
+      "idAsta": "9021208",
+      "prezzo": "94.72",
+      "vincitore": "michelangeloss",
+      "durata": "7h 27m",
+      "puntateTotali": "312",
+      "paid_bids": "0",
+      "free_bids": "312"
+    },
+    {
+      "idAsta": "9057067",
+      "prezzo": "108.49",
+      "vincitore": "marygulp",
+      "durata": "20h 41m",
+      "puntateTotali": "3826",
+      "paid_bids": "0",
+      "free_bids": "3826"
+    },
+    {
+      "idAsta": "9086496",
+      "prezzo": "91.78",
+      "vincitore": "barby8",
+      "durata": "8h 3m",
+      "puntateTotali": "3863",
+      "paid_bids": "903",
+      "free_bids": "2960"
+    }
+  ]
+}

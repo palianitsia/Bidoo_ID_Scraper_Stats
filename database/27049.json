@@ -1,0 +1,34 @@
+{
+  "id": "27049",
+  "title": "MSI RTX 5060 Ti 8G GAMING TRIO OC",
+  "records": [
+    {
+      "idAsta": "101231100",
+      "prezzo": "52.57",
+      "vincitore": "damianorami",
+      "durata": "8h 58m",
+      "puntateTotali": "2594"
+    },
+    {
+      "idAsta": "101167029",
+      "prezzo": "142.76",
+      "vincitore": "silvduna",
+      "durata": "24h 24m",
+      "puntateTotali": "32"
+    },
+    {
+      "idAsta": "100446224",
+      "prezzo": "88.61",
+      "vincitore": "ludoonda",
+      "durata": "15h 5m",
+      "puntateTotali": "3849"
+    },
+    {
+      "idAsta": "100197777",
+      "prezzo": "116.07",
+      "vincitore": "pinovarco",
+      "durata": "19h 53m",
+      "puntateTotali": "371"
+    }
+  ]
+}

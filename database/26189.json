@@ -1,0 +1,33 @@
+{
+  "id": "26189",
+  "title": "Polti Vaporella 535 Eco Pro",
+  "records": [
+    {
+      "idAsta": "97075800",
+      "prezzo": "37.09",
+      "vincitore": "infinito97",
+      "durata": "6h 19m",
+      "puntateTotali": "655",
+      "paid_bids": "87",
+      "free_bids": "568"
+    },
+    {
+      "idAsta": "97216538",
+      "prezzo": "6.13",
+      "vincitore": "distre3l",
+      "durata": "1h 3m",
+      "puntateTotali": "79",
+      "paid_bids": "0",
+      "free_bids": "79"
+    },
+    {
+      "idAsta": "97343826",
+      "prezzo": "10.68",
+      "vincitore": "micchiolo",
+      "durata": "1h 15m",
+      "puntateTotali": "48",
+      "paid_bids": "0",
+      "free_bids": "48"
+    }
+  ]
+}

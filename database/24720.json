@@ -1,0 +1,96 @@
+{
+  "id": "24720",
+  "title": "Moulinex i‐Companion Touch Pro",
+  "records": [
+    {
+      "idAsta": "97046845",
+      "prezzo": "175.20",
+      "vincitore": "maleber1",
+      "durata": "15h 25m",
+      "puntateTotali": "431",
+      "paid_bids": "401",
+      "free_bids": "30"
+    },
+    {
+      "idAsta": "97046884",
+      "prezzo": "251.66",
+      "vincitore": "mikimatz",
+      "durata": "22h 11m",
+      "puntateTotali": "420",
+      "paid_bids": "0",
+      "free_bids": "420"
+    },
+    {
+      "idAsta": "97046923",
+      "prezzo": "191.64",
+      "vincitore": "treldelu2",
+      "durata": "16h 35m",
+      "puntateTotali": "141",
+      "paid_bids": "0",
+      "free_bids": "141"
+    },
+    {
+      "idAsta": "97160170",
+      "prezzo": "130.26",
+      "vincitore": "ginelli29",
+      "durata": "11h 30m",
+      "puntateTotali": "184",
+      "paid_bids": "0",
+      "free_bids": "184"
+    },
+    {
+      "idAsta": "97160209",
+      "prezzo": "166.66",
+      "vincitore": "riccardi292",
+      "durata": "14h 44m",
+      "puntateTotali": "286",
+      "paid_bids": "0",
+      "free_bids": "286"
+    },
+    {
+      "idAsta": "97160266",
+      "prezzo": "199.91",
+      "vincitore": "articolo41",
+      "durata": "17h 30m",
+      "puntateTotali": "9966",
+      "paid_bids": "4892",
+      "free_bids": "5074"
+    },
+    {
+      "idAsta": "97432399",
+      "prezzo": "109.97",
+      "vincitore": "sofocle9",
+      "durata": "18h 42m",
+      "puntateTotali": "5297",
+      "paid_bids": "322",
+      "free_bids": "4975"
+    },
+    {
+      "idAsta": "97488355",
+      "prezzo": "171.28",
+      "vincitore": "gpltoto",
+      "durata": "15h 21m",
+      "puntateTotali": "60",
+      "paid_bids": "0",
+      "free_bids": "60"
+    },
+    {
+      "idAsta": "97488434",
+      "prezzo": "151.70",
+      "vincitore": "derolassa",
+      "durata": "13h 20m",
+      "puntateTotali": "7434",
+      "paid_bids": "2347",
+      "free_bids": "5087"
+    },
+    {
+      "idAsta": "97488394",
+      "prezzo": "251.00",
+      "vincitore": "stefanellist",
+      "durata": "22h 24m",
+      "puntateTotali": "12511",
+      "paid_bids": "7335",
+      "free_bids": "5176"
+    }
+  ]
+}

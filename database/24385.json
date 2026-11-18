@@ -1,0 +1,24 @@
+{
+  "id": "24385",
+  "title": "Donkey Kong Bananza",
+  "records": [
+    {
+      "idAsta": "97015663",
+      "prezzo": "2.41",
+      "vincitore": "defotrova",
+      "durata": "17m",
+      "puntateTotali": "10",
+      "paid_bids": "0",
+      "free_bids": "10"
+    },
+    {
+      "idAsta": "97208330",
+      "prezzo": "48.74",
+      "vincitore": "ilarix11",
+      "durata": "5h 34m",
+      "puntateTotali": "2373",
+      "paid_bids": "0",
+      "free_bids": "2373"
+    }
+  ]
+}

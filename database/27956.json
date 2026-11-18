@@ -1,0 +1,97 @@
+{
+  "id": "27956",
+  "title": "Lego The X‐Files",
+  "records": [
+    {
+      "idAsta": "101581124",
+      "prezzo": "19.91",
+      "vincitore": "cropant",
+      "durata": "3h 22m",
+      "puntateTotali": "775"
+    },
+    {
+      "idAsta": "101431552",
+      "prezzo": "27.05",
+      "vincitore": "bonfaiso",
+      "durata": "4h 34m",
+      "puntateTotali": "1231"
+    },
+    {
+      "idAsta": "101431551",
+      "prezzo": "33.40",
+      "vincitore": "bruzinco",
+      "durata": "3h 49m",
+      "puntateTotali": "1646"
+    },
+    {
+      "idAsta": "101431550",
+      "prezzo": "24.30",
+      "vincitore": "arcicon",
+      "durata": "2h 7m",
+      "puntateTotali": "1166"
+    },
+    {
+      "idAsta": "101333456",
+      "prezzo": "15.47",
+      "vincitore": "nonnadolce",
+      "durata": "2h 37m",
+      "puntateTotali": "91"
+    },
+    {
+      "idAsta": "100851609",
+      "prezzo": "24.51",
+      "vincitore": "barbern",
+      "durata": "4h 8m",
+      "puntateTotali": "1199"
+    },
+    {
+      "idAsta": "100599027",
+      "prezzo": "46.35",
+      "vincitore": "alberago",
+      "durata": "7h 54m",
+      "puntateTotali": "191"
+    },
+    {
+      "idAsta": "100599026",
+      "prezzo": "43.48",
+      "vincitore": "mernocera",
+      "durata": "4h 59m",
+      "puntateTotali": "2151"
+    },
+    {
+      "idAsta": "100481699",
+      "prezzo": "46.43",
+      "vincitore": "felirocca",
+      "durata": "4h 3m",
+      "puntateTotali": "2253"
+    },
+    {
+      "idAsta": "100481701",
+      "prezzo": "26.57",
+      "vincitore": "nanizolla",
+      "durata": "4h 31m",
+      "puntateTotali": "1300"
+    },
+    {
+      "idAsta": "99926220",
+      "prezzo": "20.45",
+      "vincitore": "salvatorefoglia",
+      "durata": "3h 26m",
+      "puntateTotali": "595"
+    },
+    {
+      "idAsta": "101941696",
+      "prezzo": "26.49",
+      "vincitore": "allecel",
+      "durata": "4h 25m",
+      "puntateTotali": "1149"
+    },
+    {
+      "idAsta": "101924708",
+      "prezzo": "37.47",
+      "vincitore": "gennope",
+      "durata": "6h 20m",
+      "puntateTotali": "29"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "26039",
+  "title": "2525 Pujas",
+  "records": [
+    {
+      "idAsta": "101935574",
+      "prezzo": "22.19",
+      "vincitore": "supertes",
+      "durata": "1h 53m",
+      "puntateTotali": "1035"
+    },
+    {
+      "idAsta": "101935644",
+      "prezzo": "21.87",
+      "vincitore": "ugorocca",
+      "durata": "1h 52m",
+      "puntateTotali": "577"
+    },
+    {
+      "idAsta": "101935604",
+      "prezzo": "16.79",
+      "vincitore": "calidra",
+      "durata": "1h 25m",
+      "puntateTotali": "690"
+    },
+    {
+      "idAsta": "102043333",
+      "prezzo": "11.55",
+      "vincitore": "ventonora",
+      "durata": "1h 0m",
+      "puntateTotali": "411"
+    },
+    {
+      "idAsta": "102043384",
+      "prezzo": "12.11",
+      "vincitore": "agaciaba",
+      "durata": "1h 2m",
+      "puntateTotali": "569"
+    },
+    {
+      "idAsta": "102043364",
+      "prezzo": "14.67",
+      "vincitore": "esadora",
+      "durata": "1h 17m",
+      "puntateTotali": "550"
+    },
+    {
+      "idAsta": "102043404",
+      "prezzo": "11.91",
+      "vincitore": "priulucie",
+      "durata": "1h 1m",
+      "puntateTotali": "569"
+    },
+    {
+      "idAsta": "102043263",
+      "prezzo": "1.02",
+      "vincitore": "aqui64",
+      "durata": "5m",
+      "puntateTotali": "31"
+    }
+  ]
+}

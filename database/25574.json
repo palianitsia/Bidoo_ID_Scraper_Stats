@@ -1,0 +1,24 @@
+{
+  "id": "25574",
+  "title": "HUAWEI WATCH GT 6 Pro",
+  "records": [
+    {
+      "idAsta": "97045199",
+      "prezzo": "7.97",
+      "vincitore": "kradamo",
+      "durata": "1h 20m",
+      "puntateTotali": "344",
+      "paid_bids": "0",
+      "free_bids": "344"
+    },
+    {
+      "idAsta": "97284164",
+      "prezzo": "15.12",
+      "vincitore": "bosofridi",
+      "durata": "2h 29m",
+      "puntateTotali": "484",
+      "paid_bids": "0",
+      "free_bids": "484"
+    }
+  ]
+}

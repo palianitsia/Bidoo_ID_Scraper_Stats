@@ -1,0 +1,41 @@
+{
+  "id": "28005",
+  "title": "REDMI Note 17 Pro Max 5G 8+256GB",
+  "records": [
+    {
+      "idAsta": "101679295",
+      "prezzo": "165.15",
+      "vincitore": "pinguisan",
+      "durata": "28h 20m",
+      "puntateTotali": "258"
+    },
+    {
+      "idAsta": "101066642",
+      "prezzo": "48.12",
+      "vincitore": "cobragelo",
+      "durata": "8h 5m",
+      "puntateTotali": "2226"
+    },
+    {
+      "idAsta": "100564010",
+      "prezzo": "88.13",
+      "vincitore": "pramari",
+      "durata": "14h 59m",
+      "puntateTotali": "3552"
+    },
+    {
+      "idAsta": "100380073",
+      "prezzo": "134.58",
+      "vincitore": "jenfranc",
+      "durata": "22h 47m",
+      "puntateTotali": "125"
+    },
+    {
+      "idAsta": "101924981",
+      "prezzo": "58.69",
+      "vincitore": "ivannodo",
+      "durata": "9h 16m",
+      "puntateTotali": "1540"
+    }
+  ]
+}

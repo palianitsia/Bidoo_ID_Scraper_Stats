@@ -1,0 +1,27 @@
+{
+  "id": "27884",
+  "title": "Box iPhone 18",
+  "records": [
+    {
+      "idAsta": "101430547",
+      "prezzo": "314.11",
+      "vincitore": "tombolista",
+      "durata": "35h 9m",
+      "puntateTotali": "12188"
+    },
+    {
+      "idAsta": "100265777",
+      "prezzo": "177.24",
+      "vincitore": "titotornado",
+      "durata": "19h 58m",
+      "puntateTotali": "463"
+    },
+    {
+      "idAsta": "101676822",
+      "prezzo": "274.99",
+      "vincitore": "sebmessi",
+      "durata": "30h 24m",
+      "puntateTotali": "708"
+    }
+  ]
+}

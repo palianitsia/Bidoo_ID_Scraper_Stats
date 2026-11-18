@@ -1,0 +1,41 @@
+{
+  "id": "26305",
+  "title": "Inglesina Halley Pro",
+  "records": [
+    {
+      "idAsta": "101643052",
+      "prezzo": "20.05",
+      "vincitore": "eneaorzo",
+      "durata": "3h 21m",
+      "puntateTotali": "492"
+    },
+    {
+      "idAsta": "101454381",
+      "prezzo": "35.29",
+      "vincitore": "gaglforte",
+      "durata": "6h 5m",
+      "puntateTotali": "232"
+    },
+    {
+      "idAsta": "101167034",
+      "prezzo": "67.95",
+      "vincitore": "petrucco",
+      "durata": "11h 31m",
+      "puntateTotali": "44"
+    },
+    {
+      "idAsta": "100909979",
+      "prezzo": "106.96",
+      "vincitore": "liacovo",
+      "durata": "18h 17m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "100924871",
+      "prezzo": "19.22",
+      "vincitore": "arcecan",
+      "durata": "3h 12m",
+      "puntateTotali": "13"
+    }
+  ]
+}

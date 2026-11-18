@@ -1,0 +1,51 @@
+{
+  "id": "26718",
+  "title": "MacBook Neo 13\" Touch ID 512GB",
+  "records": [
+    {
+      "idAsta": "97076989",
+      "prezzo": "136.04",
+      "vincitore": "crossandro",
+      "durata": "22h 41m",
+      "puntateTotali": "5165",
+      "paid_bids": "829",
+      "free_bids": "4336"
+    },
+    {
+      "idAsta": "97329346",
+      "prezzo": "243.39",
+      "vincitore": "klaramei",
+      "durata": "28h 4m",
+      "puntateTotali": "109",
+      "paid_bids": "0",
+      "free_bids": "109"
+    },
+    {
+      "idAsta": "97329345",
+      "prezzo": "166.75",
+      "vincitore": "seistone",
+      "durata": "14h 18m",
+      "puntateTotali": "717",
+      "paid_bids": "0",
+      "free_bids": "717"
+    },
+    {
+      "idAsta": "97329347",
+      "prezzo": "198.92",
+      "vincitore": "peptrokki",
+      "durata": "33h 44m",
+      "puntateTotali": "9654",
+      "paid_bids": "4367",
+      "free_bids": "5287"
+    },
+    {
+      "idAsta": "97458510",
+      "prezzo": "190.10",
+      "vincitore": "ueflacca2",
+      "durata": "32h 7m",
+      "puntateTotali": "212",
+      "paid_bids": "0",
+      "free_bids": "212"
+    }
+  ]
+}

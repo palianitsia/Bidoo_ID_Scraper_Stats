@@ -1,0 +1,24 @@
+{
+  "id": "24548",
+  "title": "Set da Giardino 2 Posti in Bambù",
+  "records": [
+    {
+      "idAsta": "97213800",
+      "prezzo": "14.96",
+      "vincitore": "steboxe",
+      "durata": "1h 43m",
+      "puntateTotali": "204",
+      "paid_bids": "0",
+      "free_bids": "204"
+    },
+    {
+      "idAsta": "97449463",
+      "prezzo": "6.45",
+      "vincitore": "koreffru",
+      "durata": "45m",
+      "puntateTotali": "25",
+      "paid_bids": "0",
+      "free_bids": "25"
+    }
+  ]
+}

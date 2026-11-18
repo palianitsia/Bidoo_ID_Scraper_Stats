@@ -1,0 +1,33 @@
+{
+  "id": "26506",
+  "title": "Lego Ocarina of Time The Final Battle",
+  "records": [
+    {
+      "idAsta": "97097151",
+      "prezzo": "14.76",
+      "vincitore": "steve33a",
+      "durata": "2h 28m",
+      "puntateTotali": "54",
+      "paid_bids": "0",
+      "free_bids": "54"
+    },
+    {
+      "idAsta": "97149330",
+      "prezzo": "14.16",
+      "vincitore": "seitrecoo",
+      "durata": "2h 34m",
+      "puntateTotali": "120",
+      "paid_bids": "80",
+      "free_bids": "40"
+    },
+    {
+      "idAsta": "97345170",
+      "prezzo": "17.67",
+      "vincitore": "olio2939",
+      "durata": "3h 1m",
+      "puntateTotali": "24",
+      "paid_bids": "0",
+      "free_bids": "24"
+    }
+  ]
+}

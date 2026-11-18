@@ -1,0 +1,33 @@
+{
+  "id": "27531",
+  "title": "ghd Speed",
+  "records": [
+    {
+      "idAsta": "97045753",
+      "prezzo": "27.79",
+      "vincitore": "gioppendiulo",
+      "durata": "4h 37m",
+      "puntateTotali": "963",
+      "paid_bids": "0",
+      "free_bids": "963"
+    },
+    {
+      "idAsta": "97190480",
+      "prezzo": "15.15",
+      "vincitore": "selodesn",
+      "durata": "2h 44m",
+      "puntateTotali": "749",
+      "paid_bids": "342",
+      "free_bids": "407"
+    },
+    {
+      "idAsta": "97284846",
+      "prezzo": "68.65",
+      "vincitore": "kostole3",
+      "durata": "11h 44m",
+      "puntateTotali": "128",
+      "paid_bids": "52",
+      "free_bids": "76"
+    }
+  ]
+}

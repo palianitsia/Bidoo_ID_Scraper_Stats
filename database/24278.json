@@ -1,0 +1,87 @@
+{
+  "id": "24278",
+  "title": "Dyson Supersonic R",
+  "records": [
+    {
+      "idAsta": "97014598",
+      "prezzo": "149.30",
+      "vincitore": "particola33",
+      "durata": "25h 30m",
+      "puntateTotali": "321",
+      "paid_bids": "0",
+      "free_bids": "321"
+    },
+    {
+      "idAsta": "97116434",
+      "prezzo": "165.63",
+      "vincitore": "voreb93",
+      "durata": "28h 38m",
+      "puntateTotali": "197",
+      "paid_bids": "0",
+      "free_bids": "197"
+    },
+    {
+      "idAsta": "97228029",
+      "prezzo": "103.52",
+      "vincitore": "dinoasti3",
+      "durata": "17h 38m",
+      "puntateTotali": "5140",
+      "paid_bids": "1835",
+      "free_bids": "3305"
+    },
+    {
+      "idAsta": "97298755",
+      "prezzo": "62.67",
+      "vincitore": "fortunato1221",
+      "durata": "10h 39m",
+      "puntateTotali": "3066",
+      "paid_bids": "482",
+      "free_bids": "2584"
+    },
+    {
+      "idAsta": "97343609",
+      "prezzo": "91.82",
+      "vincitore": "giffiro3",
+      "durata": "15h 41m",
+      "puntateTotali": "4580",
+      "paid_bids": "3313",
+      "free_bids": "1267"
+    },
+    {
+      "idAsta": "97406196",
+      "prezzo": "180.91",
+      "vincitore": "truddi22",
+      "durata": "30h 39m",
+      "puntateTotali": "473",
+      "paid_bids": "178",
+      "free_bids": "295"
+    },
+    {
+      "idAsta": "97488431",
+      "prezzo": "57.14",
+      "vincitore": "causpico39",
+      "durata": "5h 8m",
+      "puntateTotali": "2833",
+      "paid_bids": "0",
+      "free_bids": "2833"
+    },
+    {
+      "idAsta": "97488353",
+      "prezzo": "143.00",
+      "vincitore": "igur2929",
+      "durata": "12h 36m",
+      "puntateTotali": "7111",
+      "paid_bids": "3549",
+      "free_bids": "3562"
+    },
+    {
+      "idAsta": "97488392",
+      "prezzo": "154.42",
+      "vincitore": "arturomino",
+      "durata": "13h 48m",
+      "puntateTotali": "397",
+      "paid_bids": "0",
+      "free_bids": "397"
+    }
+  ]
+}

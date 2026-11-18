@@ -1,0 +1,42 @@
+{
+  "id": "26681",
+  "title": "iPad Air M4 Cellular 512GB 11\"",
+  "records": [
+    {
+      "idAsta": "97190432",
+      "prezzo": "362.77",
+      "vincitore": "lucasguardi",
+      "durata": "61h 5m",
+      "puntateTotali": "208",
+      "paid_bids": "0",
+      "free_bids": "208"
+    },
+    {
+      "idAsta": "97373707",
+      "prezzo": "242.63",
+      "vincitore": "comusio2",
+      "durata": "54h 22m",
+      "puntateTotali": "9884",
+      "paid_bids": "2669",
+      "free_bids": "7215"
+    },
+    {
+      "idAsta": "97373706",
+      "prezzo": "111.37",
+      "vincitore": "dacetto95",
+      "durata": "18h 34m",
+      "puntateTotali": "4805",
+      "paid_bids": "0",
+      "free_bids": "4805"
+    },
+    {
+      "idAsta": "97373705",
+      "prezzo": "194.68",
+      "vincitore": "tommi2934ss",
+      "durata": "22h 7m",
+      "puntateTotali": "166",
+      "paid_bids": "82",
+      "free_bids": "84"
+    }
+  ]
+}

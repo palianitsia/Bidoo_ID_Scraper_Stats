@@ -1,0 +1,41 @@
+{
+  "id": "27800",
+  "title": "Garmin Fēnix 8 47mm",
+  "records": [
+    {
+      "idAsta": "101642587",
+      "prezzo": "50.32",
+      "vincitore": "juvantio",
+      "durata": "8h 24m",
+      "puntateTotali": "1905"
+    },
+    {
+      "idAsta": "101453830",
+      "prezzo": "74.74",
+      "vincitore": "cobralava",
+      "durata": "12h 42m",
+      "puntateTotali": "3472"
+    },
+    {
+      "idAsta": "101231063",
+      "prezzo": "110.37",
+      "vincitore": "tulmosca",
+      "durata": "18h 45m",
+      "puntateTotali": "540"
+    },
+    {
+      "idAsta": "101166992",
+      "prezzo": "91.72",
+      "vincitore": "simozolla",
+      "durata": "15h 30m",
+      "puntateTotali": "4011"
+    },
+    {
+      "idAsta": "100909601",
+      "prezzo": "223.16",
+      "vincitore": "savolmo",
+      "durata": "37h 30m",
+      "puntateTotali": "191"
+    }
+  ]
+}

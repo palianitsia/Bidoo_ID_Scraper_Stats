@@ -1,0 +1,27 @@
+{
+  "id": "28029",
+  "title": "Caleffi Set Copripiumino Pastello",
+  "records": [
+    {
+      "idAsta": "101396383",
+      "prezzo": "13.26",
+      "vincitore": "noracoda",
+      "durata": "2h 14m",
+      "puntateTotali": "31"
+    },
+    {
+      "idAsta": "100743010",
+      "prezzo": "13.39",
+      "vincitore": "zordoni",
+      "durata": "2h 13m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "100743009",
+      "prezzo": "19.15",
+      "vincitore": "sarobiffa",
+      "durata": "3h 14m",
+      "puntateTotali": "39"
+    }
+  ]
+}

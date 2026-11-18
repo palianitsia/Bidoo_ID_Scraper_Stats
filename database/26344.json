@@ -1,0 +1,33 @@
+{
+  "id": "26344",
+  "title": "DRAGON QUEST VII Reimagined",
+  "records": [
+    {
+      "idAsta": "97015655",
+      "prezzo": "1.18",
+      "vincitore": "frankenergy",
+      "durata": "8m",
+      "puntateTotali": "12",
+      "paid_bids": "0",
+      "free_bids": "12"
+    },
+    {
+      "idAsta": "97208322",
+      "prezzo": "3.17",
+      "vincitore": "polifagoci",
+      "durata": "23m",
+      "puntateTotali": "40",
+      "paid_bids": "0",
+      "free_bids": "40"
+    },
+    {
+      "idAsta": "97403901",
+      "prezzo": "1.50",
+      "vincitore": "skalumes",
+      "durata": "16m",
+      "puntateTotali": "26",
+      "paid_bids": "0",
+      "free_bids": "26"
+    }
+  ]
+}

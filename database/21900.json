@@ -1,0 +1,27 @@
+{
+  "id": "21900",
+  "title": "Trapunta Matrimoniale Invernale Panna",
+  "records": [
+    {
+      "idAsta": "100742998",
+      "prezzo": "2.81",
+      "vincitore": "orcabrina",
+      "durata": "12m",
+      "puntateTotali": "13"
+    },
+    {
+      "idAsta": "100742997",
+      "prezzo": "1.04",
+      "vincitore": "ruggieraldo",
+      "durata": "10m",
+      "puntateTotali": "38"
+    },
+    {
+      "idAsta": "100440982",
+      "prezzo": "0.68",
+      "vincitore": "sandroven",
+      "durata": "6m",
+      "puntateTotali": "24"
+    }
+  ]
+}

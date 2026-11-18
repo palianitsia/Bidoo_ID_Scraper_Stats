@@ -1,0 +1,24 @@
+{
+  "id": "7912",
+  "title": "THUN Teddy Natale",
+  "records": [
+    {
+      "idAsta": "9057451",
+      "prezzo": "6.14",
+      "vincitore": "alfredom45",
+      "durata": "42m",
+      "puntateTotali": "26",
+      "paid_bids": "0",
+      "free_bids": "26"
+    },
+    {
+      "idAsta": "9099298",
+      "prezzo": "23.40",
+      "vincitore": "lella3005",
+      "durata": "4h 27m",
+      "puntateTotali": "299",
+      "paid_bids": "0",
+      "free_bids": "299"
+    }
+  ]
+}

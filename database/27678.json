@@ -1,0 +1,51 @@
+{
+  "id": "27678",
+  "title": "XIAOMI Redmi Watch 6",
+  "records": [
+    {
+      "idAsta": "97045799",
+      "prezzo": "19.07",
+      "vincitore": "teovren",
+      "durata": "3h 23m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    },
+    {
+      "idAsta": "97076959",
+      "prezzo": "18.23",
+      "vincitore": "maracallelli",
+      "durata": "3h 0m",
+      "puntateTotali": "75",
+      "paid_bids": "0",
+      "free_bids": "75"
+    },
+    {
+      "idAsta": "97222432",
+      "prezzo": "25.61",
+      "vincitore": "quabbec8",
+      "durata": "4h 16m",
+      "puntateTotali": "11",
+      "paid_bids": "0",
+      "free_bids": "11"
+    },
+    {
+      "idAsta": "97284967",
+      "prezzo": "11.36",
+      "vincitore": "michelatrois",
+      "durata": "2h 4m",
+      "puntateTotali": "7",
+      "paid_bids": "0",
+      "free_bids": "7"
+    },
+    {
+      "idAsta": "97458757",
+      "prezzo": "12.99",
+      "vincitore": "ugovalli",
+      "durata": "2h 9m",
+      "puntateTotali": "175",
+      "paid_bids": "77",
+      "free_bids": "98"
+    }
+  ]
+}

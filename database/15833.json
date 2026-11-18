@@ -1,0 +1,69 @@
+{
+  "id": "15833",
+  "title": "Epilazione Luce Pulsata Philips Lumea IPL",
+  "records": [
+    {
+      "idAsta": "101583202",
+      "prezzo": "68.10",
+      "vincitore": "ermelantico",
+      "durata": "7h 41m",
+      "puntateTotali": "2296"
+    },
+    {
+      "idAsta": "101180934",
+      "prezzo": "71.29",
+      "vincitore": "nocemarti",
+      "durata": "8h 16m",
+      "puntateTotali": "3363"
+    },
+    {
+      "idAsta": "101006323",
+      "prezzo": "94.78",
+      "vincitore": "malluporos",
+      "durata": "10h 52m",
+      "puntateTotali": "242"
+    },
+    {
+      "idAsta": "100913966",
+      "prezzo": "79.44",
+      "vincitore": "lelerame",
+      "durata": "17h 49m",
+      "puntateTotali": "3055"
+    },
+    {
+      "idAsta": "100913965",
+      "prezzo": "64.29",
+      "vincitore": "tessavecervi",
+      "durata": "10h 58m",
+      "puntateTotali": "3104"
+    },
+    {
+      "idAsta": "100913964",
+      "prezzo": "24.48",
+      "vincitore": "pirafalco",
+      "durata": "2h 46m",
+      "puntateTotali": "1202"
+    },
+    {
+      "idAsta": "100624326",
+      "prezzo": "87.41",
+      "vincitore": "cancalvi",
+      "durata": "9h 52m",
+      "puntateTotali": "3104"
+    },
+    {
+      "idAsta": "100266023",
+      "prezzo": "51.47",
+      "vincitore": "onicepame",
+      "durata": "11h 32m",
+      "puntateTotali": "2394"
+    },
+    {
+      "idAsta": "101976627",
+      "prezzo": "31.99",
+      "vincitore": "albincaro",
+      "durata": "3h 27m",
+      "puntateTotali": "1308"
+    }
+  ]
+}

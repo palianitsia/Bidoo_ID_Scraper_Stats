@@ -1,0 +1,34 @@
+{
+  "id": "27400",
+  "title": "Insta360 Luna Ultra Pack Creator",
+  "records": [
+    {
+      "idAsta": "101231108",
+      "prezzo": "82.42",
+      "vincitore": "evalago",
+      "durata": "14h 0m",
+      "puntateTotali": "3183"
+    },
+    {
+      "idAsta": "100751320",
+      "prezzo": "152.76",
+      "vincitore": "ubapoli",
+      "durata": "25h 57m",
+      "puntateTotali": "4801"
+    },
+    {
+      "idAsta": "100117175",
+      "prezzo": "155.92",
+      "vincitore": "eziopiuma",
+      "durata": "26h 20m",
+      "puntateTotali": "145"
+    },
+    {
+      "idAsta": "101820994",
+      "prezzo": "157.37",
+      "vincitore": "xantigine",
+      "durata": "26h 44m",
+      "puntateTotali": "266"
+    }
+  ]
+}

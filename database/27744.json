@@ -1,0 +1,60 @@
+{
+  "id": "27744",
+  "title": "Beast of Reincarnation",
+  "records": [
+    {
+      "idAsta": "97015773",
+      "prezzo": "10.90",
+      "vincitore": "ginokpie9",
+      "durata": "1h 15m",
+      "puntateTotali": "25",
+      "paid_bids": "0",
+      "free_bids": "25"
+    },
+    {
+      "idAsta": "97096392",
+      "prezzo": "4.16",
+      "vincitore": "skerossi2",
+      "durata": "43m",
+      "puntateTotali": "79",
+      "paid_bids": "0",
+      "free_bids": "79"
+    },
+    {
+      "idAsta": "97208410",
+      "prezzo": "1.63",
+      "vincitore": "carolaturi",
+      "durata": "11m",
+      "puntateTotali": "40",
+      "paid_bids": "0",
+      "free_bids": "40"
+    },
+    {
+      "idAsta": "97222624",
+      "prezzo": "1.69",
+      "vincitore": "fedrecica",
+      "durata": "17m",
+      "puntateTotali": "17",
+      "paid_bids": "0",
+      "free_bids": "17"
+    },
+    {
+      "idAsta": "97344710",
+      "prezzo": "3.18",
+      "vincitore": "serapitto4",
+      "durata": "34m",
+      "puntateTotali": "9",
+      "paid_bids": "0",
+      "free_bids": "9"
+    },
+    {
+      "idAsta": "97403849",
+      "prezzo": "2.02",
+      "vincitore": "mrmoikon9",
+      "durata": "14m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "27486",
+  "title": "Disney Minnie Mouse Journey Trolley GTS FAN",
+  "records": [
+    {
+      "idAsta": "97106998",
+      "prezzo": "1.33",
+      "vincitore": "cajinidie",
+      "durata": "14m",
+      "puntateTotali": "25",
+      "paid_bids": "0",
+      "free_bids": "25"
+    },
+    {
+      "idAsta": "97107035",
+      "prezzo": "1.02",
+      "vincitore": "tilcamondo",
+      "durata": "11m",
+      "puntateTotali": "32",
+      "paid_bids": "0",
+      "free_bids": "32"
+    },
+    {
+      "idAsta": "97211595",
+      "prezzo": "1.39",
+      "vincitore": "sergi0119",
+      "durata": "7m",
+      "puntateTotali": "57",
+      "paid_bids": "0",
+      "free_bids": "57"
+    },
+    {
+      "idAsta": "97211663",
+      "prezzo": "5.33",
+      "vincitore": "choffeur30",
+      "durata": "21m",
+      "puntateTotali": "82",
+      "paid_bids": "0",
+      "free_bids": "82"
+    },
+    {
+      "idAsta": "97487079",
+      "prezzo": "0.58",
+      "vincitore": "pipplo39",
+      "durata": "3m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "97487003",
+      "prezzo": "12.39",
+      "vincitore": "maximetta",
+      "durata": "50m",
+      "puntateTotali": "528",
+      "paid_bids": "263",
+      "free_bids": "265"
+    }
+  ]
+}

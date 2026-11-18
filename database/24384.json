@@ -1,0 +1,33 @@
+{
+  "id": "24384",
+  "title": "Nintendo Switch 2 Pro Controller",
+  "records": [
+    {
+      "idAsta": "97015700",
+      "prezzo": "2.59",
+      "vincitore": "sfrepoj",
+      "durata": "27m",
+      "puntateTotali": "46",
+      "paid_bids": "1",
+      "free_bids": "45"
+    },
+    {
+      "idAsta": "97208367",
+      "prezzo": "1.75",
+      "vincitore": "matteo494",
+      "durata": "18m",
+      "puntateTotali": "41",
+      "paid_bids": "0",
+      "free_bids": "41"
+    },
+    {
+      "idAsta": "97458880",
+      "prezzo": "25.30",
+      "vincitore": "coolmas",
+      "durata": "4h 18m",
+      "puntateTotali": "22",
+      "paid_bids": "0",
+      "free_bids": "22"
+    }
+  ]
+}

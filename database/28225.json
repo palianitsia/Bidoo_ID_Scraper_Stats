@@ -1,0 +1,41 @@
+{
+  "id": "28225",
+  "title": "Ariete Rice Cooker + Slow Cooker",
+  "records": [
+    {
+      "idAsta": "101582130",
+      "prezzo": "8.55",
+      "vincitore": "ducwall",
+      "durata": "1h 28m",
+      "puntateTotali": "53"
+    },
+    {
+      "idAsta": "101489618",
+      "prezzo": "12.07",
+      "vincitore": "840482",
+      "durata": "2h 2m",
+      "puntateTotali": "109"
+    },
+    {
+      "idAsta": "101108331",
+      "prezzo": "0.73",
+      "vincitore": "ogrti",
+      "durata": "4m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "100867364",
+      "prezzo": "12.30",
+      "vincitore": "linaghiro",
+      "durata": "2h 5m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "100694791",
+      "prezzo": "7.40",
+      "vincitore": "modcaste",
+      "durata": "1h 26m",
+      "puntateTotali": "44"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "20612",
+  "title": "Philipp Plein Infradito Mare Unisex",
+  "records": [
+    {
+      "idAsta": "97436362",
+      "prezzo": "0.07",
+      "vincitore": "shiva48",
+      "durata": "1m",
+      "puntateTotali": "3",
+      "paid_bids": "0",
+      "free_bids": "3"
+    },
+    {
+      "idAsta": "97436488",
+      "prezzo": "1.16",
+      "vincitore": "beto73",
+      "durata": "8m",
+      "puntateTotali": "57",
+      "paid_bids": "29",
+      "free_bids": "28"
+    }
+  ]
+}

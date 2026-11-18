@@ -1,0 +1,24 @@
+{
+  "id": "27058",
+  "title": "Dremel Station Portatile",
+  "records": [
+    {
+      "idAsta": "97222890",
+      "prezzo": "7.51",
+      "vincitore": "marialampis",
+      "durata": "1h 17m",
+      "puntateTotali": "58",
+      "paid_bids": "0",
+      "free_bids": "58"
+    },
+    {
+      "idAsta": "97400748",
+      "prezzo": "21.04",
+      "vincitore": "frostiumo",
+      "durata": "3h 34m",
+      "puntateTotali": "30",
+      "paid_bids": "0",
+      "free_bids": "30"
+    }
+  ]
+}

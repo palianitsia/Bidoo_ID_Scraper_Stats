@@ -1,0 +1,27 @@
+{
+  "id": "28184",
+  "title": "HONOR Pad X8b 6/256G WIFI",
+  "records": [
+    {
+      "idAsta": "101330930",
+      "prezzo": "16.82",
+      "vincitore": "onorgondo",
+      "durata": "2h 57m",
+      "puntateTotali": "738"
+    },
+    {
+      "idAsta": "100637977",
+      "prezzo": "52.74",
+      "vincitore": "candfresc",
+      "durata": "8h 52m",
+      "puntateTotali": "1169"
+    },
+    {
+      "idAsta": "101981924",
+      "prezzo": "60.95",
+      "vincitore": "darmorso",
+      "durata": "10h 7m",
+      "puntateTotali": "47"
+    }
+  ]
+}

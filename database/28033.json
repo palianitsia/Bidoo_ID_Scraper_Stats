@@ -1,0 +1,48 @@
+{
+  "id": "28033",
+  "title": "Caleffi Completo Letto Ottanio",
+  "records": [
+    {
+      "idAsta": "101396367",
+      "prezzo": "13.28",
+      "vincitore": "gianmolla",
+      "durata": "2h 16m",
+      "puntateTotali": "8"
+    },
+    {
+      "idAsta": "101396368",
+      "prezzo": "4.01",
+      "vincitore": "refucile",
+      "durata": "16m",
+      "puntateTotali": "32"
+    },
+    {
+      "idAsta": "101295057",
+      "prezzo": "15.01",
+      "vincitore": "fabivez",
+      "durata": "2h 28m",
+      "puntateTotali": "95"
+    },
+    {
+      "idAsta": "100974515",
+      "prezzo": "16.23",
+      "vincitore": "diegotoga",
+      "durata": "2h 40m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "100742995",
+      "prezzo": "22.61",
+      "vincitore": "virusfatale",
+      "durata": "3h 45m",
+      "puntateTotali": "624"
+    },
+    {
+      "idAsta": "100505652",
+      "prezzo": "6.50",
+      "vincitore": "ghedgrand",
+      "durata": "1h 5m",
+      "puntateTotali": "7"
+    }
+  ]
+}

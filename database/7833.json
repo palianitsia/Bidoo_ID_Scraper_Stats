@@ -1,0 +1,24 @@
+{
+  "id": "7833",
+  "title": "Samsung Galaxy M30s",
+  "records": [
+    {
+      "idAsta": "9022504",
+      "prezzo": "16.09",
+      "vincitore": "cece13",
+      "durata": "1h 38m",
+      "puntateTotali": "53",
+      "paid_bids": "0",
+      "free_bids": "53"
+    },
+    {
+      "idAsta": "9065796",
+      "prezzo": "36.71",
+      "vincitore": "alelaela",
+      "durata": "3h 22m",
+      "puntateTotali": "855",
+      "paid_bids": "72",
+      "free_bids": "783"
+    }
+  ]
+}

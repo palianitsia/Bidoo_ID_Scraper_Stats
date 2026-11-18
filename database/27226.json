@@ -1,0 +1,24 @@
+{
+  "id": "27226",
+  "title": "Sedia a Uovo Sospesa con Supporto",
+  "records": [
+    {
+      "idAsta": "97213809",
+      "prezzo": "29.94",
+      "vincitore": "pleomino",
+      "durata": "3h 25m",
+      "puntateTotali": "12",
+      "paid_bids": "0",
+      "free_bids": "12"
+    },
+    {
+      "idAsta": "97449473",
+      "prezzo": "5.41",
+      "vincitore": "felipemdari",
+      "durata": "37m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    }
+  ]
+}

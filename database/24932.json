@@ -1,0 +1,33 @@
+{
+  "id": "24932",
+  "title": "OSAMA Colla Stick 30Pz",
+  "records": [
+    {
+      "idAsta": "97211604",
+      "prezzo": "3.89",
+      "vincitore": "chissoloio",
+      "durata": "15m",
+      "puntateTotali": "125",
+      "paid_bids": "0",
+      "free_bids": "125"
+    },
+    {
+      "idAsta": "97211672",
+      "prezzo": "3.55",
+      "vincitore": "marisa220",
+      "durata": "9m",
+      "puntateTotali": "136",
+      "paid_bids": "68",
+      "free_bids": "68"
+    },
+    {
+      "idAsta": "97487008",
+      "prezzo": "0.14",
+      "vincitore": "gabri071820",
+      "durata": "1m",
+      "puntateTotali": "7",
+      "paid_bids": "0",
+      "free_bids": "7"
+    }
+  ]
+}

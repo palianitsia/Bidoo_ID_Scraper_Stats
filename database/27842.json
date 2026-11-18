@@ -1,0 +1,27 @@
+{
+  "id": "27842",
+  "title": "Narwal Freo 20",
+  "records": [
+    {
+      "idAsta": "101108324",
+      "prezzo": "124.91",
+      "vincitore": "valverdia",
+      "durata": "20h 52m",
+      "puntateTotali": "3810"
+    },
+    {
+      "idAsta": "100867357",
+      "prezzo": "121.43",
+      "vincitore": "mialava",
+      "durata": "20h 30m",
+      "puntateTotali": "335"
+    },
+    {
+      "idAsta": "100009733",
+      "prezzo": "100.35",
+      "vincitore": "lorebalma",
+      "durata": "16h 46m",
+      "puntateTotali": "178"
+    }
+  ]
+}

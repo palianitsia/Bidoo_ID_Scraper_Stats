@@ -1,0 +1,51 @@
+{
+  "id": "7863",
+  "title": "Centrotavola natalizio",
+  "records": [
+    {
+      "idAsta": "9001601",
+      "prezzo": "3.13",
+      "vincitore": "loren192",
+      "durata": "32m",
+      "puntateTotali": "143",
+      "paid_bids": "0",
+      "free_bids": "143"
+    },
+    {
+      "idAsta": "9025656",
+      "prezzo": "2.13",
+      "vincitore": "apertelella",
+      "durata": "15m",
+      "puntateTotali": "92",
+      "paid_bids": "0",
+      "free_bids": "92"
+    },
+    {
+      "idAsta": "9045499",
+      "prezzo": "1.53",
+      "vincitore": "michelle30",
+      "durata": "10m",
+      "puntateTotali": "6",
+      "paid_bids": "0",
+      "free_bids": "6"
+    },
+    {
+      "idAsta": "9066776",
+      "prezzo": "0.68",
+      "vincitore": "neonpierre",
+      "durata": "4m",
+      "puntateTotali": "33",
+      "paid_bids": "0",
+      "free_bids": "33"
+    },
+    {
+      "idAsta": "9087048",
+      "prezzo": "3.54",
+      "vincitore": "mistergoo",
+      "durata": "17m",
+      "puntateTotali": "81",
+      "paid_bids": "0",
+      "free_bids": "81"
+    }
+  ]
+}

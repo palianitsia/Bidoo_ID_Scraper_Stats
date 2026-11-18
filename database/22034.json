@@ -1,0 +1,33 @@
+{
+  "id": "22034",
+  "title": "Sbattitore Elettrico 2 in 1 Turbo Mixer",
+  "records": [
+    {
+      "idAsta": "97205112",
+      "prezzo": "0.57",
+      "vincitore": "rombig",
+      "durata": "3m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97205196",
+      "prezzo": "0.46",
+      "vincitore": "farinato291",
+      "durata": "2m",
+      "puntateTotali": "22",
+      "paid_bids": "0",
+      "free_bids": "22"
+    },
+    {
+      "idAsta": "97205312",
+      "prezzo": "0.47",
+      "vincitore": "lovesoul2",
+      "durata": "2m",
+      "puntateTotali": "23",
+      "paid_bids": "0",
+      "free_bids": "23"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "26238",
+  "title": "Lego Ristorante in giardino",
+  "records": [
+    {
+      "idAsta": "101642585",
+      "prezzo": "18.16",
+      "vincitore": "renlippi",
+      "durata": "3h 9m",
+      "puntateTotali": "92"
+    },
+    {
+      "idAsta": "101453827",
+      "prezzo": "16.70",
+      "vincitore": "gankatore",
+      "durata": "2h 53m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101231060",
+      "prezzo": "18.06",
+      "vincitore": "licianano",
+      "durata": "3h 6m",
+      "puntateTotali": "142"
+    },
+    {
+      "idAsta": "101166989",
+      "prezzo": "10.61",
+      "vincitore": "giorspresto",
+      "durata": "1h 48m",
+      "puntateTotali": "92"
+    },
+    {
+      "idAsta": "100909598",
+      "prezzo": "21.19",
+      "vincitore": "cioscalmo",
+      "durata": "3h 40m",
+      "puntateTotali": "129"
+    },
+    {
+      "idAsta": "100408948",
+      "prezzo": "87.76",
+      "vincitore": "cosmcheto",
+      "durata": "15h 1m",
+      "puntateTotali": "132"
+    },
+    {
+      "idAsta": "100197249",
+      "prezzo": "16.77",
+      "vincitore": "francovan",
+      "durata": "2h 44m",
+      "puntateTotali": "127"
+    },
+    {
+      "idAsta": "102027827",
+      "prezzo": "18.96",
+      "vincitore": "fregolaghini",
+      "durata": "3h 9m",
+      "puntateTotali": "16"
+    }
+  ]
+}

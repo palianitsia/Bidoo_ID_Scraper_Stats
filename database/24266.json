@@ -1,0 +1,24 @@
+{
+  "id": "24266",
+  "title": "Set Bistrò Pieghevole",
+  "records": [
+    {
+      "idAsta": "97213826",
+      "prezzo": "17.65",
+      "vincitore": "birba939",
+      "durata": "1h 59m",
+      "puntateTotali": "71",
+      "paid_bids": "34",
+      "free_bids": "37"
+    },
+    {
+      "idAsta": "97449489",
+      "prezzo": "2.91",
+      "vincitore": "teofaro",
+      "durata": "21m",
+      "puntateTotali": "35",
+      "paid_bids": "0",
+      "free_bids": "35"
+    }
+  ]
+}

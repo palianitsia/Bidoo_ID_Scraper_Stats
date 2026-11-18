@@ -1,0 +1,42 @@
+{
+  "id": "22086",
+  "title": "Xiaomi 14T Pro 12 GB + 256 GB",
+  "records": [
+    {
+      "idAsta": "97029403",
+      "prezzo": "234.86",
+      "vincitore": "romero8973",
+      "durata": "39h 57m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    },
+    {
+      "idAsta": "97190892",
+      "prezzo": "130.46",
+      "vincitore": "periconcet",
+      "durata": "22h 16m",
+      "puntateTotali": "6491",
+      "paid_bids": "2051",
+      "free_bids": "4440"
+    },
+    {
+      "idAsta": "97281551",
+      "prezzo": "211.46",
+      "vincitore": "pinosauli",
+      "durata": "35h 44m",
+      "puntateTotali": "857",
+      "paid_bids": "699",
+      "free_bids": "158"
+    },
+    {
+      "idAsta": "97426751",
+      "prezzo": "182.62",
+      "vincitore": "desand2",
+      "durata": "31h 9m",
+      "puntateTotali": "9017",
+      "paid_bids": "4247",
+      "free_bids": "4770"
+    }
+  ]
+}

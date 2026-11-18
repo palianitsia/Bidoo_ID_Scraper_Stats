@@ -1,0 +1,42 @@
+{
+  "id": "8152",
+  "title": "1000€ Carrefour +2000P",
+  "records": [
+    {
+      "idAsta": "97208671",
+      "prezzo": "270.73",
+      "vincitore": "ringiallo",
+      "durata": "46h 0m",
+      "puntateTotali": "503",
+      "paid_bids": "0",
+      "free_bids": "503"
+    },
+    {
+      "idAsta": "97259261",
+      "prezzo": "432.46",
+      "vincitore": "frey8",
+      "durata": "73h 11m",
+      "puntateTotali": "216",
+      "paid_bids": "0",
+      "free_bids": "216"
+    },
+    {
+      "idAsta": "97259277",
+      "prezzo": "379.29",
+      "vincitore": "erica9233",
+      "durata": "64h 2m",
+      "puntateTotali": "249",
+      "paid_bids": "0",
+      "free_bids": "249"
+    },
+    {
+      "idAsta": "97259303",
+      "prezzo": "171.10",
+      "vincitore": "minoclock",
+      "durata": "28h 14m",
+      "puntateTotali": "224",
+      "paid_bids": "0",
+      "free_bids": "224"
+    }
+  ]
+}

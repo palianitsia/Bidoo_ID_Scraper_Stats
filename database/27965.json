@@ -1,0 +1,41 @@
+{
+  "id": "27965",
+  "title": "Hasbro Marvel Avengers Hulk",
+  "records": [
+    {
+      "idAsta": "101333388",
+      "prezzo": "1.47",
+      "vincitore": "ivobava",
+      "durata": "10m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "100851563",
+      "prezzo": "0.51",
+      "vincitore": "cantgrand",
+      "durata": "3m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "100302066",
+      "prezzo": "9.80",
+      "vincitore": "valfra29",
+      "durata": "1h 9m",
+      "puntateTotali": "376"
+    },
+    {
+      "idAsta": "99985026",
+      "prezzo": "0.56",
+      "vincitore": "aldocipria",
+      "durata": "4m",
+      "puntateTotali": "25"
+    },
+    {
+      "idAsta": "101941650",
+      "prezzo": "2.95",
+      "vincitore": "mulamaxi",
+      "durata": "20m",
+      "puntateTotali": "21"
+    }
+  ]
+}

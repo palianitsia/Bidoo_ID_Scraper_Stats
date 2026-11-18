@@ -1,0 +1,33 @@
+{
+  "id": "27456",
+  "title": "Pokémon: 18 buste Caos Nascente",
+  "records": [
+    {
+      "idAsta": "97281328",
+      "prezzo": "10.89",
+      "vincitore": "cofielk",
+      "durata": "2h 21m",
+      "puntateTotali": "67",
+      "paid_bids": "0",
+      "free_bids": "67"
+    },
+    {
+      "idAsta": "97281327",
+      "prezzo": "73.42",
+      "vincitore": "simospi92",
+      "durata": "12h 20m",
+      "puntateTotali": "2205",
+      "paid_bids": "598",
+      "free_bids": "1607"
+    },
+    {
+      "idAsta": "97281326",
+      "prezzo": "9.38",
+      "vincitore": "gidfriosto",
+      "durata": "48m",
+      "puntateTotali": "60",
+      "paid_bids": "0",
+      "free_bids": "60"
+    }
+  ]
+}

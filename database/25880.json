@@ -1,0 +1,60 @@
+{
+  "id": "25880",
+  "title": "Ariete Impastatrice Capri",
+  "records": [
+    {
+      "idAsta": "97046866",
+      "prezzo": "42.37",
+      "vincitore": "antoniamelo",
+      "durata": "3h 42m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "97046905",
+      "prezzo": "26.53",
+      "vincitore": "quebec02",
+      "durata": "2h 13m",
+      "puntateTotali": "77",
+      "paid_bids": "0",
+      "free_bids": "77"
+    },
+    {
+      "idAsta": "97160191",
+      "prezzo": "29.20",
+      "vincitore": "sebeem",
+      "durata": "2h 33m",
+      "puntateTotali": "53",
+      "paid_bids": "16",
+      "free_bids": "37"
+    },
+    {
+      "idAsta": "97160230",
+      "prezzo": "106.05",
+      "vincitore": "asriokko",
+      "durata": "9h 19m",
+      "puntateTotali": "126",
+      "paid_bids": "0",
+      "free_bids": "126"
+    },
+    {
+      "idAsta": "97343762",
+      "prezzo": "30.48",
+      "vincitore": "syamech",
+      "durata": "3h 8m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97432401",
+      "prezzo": "28.80",
+      "vincitore": "soiajdios39",
+      "durata": "4h 53m",
+      "puntateTotali": "95",
+      "paid_bids": "0",
+      "free_bids": "95"
+    }
+  ]
+}

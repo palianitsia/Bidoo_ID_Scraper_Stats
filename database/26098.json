@@ -1,0 +1,24 @@
+{
+  "id": "26098",
+  "title": "MasterChef Bilancia Cucina Digitale",
+  "records": [
+    {
+      "idAsta": "97205211",
+      "prezzo": "1.75",
+      "vincitore": "scisci81",
+      "durata": "7m",
+      "puntateTotali": "35",
+      "paid_bids": "0",
+      "free_bids": "35"
+    },
+    {
+      "idAsta": "97205127",
+      "prezzo": "0.22",
+      "vincitore": "riempidol",
+      "durata": "1m",
+      "puntateTotali": "11",
+      "paid_bids": "0",
+      "free_bids": "11"
+    }
+  ]
+}

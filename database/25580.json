@@ -1,0 +1,33 @@
+{
+  "id": "25580",
+  "title": "Samsung BESPOKE Jet AI Ultra",
+  "records": [
+    {
+      "idAsta": "97075796",
+      "prezzo": "64.50",
+      "vincitore": "seritolla",
+      "durata": "10h 53m",
+      "puntateTotali": "110",
+      "paid_bids": "0",
+      "free_bids": "110"
+    },
+    {
+      "idAsta": "97216529",
+      "prezzo": "280.04",
+      "vincitore": "marinatoso",
+      "durata": "47h 36m",
+      "puntateTotali": "1272",
+      "paid_bids": "0",
+      "free_bids": "1272"
+    },
+    {
+      "idAsta": "97381350",
+      "prezzo": "72.21",
+      "vincitore": "ciruu499",
+      "durata": "12h 6m",
+      "puntateTotali": "3366",
+      "paid_bids": "0",
+      "free_bids": "3366"
+    }
+  ]
+}

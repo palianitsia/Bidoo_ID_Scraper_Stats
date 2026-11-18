@@ -1,0 +1,33 @@
+{
+  "id": "26731",
+  "title": "Google Pixel 10a 256Gb",
+  "records": [
+    {
+      "idAsta": "97486664",
+      "prezzo": "59.76",
+      "vincitore": "marinella390",
+      "durata": "6h 49m",
+      "puntateTotali": "2931",
+      "paid_bids": "0",
+      "free_bids": "2931"
+    },
+    {
+      "idAsta": "97486663",
+      "prezzo": "149.44",
+      "vincitore": "meritand87",
+      "durata": "25h 22m",
+      "puntateTotali": "117",
+      "paid_bids": "0",
+      "free_bids": "117"
+    },
+    {
+      "idAsta": "97486662",
+      "prezzo": "119.83",
+      "vincitore": "akdiro30",
+      "durata": "27h 0m",
+      "puntateTotali": "21",
+      "paid_bids": "0",
+      "free_bids": "21"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "28235",
+  "title": "HUAWEI WATCH 6 Pro 46mm",
+  "records": [
+    {
+      "idAsta": "101642986",
+      "prezzo": "71.01",
+      "vincitore": "boscarol",
+      "durata": "11h 50m",
+      "puntateTotali": "158"
+    },
+    {
+      "idAsta": "101454317",
+      "prezzo": "71.21",
+      "vincitore": "heliandor",
+      "durata": "12h 8m",
+      "puntateTotali": "3131"
+    },
+    {
+      "idAsta": "101078286",
+      "prezzo": "43.11",
+      "vincitore": "teofoglia",
+      "durata": "7h 24m",
+      "puntateTotali": "121"
+    },
+    {
+      "idAsta": "101903070",
+      "prezzo": "97.96",
+      "vincitore": "modebueno",
+      "durata": "16h 31m",
+      "puntateTotali": "1296"
+    },
+    {
+      "idAsta": "101925458",
+      "prezzo": "115.50",
+      "vincitore": "elivisuale",
+      "durata": "19h 27m",
+      "puntateTotali": "735"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2405",
+  "title": "Nintendo Switch",
+  "records": [
+    {
+      "idAsta": "9022019",
+      "prezzo": "130.66",
+      "vincitore": "reinergard",
+      "durata": "25h 35m",
+      "puntateTotali": "495",
+      "paid_bids": "176",
+      "free_bids": "319"
+    },
+    {
+      "idAsta": "9022544",
+      "prezzo": "48.94",
+      "vincitore": "ambrogio00",
+      "durata": "3h 8m",
+      "puntateTotali": "826",
+      "paid_bids": "433",
+      "free_bids": "393"
+    }
+  ]
+}

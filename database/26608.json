@@ -1,0 +1,24 @@
+{
+  "id": "26608",
+  "title": "SORAKO Set cacciaviti pro 118 pz",
+  "records": [
+    {
+      "idAsta": "97400711",
+      "prezzo": "1.24",
+      "vincitore": "wadcutter",
+      "durata": "12m",
+      "puntateTotali": "58",
+      "paid_bids": "0",
+      "free_bids": "58"
+    },
+    {
+      "idAsta": "97400745",
+      "prezzo": "0.12",
+      "vincitore": "stefylazz",
+      "durata": "1m",
+      "puntateTotali": "6",
+      "paid_bids": "0",
+      "free_bids": "6"
+    }
+  ]
+}

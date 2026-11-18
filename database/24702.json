@@ -1,0 +1,62 @@
+{
+  "id": "24702",
+  "title": "Shark SpeedStyle Pro FLEX",
+  "records": [
+    {
+      "idAsta": "101642717",
+      "prezzo": "20.04",
+      "vincitore": "eziotoro",
+      "durata": "3h 23m",
+      "puntateTotali": "36"
+    },
+    {
+      "idAsta": "101453903",
+      "prezzo": "19.94",
+      "vincitore": "abetehud",
+      "durata": "3h 24m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101231070",
+      "prezzo": "42.36",
+      "vincitore": "nonnofucile",
+      "durata": "7h 14m",
+      "puntateTotali": "80"
+    },
+    {
+      "idAsta": "100445646",
+      "prezzo": "16.51",
+      "vincitore": "giozatte",
+      "durata": "2h 51m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "100272111",
+      "prezzo": "27.54",
+      "vincitore": "cesarmonti",
+      "durata": "4h 43m",
+      "puntateTotali": "203"
+    },
+    {
+      "idAsta": "100197382",
+      "prezzo": "18.37",
+      "vincitore": "rosiborga",
+      "durata": "3h 8m",
+      "puntateTotali": "113"
+    },
+    {
+      "idAsta": "101820759",
+      "prezzo": "22.24",
+      "vincitore": "micmaggi",
+      "durata": "3h 45m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "102027898",
+      "prezzo": "24.16",
+      "vincitore": "stebivac",
+      "durata": "4h 7m",
+      "puntateTotali": "152"
+    }
+  ]
+}

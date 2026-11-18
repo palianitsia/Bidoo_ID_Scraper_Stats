@@ -1,0 +1,24 @@
+{
+  "id": "27534",
+  "title": "L'Oréal SteamPod 4",
+  "records": [
+    {
+      "idAsta": "97097275",
+      "prezzo": "32.01",
+      "vincitore": "signorpigna",
+      "durata": "5h 32m",
+      "puntateTotali": "1532",
+      "paid_bids": "0",
+      "free_bids": "1532"
+    },
+    {
+      "idAsta": "97345362",
+      "prezzo": "28.58",
+      "vincitore": "dol30",
+      "durata": "4h 53m",
+      "puntateTotali": "1272",
+      "paid_bids": "0",
+      "free_bids": "1272"
+    }
+  ]
+}

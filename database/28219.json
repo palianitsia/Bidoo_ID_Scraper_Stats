@@ -1,0 +1,55 @@
+{
+  "id": "28219",
+  "title": "Kenwood Chefette",
+  "records": [
+    {
+      "idAsta": "101574171",
+      "prezzo": "10.26",
+      "vincitore": "irmaduna",
+      "durata": "1h 45m",
+      "puntateTotali": "92"
+    },
+    {
+      "idAsta": "101642850",
+      "prezzo": "16.02",
+      "vincitore": "fraperi",
+      "durata": "2h 39m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "101454105",
+      "prezzo": "6.56",
+      "vincitore": "shadowis",
+      "durata": "1h 6m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101247368",
+      "prezzo": "16.64",
+      "vincitore": "torryuri",
+      "durata": "2h 50m",
+      "puntateTotali": "66"
+    },
+    {
+      "idAsta": "100672795",
+      "prezzo": "24.06",
+      "vincitore": "pagliarogino",
+      "durata": "4h 11m",
+      "puntateTotali": "146"
+    },
+    {
+      "idAsta": "101925521",
+      "prezzo": "15.05",
+      "vincitore": "arancinone",
+      "durata": "2h 38m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "102027970",
+      "prezzo": "9.76",
+      "vincitore": "teodcorti",
+      "durata": "1h 34m",
+      "puntateTotali": "58"
+    }
+  ]
+}

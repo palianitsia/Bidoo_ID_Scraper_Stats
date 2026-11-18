@@ -1,0 +1,15 @@
+{
+  "id": "136",
+  "title": "Grid 2",
+  "records": [
+    {
+      "idAsta": "9022018",
+      "prezzo": "7.60",
+      "vincitore": "babbondanzio",
+      "durata": "1h 15m",
+      "puntateTotali": "36",
+      "paid_bids": "0",
+      "free_bids": "36"
+    }
+  ]
+}

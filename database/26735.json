@@ -1,0 +1,24 @@
+{
+  "id": "26735",
+  "title": "TCL NXTPAPER 60 Ultra 5G",
+  "records": [
+    {
+      "idAsta": "97097340",
+      "prezzo": "60.51",
+      "vincitore": "sritello39",
+      "durata": "10h 26m",
+      "puntateTotali": "133",
+      "paid_bids": "0",
+      "free_bids": "133"
+    },
+    {
+      "idAsta": "97344704",
+      "prezzo": "99.35",
+      "vincitore": "smaretto3",
+      "durata": "16h 50m",
+      "puntateTotali": "4866",
+      "paid_bids": "1412",
+      "free_bids": "3454"
+    }
+  ]
+}

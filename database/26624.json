@@ -1,0 +1,24 @@
+{
+  "id": "26624",
+  "title": "Set da Bistrot da 3",
+  "records": [
+    {
+      "idAsta": "97213796",
+      "prezzo": "3.93",
+      "vincitore": "geppal3o",
+      "durata": "27m",
+      "puntateTotali": "103",
+      "paid_bids": "0",
+      "free_bids": "103"
+    },
+    {
+      "idAsta": "97449458",
+      "prezzo": "25.43",
+      "vincitore": "sghiamarina",
+      "durata": "2h 53m",
+      "puntateTotali": "206",
+      "paid_bids": "0",
+      "free_bids": "206"
+    }
+  ]
+}

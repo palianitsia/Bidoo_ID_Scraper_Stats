@@ -1,0 +1,24 @@
+{
+  "id": "24232",
+  "title": "Zipro Cyclette Drift",
+  "records": [
+    {
+      "idAsta": "97096643",
+      "prezzo": "6.90",
+      "vincitore": "masfiocchia",
+      "durata": "1h 11m",
+      "puntateTotali": "146",
+      "paid_bids": "0",
+      "free_bids": "146"
+    },
+    {
+      "idAsta": "97344769",
+      "prezzo": "4.40",
+      "vincitore": "castrobos",
+      "durata": "45m",
+      "puntateTotali": "14",
+      "paid_bids": "0",
+      "free_bids": "14"
+    }
+  ]
+}

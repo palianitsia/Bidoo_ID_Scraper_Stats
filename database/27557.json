@@ -1,0 +1,87 @@
+{
+  "id": "27557",
+  "title": "Dyson Airwrap i.d. Rosa Cipria/Oro Rosa",
+  "records": [
+    {
+      "idAsta": "97045144",
+      "prezzo": "159.42",
+      "vincitore": "mattont8",
+      "durata": "26h 54m",
+      "puntateTotali": "31",
+      "paid_bids": "0",
+      "free_bids": "31"
+    },
+    {
+      "idAsta": "97151220",
+      "prezzo": "82.79",
+      "vincitore": "tyrarush",
+      "durata": "14h 9m",
+      "puntateTotali": "3454",
+      "paid_bids": "1141",
+      "free_bids": "2313"
+    },
+    {
+      "idAsta": "97208248",
+      "prezzo": "89.62",
+      "vincitore": "calmasi",
+      "durata": "15h 10m",
+      "puntateTotali": "3379",
+      "paid_bids": "638",
+      "free_bids": "2741"
+    },
+    {
+      "idAsta": "97269977",
+      "prezzo": "137.95",
+      "vincitore": "laciorfa",
+      "durata": "23h 5m",
+      "puntateTotali": "54",
+      "paid_bids": "0",
+      "free_bids": "54"
+    },
+    {
+      "idAsta": "97368860",
+      "prezzo": "85.71",
+      "vincitore": "avsa933",
+      "durata": "14h 18m",
+      "puntateTotali": "433",
+      "paid_bids": "0",
+      "free_bids": "433"
+    },
+    {
+      "idAsta": "97427138",
+      "prezzo": "181.27",
+      "vincitore": "makiro63",
+      "durata": "30h 46m",
+      "puntateTotali": "7510",
+      "paid_bids": "812",
+      "free_bids": "6698"
+    },
+    {
+      "idAsta": "97488437",
+      "prezzo": "149.50",
+      "vincitore": "ginestra2",
+      "durata": "12h 58m",
+      "puntateTotali": "82",
+      "paid_bids": "0",
+      "free_bids": "82"
+    },
+    {
+      "idAsta": "97488356",
+      "prezzo": "99.03",
+      "vincitore": "romeo393",
+      "durata": "8h 29m",
+      "puntateTotali": "4662",
+      "paid_bids": "1681",
+      "free_bids": "2981"
+    },
+    {
+      "idAsta": "97488395",
+      "prezzo": "102.67",
+      "vincitore": "caifigu84",
+      "durata": "8h 56m",
+      "puntateTotali": "4899",
+      "paid_bids": "2264",
+      "free_bids": "2635"
+    }
+  ]
+}

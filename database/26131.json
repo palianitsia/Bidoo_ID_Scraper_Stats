@@ -1,0 +1,33 @@
+{
+  "id": "26131",
+  "title": "GUCCI Fermasoldi GG Marmont",
+  "records": [
+    {
+      "idAsta": "97045825",
+      "prezzo": "8.93",
+      "vincitore": "caporalemis",
+      "durata": "1h 41m",
+      "puntateTotali": "414",
+      "paid_bids": "0",
+      "free_bids": "414"
+    },
+    {
+      "idAsta": "97163569",
+      "prezzo": "7.10",
+      "vincitore": "navarrino",
+      "durata": "48m",
+      "puntateTotali": "89",
+      "paid_bids": "46",
+      "free_bids": "43"
+    },
+    {
+      "idAsta": "97284971",
+      "prezzo": "8.02",
+      "vincitore": "vichingo48",
+      "durata": "1h 32m",
+      "puntateTotali": "398",
+      "paid_bids": "0",
+      "free_bids": "398"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "23194",
+  "title": "Oral B Pro Spazzolino da Denti a Batteria",
+  "records": [
+    {
+      "idAsta": "97393162",
+      "prezzo": "0.60",
+      "vincitore": "giammindi",
+      "durata": "3m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "97393074",
+      "prezzo": "1.84",
+      "vincitore": "mariumici",
+      "durata": "7m",
+      "puntateTotali": "18",
+      "paid_bids": "0",
+      "free_bids": "18"
+    }
+  ]
+}

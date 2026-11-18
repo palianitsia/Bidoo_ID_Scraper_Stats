@@ -1,0 +1,55 @@
+{
+  "id": "28090",
+  "title": "Gears of War: E‐Day",
+  "records": [
+    {
+      "idAsta": "101678258",
+      "prezzo": "14.55",
+      "vincitore": "renatarta",
+      "durata": "2h 10m",
+      "puntateTotali": "35"
+    },
+    {
+      "idAsta": "101248719",
+      "prezzo": "4.89",
+      "vincitore": "guidrino",
+      "durata": "51m",
+      "puntateTotali": "25"
+    },
+    {
+      "idAsta": "101294941",
+      "prezzo": "4.85",
+      "vincitore": "mirandarosa",
+      "durata": "50m",
+      "puntateTotali": "69"
+    },
+    {
+      "idAsta": "100865666",
+      "prezzo": "11.28",
+      "vincitore": "vaccador",
+      "durata": "1h 58m",
+      "puntateTotali": "57"
+    },
+    {
+      "idAsta": "100974357",
+      "prezzo": "10.47",
+      "vincitore": "bosisioluca",
+      "durata": "1h 50m",
+      "puntateTotali": "65"
+    },
+    {
+      "idAsta": "100751097",
+      "prezzo": "11.27",
+      "vincitore": "giadero",
+      "durata": "1h 58m",
+      "puntateTotali": "86"
+    },
+    {
+      "idAsta": "101820895",
+      "prezzo": "11.40",
+      "vincitore": "edomanina",
+      "durata": "1h 59m",
+      "puntateTotali": "17"
+    }
+  ]
+}

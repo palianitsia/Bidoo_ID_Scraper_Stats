@@ -1,0 +1,42 @@
+{
+  "id": "4360",
+  "title": "Set Tazzine Faces",
+  "records": [
+    {
+      "idAsta": "9025817",
+      "prezzo": "3.05",
+      "vincitore": "senzatetti",
+      "durata": "28m",
+      "puntateTotali": "143",
+      "paid_bids": "74",
+      "free_bids": "69"
+    },
+    {
+      "idAsta": "9045599",
+      "prezzo": "1.13",
+      "vincitore": "davids072",
+      "durata": "8m",
+      "puntateTotali": "19",
+      "paid_bids": "0",
+      "free_bids": "19"
+    },
+    {
+      "idAsta": "9066975",
+      "prezzo": "1.05",
+      "vincitore": "jamaicanodoc",
+      "durata": "7m",
+      "puntateTotali": "7",
+      "paid_bids": "0",
+      "free_bids": "7"
+    },
+    {
+      "idAsta": "9087309",
+      "prezzo": "6.05",
+      "vincitore": "magessi",
+      "durata": "1h 1m",
+      "puntateTotali": "73",
+      "paid_bids": "0",
+      "free_bids": "73"
+    }
+  ]
+}

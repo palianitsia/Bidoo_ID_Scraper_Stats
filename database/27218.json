@@ -1,0 +1,24 @@
+{
+  "id": "27218",
+  "title": "Passeggino per Cani",
+  "records": [
+    {
+      "idAsta": "97170619",
+      "prezzo": "2.74",
+      "vincitore": "giup39",
+      "durata": "29m",
+      "puntateTotali": "6",
+      "paid_bids": "0",
+      "free_bids": "6"
+    },
+    {
+      "idAsta": "97400605",
+      "prezzo": "2.80",
+      "vincitore": "salihamiz",
+      "durata": "29m",
+      "puntateTotali": "11",
+      "paid_bids": "0",
+      "free_bids": "11"
+    }
+  ]
+}

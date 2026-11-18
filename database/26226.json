@@ -1,0 +1,42 @@
+{
+  "id": "26226",
+  "title": "Lego Pikachu e Poké Ball",
+  "records": [
+    {
+      "idAsta": "97149346",
+      "prezzo": "6.55",
+      "vincitore": "frokkio49",
+      "durata": "43m",
+      "puntateTotali": "241",
+      "paid_bids": "0",
+      "free_bids": "241"
+    },
+    {
+      "idAsta": "97329395",
+      "prezzo": "28.76",
+      "vincitore": "giuseppolo39",
+      "durata": "4h 45m",
+      "puntateTotali": "1270",
+      "paid_bids": "0",
+      "free_bids": "1270"
+    },
+    {
+      "idAsta": "97329394",
+      "prezzo": "20.02",
+      "vincitore": "redondoz",
+      "durata": "2h 14m",
+      "puntateTotali": "12",
+      "paid_bids": "0",
+      "free_bids": "12"
+    },
+    {
+      "idAsta": "97329393",
+      "prezzo": "5.92",
+      "vincitore": "buccaderos",
+      "durata": "30m",
+      "puntateTotali": "288",
+      "paid_bids": "0",
+      "free_bids": "288"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "27885",
+  "title": "Box Apple Pro",
+  "records": [
+    {
+      "idAsta": "101430584",
+      "prezzo": "379.39",
+      "vincitore": "corsocon",
+      "durata": "63h 4m",
+      "puntateTotali": "8776"
+    },
+    {
+      "idAsta": "100799318",
+      "prezzo": "313.87",
+      "vincitore": "giamviti",
+      "durata": "50h 2m",
+      "puntateTotali": "5591"
+    },
+    {
+      "idAsta": "100265787",
+      "prezzo": "199.38",
+      "vincitore": "beacolle",
+      "durata": "33h 9m",
+      "puntateTotali": "343"
+    },
+    {
+      "idAsta": "101676841",
+      "prezzo": "315.74",
+      "vincitore": "umbraleth",
+      "durata": "53h 14m",
+      "puntateTotali": "74"
+    }
+  ]
+}

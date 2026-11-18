@@ -1,0 +1,27 @@
+{
+  "id": "27891",
+  "title": "MSI RTX 5070 VENTUS OC",
+  "records": [
+    {
+      "idAsta": "101078211",
+      "prezzo": "67.70",
+      "vincitore": "quagliobolla",
+      "durata": "11h 31m",
+      "puntateTotali": "3029"
+    },
+    {
+      "idAsta": "100750163",
+      "prezzo": "145.93",
+      "vincitore": "rinaldopepe",
+      "durata": "24h 31m",
+      "puntateTotali": "5892"
+    },
+    {
+      "idAsta": "100636888",
+      "prezzo": "77.97",
+      "vincitore": "paulbravo",
+      "durata": "13h 6m",
+      "puntateTotali": "3670"
+    }
+  ]
+}

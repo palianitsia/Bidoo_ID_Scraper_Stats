@@ -1,0 +1,62 @@
+{
+  "id": "27954",
+  "title": "Lego Batman Returns Batmobile",
+  "records": [
+    {
+      "idAsta": "101333463",
+      "prezzo": "14.73",
+      "vincitore": "tinorogo",
+      "durata": "1h 40m",
+      "puntateTotali": "720"
+    },
+    {
+      "idAsta": "101073648",
+      "prezzo": "27.83",
+      "vincitore": "campanati",
+      "durata": "3h 11m",
+      "puntateTotali": "55"
+    },
+    {
+      "idAsta": "100852577",
+      "prezzo": "25.43",
+      "vincitore": "gianduna",
+      "durata": "3h 4m",
+      "puntateTotali": "1195"
+    },
+    {
+      "idAsta": "100851616",
+      "prezzo": "39.48",
+      "vincitore": "belfiammaardo",
+      "durata": "4h 32m",
+      "puntateTotali": "37"
+    },
+    {
+      "idAsta": "100546037",
+      "prezzo": "105.08",
+      "vincitore": "vtln93",
+      "durata": "11h 55m",
+      "puntateTotali": "3335"
+    },
+    {
+      "idAsta": "101863430",
+      "prezzo": "16.26",
+      "vincitore": "firmeno",
+      "durata": "1h 51m",
+      "puntateTotali": "72"
+    },
+    {
+      "idAsta": "101924983",
+      "prezzo": "39.51",
+      "vincitore": "nocerinaldesi",
+      "durata": "6h 38m",
+      "puntateTotali": "202"
+    },
+    {
+      "idAsta": "101941703",
+      "prezzo": "9.51",
+      "vincitore": "elvioboia",
+      "durata": "58m",
+      "puntateTotali": "298"
+    }
+  ]
+}

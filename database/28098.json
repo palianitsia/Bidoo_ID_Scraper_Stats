@@ -1,0 +1,69 @@
+{
+  "id": "28098",
+  "title": "Bosch Lavapavimenti Serie 6",
+  "records": [
+    {
+      "idAsta": "101583271",
+      "prezzo": "89.53",
+      "vincitore": "ciaovin",
+      "durata": "9h 53m",
+      "puntateTotali": "3682"
+    },
+    {
+      "idAsta": "101489611",
+      "prezzo": "67.48",
+      "vincitore": "dinoorsone",
+      "durata": "11h 17m",
+      "puntateTotali": "3100"
+    },
+    {
+      "idAsta": "101181003",
+      "prezzo": "90.08",
+      "vincitore": "titivex",
+      "durata": "10h 12m",
+      "puntateTotali": "457"
+    },
+    {
+      "idAsta": "101108321",
+      "prezzo": "100.45",
+      "vincitore": "giaccuneo",
+      "durata": "16h 45m",
+      "puntateTotali": "2884"
+    },
+    {
+      "idAsta": "100867354",
+      "prezzo": "114.90",
+      "vincitore": "tonitufo",
+      "durata": "19h 20m",
+      "puntateTotali": "126"
+    },
+    {
+      "idAsta": "100624395",
+      "prezzo": "61.98",
+      "vincitore": "cosmgelo",
+      "durata": "6h 57m",
+      "puntateTotali": "2994"
+    },
+    {
+      "idAsta": "100302476",
+      "prezzo": "90.19",
+      "vincitore": "alvanox",
+      "durata": "15h 20m",
+      "puntateTotali": "3466"
+    },
+    {
+      "idAsta": "100009858",
+      "prezzo": "279.63",
+      "vincitore": "jlajle1",
+      "durata": "46h 58m",
+      "puntateTotali": "11293"
+    },
+    {
+      "idAsta": "101902612",
+      "prezzo": "109.30",
+      "vincitore": "nebulasale",
+      "durata": "18h 7m",
+      "puntateTotali": "41"
+    }
+  ]
+}

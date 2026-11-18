@@ -1,0 +1,41 @@
+{
+  "id": "28221",
+  "title": "Ariete Pastamatic Elettrica",
+  "records": [
+    {
+      "idAsta": "101574167",
+      "prezzo": "50.99",
+      "vincitore": "bruncaduta",
+      "durata": "8h 34m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101078355",
+      "prezzo": "33.45",
+      "vincitore": "tonnolina",
+      "durata": "5h 33m",
+      "puntateTotali": "1199"
+    },
+    {
+      "idAsta": "100672791",
+      "prezzo": "17.69",
+      "vincitore": "840482",
+      "durata": "2h 57m",
+      "puntateTotali": "149"
+    },
+    {
+      "idAsta": "101925520",
+      "prezzo": "52.62",
+      "vincitore": "balumilu",
+      "durata": "8h 22m",
+      "puntateTotali": "144"
+    },
+    {
+      "idAsta": "102027969",
+      "prezzo": "17.38",
+      "vincitore": "alegeta",
+      "durata": "2h 46m",
+      "puntateTotali": "18"
+    }
+  ]
+}

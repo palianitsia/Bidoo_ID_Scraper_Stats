@@ -1,0 +1,27 @@
+{
+  "id": "28101",
+  "title": "Bosch Lavastoviglie Serie 8 Smart",
+  "records": [
+    {
+      "idAsta": "101430876",
+      "prezzo": "200.21",
+      "vincitore": "benmagli",
+      "durata": "33h 44m",
+      "puntateTotali": "7187"
+    },
+    {
+      "idAsta": "100851771",
+      "prezzo": "110.09",
+      "vincitore": "maxrampa",
+      "durata": "18h 31m",
+      "puntateTotali": "76"
+    },
+    {
+      "idAsta": "101802220",
+      "prezzo": "224.80",
+      "vincitore": "albapalor",
+      "durata": "37h 50m",
+      "puntateTotali": "592"
+    }
+  ]
+}

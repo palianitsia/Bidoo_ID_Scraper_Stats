@@ -1,0 +1,90 @@
+{
+  "id": "27849",
+  "title": "Casa di Bluey",
+  "records": [
+    {
+      "idAsta": "101643199",
+      "prezzo": "1.71",
+      "vincitore": "ottobaia",
+      "durata": "15m",
+      "puntateTotali": "7"
+    },
+    {
+      "idAsta": "101454463",
+      "prezzo": "22.41",
+      "vincitore": "miavipera",
+      "durata": "3h 54m",
+      "puntateTotali": "8"
+    },
+    {
+      "idAsta": "101333407",
+      "prezzo": "15.03",
+      "vincitore": "ivangrand",
+      "durata": "1h 48m",
+      "puntateTotali": "16"
+    },
+    {
+      "idAsta": "101333452",
+      "prezzo": "5.68",
+      "vincitore": "gaealto",
+      "durata": "59m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101167044",
+      "prezzo": "14.23",
+      "vincitore": "cupogrifo",
+      "durata": "2h 36m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "100910226",
+      "prezzo": "14.16",
+      "vincitore": "anolpront",
+      "durata": "2h 34m",
+      "puntateTotali": "80"
+    },
+    {
+      "idAsta": "100851607",
+      "prezzo": "8.91",
+      "vincitore": "crocelaur",
+      "durata": "1h 31m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "100302131",
+      "prezzo": "13.00",
+      "vincitore": "lambelore",
+      "durata": "2h 10m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "100197903",
+      "prezzo": "17.73",
+      "vincitore": "artueclissi",
+      "durata": "3h 8m",
+      "puntateTotali": "100"
+    },
+    {
+      "idAsta": "101941694",
+      "prezzo": "14.36",
+      "vincitore": "heliandor",
+      "durata": "2h 14m",
+      "puntateTotali": "43"
+    },
+    {
+      "idAsta": "101941668",
+      "prezzo": "10.50",
+      "vincitore": "solemelia",
+      "durata": "1h 11m",
+      "puntateTotali": "25"
+    },
+    {
+      "idAsta": "102028308",
+      "prezzo": "32.07",
+      "vincitore": "stagnasarar",
+      "durata": "5h 19m",
+      "puntateTotali": "30"
+    }
+  ]
+}

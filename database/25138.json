@@ -1,0 +1,27 @@
+{
+  "id": "25138",
+  "title": "Apple Watch 11 Alluminio Cell 46mm",
+  "records": [
+    {
+      "idAsta": "100987998",
+      "prezzo": "104.36",
+      "vincitore": "lazpala",
+      "durata": "17h 45m",
+      "puntateTotali": "4573"
+    },
+    {
+      "idAsta": "100987978",
+      "prezzo": "50.23",
+      "vincitore": "ugonibbio",
+      "durata": "8h 37m",
+      "puntateTotali": "665"
+    },
+    {
+      "idAsta": "99984616",
+      "prezzo": "105.02",
+      "vincitore": "ghirsmart",
+      "durata": "17h 47m",
+      "puntateTotali": "41"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "28128",
+  "title": "GUCCI Anello a più fasce Chiodo",
+  "records": [
+    {
+      "idAsta": "101449389",
+      "prezzo": "51.27",
+      "vincitore": "nicorupe",
+      "durata": "5h 58m",
+      "puntateTotali": "2393"
+    },
+    {
+      "idAsta": "100786200",
+      "prezzo": "120.45",
+      "vincitore": "piefucci",
+      "durata": "13h 50m",
+      "puntateTotali": "5847"
+    },
+    {
+      "idAsta": "100379962",
+      "prezzo": "58.04",
+      "vincitore": "maxtana",
+      "durata": "6h 44m",
+      "puntateTotali": "2874"
+    }
+  ]
+}

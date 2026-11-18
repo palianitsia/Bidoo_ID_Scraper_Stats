@@ -1,0 +1,27 @@
+{
+  "id": "27167",
+  "title": "Sennheiser HD 660S2",
+  "records": [
+    {
+      "idAsta": "101454390",
+      "prezzo": "97.59",
+      "vincitore": "vendrarocchi",
+      "durata": "16h 40m",
+      "puntateTotali": "67"
+    },
+    {
+      "idAsta": "101643054",
+      "prezzo": "70.28",
+      "vincitore": "dagosalvi",
+      "durata": "11h 33m",
+      "puntateTotali": "52"
+    },
+    {
+      "idAsta": "100910175",
+      "prezzo": "38.45",
+      "vincitore": "torosordo",
+      "durata": "6h 39m",
+      "puntateTotali": "1868"
+    }
+  ]
+}

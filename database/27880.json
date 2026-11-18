@@ -1,0 +1,34 @@
+{
+  "id": "27880",
+  "title": "Apple Watch 12 Alluminio 46mm GPS",
+  "records": [
+    {
+      "idAsta": "100987983",
+      "prezzo": "113.09",
+      "vincitore": "fabrivex",
+      "durata": "12h 59m",
+      "puntateTotali": "39"
+    },
+    {
+      "idAsta": "100988003",
+      "prezzo": "31.33",
+      "vincitore": "nerizeno",
+      "durata": "3h 41m",
+      "puntateTotali": "1383"
+    },
+    {
+      "idAsta": "100974407",
+      "prezzo": "47.79",
+      "vincitore": "velmorin",
+      "durata": "7h 58m",
+      "puntateTotali": "2153"
+    },
+    {
+      "idAsta": "100167648",
+      "prezzo": "438.50",
+      "vincitore": "elioram",
+      "durata": "74h 21m",
+      "puntateTotali": "146"
+    }
+  ]
+}

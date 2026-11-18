@@ -1,0 +1,41 @@
+{
+  "id": "28144",
+  "title": "LG OLED B6E 77\"",
+  "records": [
+    {
+      "idAsta": "101386676",
+      "prezzo": "358.08",
+      "vincitore": "aursave",
+      "durata": "60h 12m",
+      "puntateTotali": "881"
+    },
+    {
+      "idAsta": "100850166",
+      "prezzo": "317.36",
+      "vincitore": "ottofalce",
+      "durata": "53h 23m",
+      "puntateTotali": "606"
+    },
+    {
+      "idAsta": "100440811",
+      "prezzo": "430.67",
+      "vincitore": "pacotana",
+      "durata": "72h 39m",
+      "puntateTotali": "200"
+    },
+    {
+      "idAsta": "100039872",
+      "prezzo": "314.82",
+      "vincitore": "tinobalma",
+      "durata": "53h 7m",
+      "puntateTotali": "372"
+    },
+    {
+      "idAsta": "101753433",
+      "prezzo": "296.61",
+      "vincitore": "satugoma",
+      "durata": "49h 43m",
+      "puntateTotali": "11"
+    }
+  ]
+}

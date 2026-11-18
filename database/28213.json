@@ -1,0 +1,27 @@
+{
+  "id": "28213",
+  "title": "Michael Kors Slim Runway Donna",
+  "records": [
+    {
+      "idAsta": "101583203",
+      "prezzo": "46.22",
+      "vincitore": "rolozane",
+      "durata": "5h 19m",
+      "puntateTotali": "188"
+    },
+    {
+      "idAsta": "100498176",
+      "prezzo": "20.89",
+      "vincitore": "vencasade",
+      "durata": "3h 46m",
+      "puntateTotali": "138"
+    },
+    {
+      "idAsta": "101976628",
+      "prezzo": "14.13",
+      "vincitore": "pixelace",
+      "durata": "48m",
+      "puntateTotali": "176"
+    }
+  ]
+}

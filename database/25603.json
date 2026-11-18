@@ -1,0 +1,33 @@
+{
+  "id": "25603",
+  "title": "Ninja Gaiden 4",
+  "records": [
+    {
+      "idAsta": "97015704",
+      "prezzo": "0.52",
+      "vincitore": "alpimede",
+      "durata": "2m",
+      "puntateTotali": "25",
+      "paid_bids": "0",
+      "free_bids": "25"
+    },
+    {
+      "idAsta": "97208371",
+      "prezzo": "0.56",
+      "vincitore": "armandoci",
+      "durata": "2m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97403887",
+      "prezzo": "4.40",
+      "vincitore": "stefrizzi9",
+      "durata": "46m",
+      "puntateTotali": "23",
+      "paid_bids": "0",
+      "free_bids": "23"
+    }
+  ]
+}

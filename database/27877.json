@@ -1,0 +1,41 @@
+{
+  "id": "27877",
+  "title": "Apple Watch 12 Titanio 42mm Cellular",
+  "records": [
+    {
+      "idAsta": "101581054",
+      "prezzo": "348.92",
+      "vincitore": "joppy79",
+      "durata": "60h 8m",
+      "puntateTotali": "12134"
+    },
+    {
+      "idAsta": "101330113",
+      "prezzo": "114.15",
+      "vincitore": "slealecoyot",
+      "durata": "18h 55m",
+      "puntateTotali": "4721"
+    },
+    {
+      "idAsta": "100987977",
+      "prezzo": "90.10",
+      "vincitore": "piaboccia",
+      "durata": "10h 21m",
+      "puntateTotali": "3963"
+    },
+    {
+      "idAsta": "100987997",
+      "prezzo": "49.69",
+      "vincitore": "mazzucchemasi",
+      "durata": "5h 44m",
+      "puntateTotali": "2343"
+    },
+    {
+      "idAsta": "100636956",
+      "prezzo": "74.19",
+      "vincitore": "bevilagil",
+      "durata": "12h 30m",
+      "puntateTotali": "2947"
+    }
+  ]
+}

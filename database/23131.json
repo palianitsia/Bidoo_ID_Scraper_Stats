@@ -1,0 +1,69 @@
+{
+  "id": "23131",
+  "title": "Galaxy S25 Ultra 256GB",
+  "records": [
+    {
+      "idAsta": "97056004",
+      "prezzo": "359.82",
+      "vincitore": "gioddico3",
+      "durata": "60h 45m",
+      "puntateTotali": "503",
+      "paid_bids": "0",
+      "free_bids": "503"
+    },
+    {
+      "idAsta": "97135374",
+      "prezzo": "419.79",
+      "vincitore": "defeir3",
+      "durata": "71h 34m",
+      "puntateTotali": "638",
+      "paid_bids": "0",
+      "free_bids": "638"
+    },
+    {
+      "idAsta": "97285891",
+      "prezzo": "154.70",
+      "vincitore": "mafaldona10",
+      "durata": "25h 56m",
+      "puntateTotali": "895",
+      "paid_bids": "0",
+      "free_bids": "895"
+    },
+    {
+      "idAsta": "97385118",
+      "prezzo": "148.36",
+      "vincitore": "aprretoy",
+      "durata": "24h 59m",
+      "puntateTotali": "7046",
+      "paid_bids": "0",
+      "free_bids": "7046"
+    },
+    {
+      "idAsta": "97405194",
+      "prezzo": "112.55",
+      "vincitore": "ilmetronista",
+      "durata": "18h 52m",
+      "puntateTotali": "520",
+      "paid_bids": "0",
+      "free_bids": "520"
+    },
+    {
+      "idAsta": "97477393",
+      "prezzo": "170.77",
+      "vincitore": "sarapellisu",
+      "durata": "29h 0m",
+      "puntateTotali": "8280",
+      "paid_bids": "510",
+      "free_bids": "7770"
+    },
+    {
+      "idAsta": "97485130",
+      "prezzo": "275.35",
+      "vincitore": "seimel40",
+      "durata": "46h 26m",
+      "puntateTotali": "13170",
+      "paid_bids": "4185",
+      "free_bids": "8985"
+    }
+  ]
+}

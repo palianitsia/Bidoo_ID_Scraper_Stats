@@ -1,0 +1,48 @@
+{
+  "id": "28122",
+  "title": "Carrera Street Justice Showdown",
+  "records": [
+    {
+      "idAsta": "101333408",
+      "prezzo": "33.05",
+      "vincitore": "patriziabaraldi",
+      "durata": "5h 39m",
+      "puntateTotali": "1319"
+    },
+    {
+      "idAsta": "100851582",
+      "prezzo": "16.49",
+      "vincitore": "gaiamadia",
+      "durata": "2h 49m",
+      "puntateTotali": "140"
+    },
+    {
+      "idAsta": "100816058",
+      "prezzo": "10.69",
+      "vincitore": "aschito",
+      "durata": "1h 50m",
+      "puntateTotali": "127"
+    },
+    {
+      "idAsta": "100329381",
+      "prezzo": "18.38",
+      "vincitore": "orsolarigo",
+      "durata": "3h 10m",
+      "puntateTotali": "66"
+    },
+    {
+      "idAsta": "99985046",
+      "prezzo": "11.55",
+      "vincitore": "elisagamberi",
+      "durata": "1h 59m",
+      "puntateTotali": "99"
+    },
+    {
+      "idAsta": "101941669",
+      "prezzo": "5.26",
+      "vincitore": "mandolinon",
+      "durata": "52m",
+      "puntateTotali": "26"
+    }
+  ]
+}

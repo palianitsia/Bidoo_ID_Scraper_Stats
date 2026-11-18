@@ -1,0 +1,27 @@
+{
+  "id": "28315",
+  "title": "Xiaomi Pad 8 8+256GB",
+  "records": [
+    {
+      "idAsta": "101643129",
+      "prezzo": "103.46",
+      "vincitore": "igisedano",
+      "durata": "16h 36m",
+      "puntateTotali": "408"
+    },
+    {
+      "idAsta": "101454424",
+      "prezzo": "85.74",
+      "vincitore": "tesilino",
+      "durata": "14h 37m",
+      "puntateTotali": "225"
+    },
+    {
+      "idAsta": "101981929",
+      "prezzo": "77.77",
+      "vincitore": "gangiamal",
+      "durata": "13h 13m",
+      "puntateTotali": "3765"
+    }
+  ]
+}

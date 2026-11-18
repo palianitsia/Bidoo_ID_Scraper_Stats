@@ -1,0 +1,41 @@
+{
+  "id": "27848",
+  "title": "LEGO Bluey: Casa della Famiglia di Bluey",
+  "records": [
+    {
+      "idAsta": "101073632",
+      "prezzo": "2.01",
+      "vincitore": "calystis",
+      "durata": "14m",
+      "puntateTotali": "8"
+    },
+    {
+      "idAsta": "100924893",
+      "prezzo": "1.00",
+      "vincitore": "klyvoris",
+      "durata": "10m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "100852556",
+      "prezzo": "2.42",
+      "vincitore": "tomaseschini",
+      "durata": "16m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "100546021",
+      "prezzo": "6.35",
+      "vincitore": "bruniron",
+      "durata": "44m",
+      "puntateTotali": "76"
+    },
+    {
+      "idAsta": "101863414",
+      "prezzo": "7.66",
+      "vincitore": "caporaldino",
+      "durata": "52m",
+      "puntateTotali": "39"
+    }
+  ]
+}

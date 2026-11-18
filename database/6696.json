@@ -1,0 +1,51 @@
+{
+  "id": "6696",
+  "title": "Coltello Circolare",
+  "records": [
+    {
+      "idAsta": "9000289",
+      "prezzo": "2.13",
+      "vincitore": "luca0961",
+      "durata": "16m",
+      "puntateTotali": "55",
+      "paid_bids": "0",
+      "free_bids": "55"
+    },
+    {
+      "idAsta": "9025108",
+      "prezzo": "2.38",
+      "vincitore": "marchimede",
+      "durata": "19m",
+      "puntateTotali": "112",
+      "paid_bids": "0",
+      "free_bids": "112"
+    },
+    {
+      "idAsta": "9045446",
+      "prezzo": "0.82",
+      "vincitore": "antrossi68",
+      "durata": "9m",
+      "puntateTotali": "38",
+      "paid_bids": "38",
+      "free_bids": "0"
+    },
+    {
+      "idAsta": "9066180",
+      "prezzo": "0.58",
+      "vincitore": "jijojop",
+      "durata": "5m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "9086504",
+      "prezzo": "1.26",
+      "vincitore": "poijo",
+      "durata": "11m",
+      "puntateTotali": "48",
+      "paid_bids": "3",
+      "free_bids": "45"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7504",
+  "title": "iPhone 11 128Gb",
+  "records": [
+    {
+      "idAsta": "9038713",
+      "prezzo": "132.66",
+      "vincitore": "menomali",
+      "durata": "14h 30m",
+      "puntateTotali": "3834",
+      "paid_bids": "1109",
+      "free_bids": "2725"
+    },
+    {
+      "idAsta": "9081162",
+      "prezzo": "149.40",
+      "vincitore": "coigen",
+      "durata": "15h 47m",
+      "puntateTotali": "4050",
+      "paid_bids": "1256",
+      "free_bids": "2794"
+    }
+  ]
+}

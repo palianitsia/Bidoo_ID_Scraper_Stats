@@ -1,0 +1,1420 @@
+{
+  "id": "25529",
+  "title": "Set Bollitore e Tazze Breakfast Station",
+  "records": [
+    {
+      "idAsta": "101879934",
+      "prezzo": "1.67",
+      "vincitore": "vorlagos",
+      "durata": "7m",
+      "puntateTotali": "65"
+    },
+    {
+      "idAsta": "101878492",
+      "prezzo": "2.92",
+      "vincitore": "tagliafer",
+      "durata": "29m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101876580",
+      "prezzo": "1.21",
+      "vincitore": "pheldora",
+      "durata": "12m",
+      "puntateTotali": "39"
+    },
+    {
+      "idAsta": "101877165",
+      "prezzo": "2.73",
+      "vincitore": "gufogelo",
+      "durata": "9m",
+      "puntateTotali": "12"
+    },
+    {
+      "idAsta": "101874029",
+      "prezzo": "4.64",
+      "vincitore": "rumornin",
+      "durata": "15m",
+      "puntateTotali": "69"
+    },
+    {
+      "idAsta": "101872997",
+      "prezzo": "3.81",
+      "vincitore": "adinouli",
+      "durata": "38m",
+      "puntateTotali": "68"
+    },
+    {
+      "idAsta": "101871075",
+      "prezzo": "2.85",
+      "vincitore": "ginofumo",
+      "durata": "11m",
+      "puntateTotali": "119"
+    },
+    {
+      "idAsta": "101867218",
+      "prezzo": "7.37",
+      "vincitore": "zigliardo",
+      "durata": "1h 7m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101864249",
+      "prezzo": "6.50",
+      "vincitore": "leanrosma",
+      "durata": "24m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "101882579",
+      "prezzo": "1.72",
+      "vincitore": "tinotilt",
+      "durata": "6m",
+      "puntateTotali": "58"
+    },
+    {
+      "idAsta": "101868315",
+      "prezzo": "2.41",
+      "vincitore": "hudcipolla",
+      "durata": "7m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101864041",
+      "prezzo": "2.95",
+      "vincitore": "ennostran",
+      "durata": "30m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "101860895",
+      "prezzo": "3.28",
+      "vincitore": "quisigaro",
+      "durata": "14m",
+      "puntateTotali": "70"
+    },
+    {
+      "idAsta": "101861548",
+      "prezzo": "1.86",
+      "vincitore": "pinodente",
+      "durata": "18m",
+      "puntateTotali": "13"
+    },
+    {
+      "idAsta": "101855300",
+      "prezzo": "1.06",
+      "vincitore": "yldoria",
+      "durata": "10m",
+      "puntateTotali": "24"
+    },
+    {
+      "idAsta": "101859774",
+      "prezzo": "1.05",
+      "vincitore": "bennyyy79",
+      "durata": "9m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "101857739",
+      "prezzo": "1.47",
+      "vincitore": "ugopescator",
+      "durata": "14m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101858596",
+      "prezzo": "0.33",
+      "vincitore": "buondi24",
+      "durata": "1m",
+      "puntateTotali": "13"
+    },
+    {
+      "idAsta": "101846586",
+      "prezzo": "7.45",
+      "vincitore": "guido090",
+      "durata": "1h 10m",
+      "puntateTotali": "229"
+    },
+    {
+      "idAsta": "101849104",
+      "prezzo": "0.37",
+      "vincitore": "pinnaredda",
+      "durata": "1m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101855302",
+      "prezzo": "1.56",
+      "vincitore": "igorpront",
+      "durata": "7m",
+      "puntateTotali": "66"
+    },
+    {
+      "idAsta": "101852371",
+      "prezzo": "2.02",
+      "vincitore": "fautelo",
+      "durata": "20m",
+      "puntateTotali": "31"
+    },
+    {
+      "idAsta": "101851460",
+      "prezzo": "4.56",
+      "vincitore": "ladesy93",
+      "durata": "17m",
+      "puntateTotali": "5"
+    },
+    {
+      "idAsta": "101846731",
+      "prezzo": "0.55",
+      "vincitore": "bossfumo",
+      "durata": "2m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101637875",
+      "prezzo": "4.25",
+      "vincitore": "botticell",
+      "durata": "16m",
+      "puntateTotali": "55"
+    },
+    {
+      "idAsta": "101625057",
+      "prezzo": "11.66",
+      "vincitore": "gigicovo",
+      "durata": "2h 0m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101823370",
+      "prezzo": "3.53",
+      "vincitore": "seguimileo",
+      "durata": "37m",
+      "puntateTotali": "40"
+    },
+    {
+      "idAsta": "101635666",
+      "prezzo": "0.45",
+      "vincitore": "pippinott",
+      "durata": "2m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "101642494",
+      "prezzo": "0.68",
+      "vincitore": "miacolpo",
+      "durata": "7m",
+      "puntateTotali": "31"
+    },
+    {
+      "idAsta": "101721278",
+      "prezzo": "2.53",
+      "vincitore": "darilag",
+      "durata": "25m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "101784334",
+      "prezzo": "18.21",
+      "vincitore": "michele822",
+      "durata": "3h 1m",
+      "puntateTotali": "869"
+    },
+    {
+      "idAsta": "101754380",
+      "prezzo": "6.08",
+      "vincitore": "joystivale",
+      "durata": "59m",
+      "puntateTotali": "25"
+    },
+    {
+      "idAsta": "101827814",
+      "prezzo": "4.97",
+      "vincitore": "matinido",
+      "durata": "18m",
+      "puntateTotali": "75"
+    },
+    {
+      "idAsta": "101646247",
+      "prezzo": "1.45",
+      "vincitore": "docpetardo",
+      "durata": "6m",
+      "puntateTotali": "60"
+    },
+    {
+      "idAsta": "101586615",
+      "prezzo": "0.40",
+      "vincitore": "orsotorvo",
+      "durata": "2m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101824816",
+      "prezzo": "4.64",
+      "vincitore": "loreregina",
+      "durata": "20m",
+      "puntateTotali": "52"
+    },
+    {
+      "idAsta": "101705916",
+      "prezzo": "2.13",
+      "vincitore": "melbotte",
+      "durata": "9m",
+      "puntateTotali": "36"
+    },
+    {
+      "idAsta": "101667132",
+      "prezzo": "7.75",
+      "vincitore": "pindomario",
+      "durata": "52m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101579294",
+      "prezzo": "0.45",
+      "vincitore": "fosconte",
+      "durata": "2m",
+      "puntateTotali": "13"
+    },
+    {
+      "idAsta": "101790664",
+      "prezzo": "6.69",
+      "vincitore": "bitkaki",
+      "durata": "18m",
+      "puntateTotali": "230"
+    },
+    {
+      "idAsta": "101748548",
+      "prezzo": "0.51",
+      "vincitore": "agoserie",
+      "durata": "2m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101611694",
+      "prezzo": "3.02",
+      "vincitore": "vendemmiat",
+      "durata": "30m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101577840",
+      "prezzo": "4.97",
+      "vincitore": "primofattore",
+      "durata": "51m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "101756240",
+      "prezzo": "11.60",
+      "vincitore": "zagor202020",
+      "durata": "42m",
+      "puntateTotali": "235"
+    },
+    {
+      "idAsta": "101798623",
+      "prezzo": "1.53",
+      "vincitore": "renrubi",
+      "durata": "15m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101617883",
+      "prezzo": "0.71",
+      "vincitore": "remogora",
+      "durata": "7m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "101607625",
+      "prezzo": "0.76",
+      "vincitore": "enzotrota",
+      "durata": "3m",
+      "puntateTotali": "36"
+    },
+    {
+      "idAsta": "101643582",
+      "prezzo": "1.54",
+      "vincitore": "ilapisano",
+      "durata": "6m",
+      "puntateTotali": "66"
+    },
+    {
+      "idAsta": "101614888",
+      "prezzo": "0.16",
+      "vincitore": "ellegi99",
+      "durata": "1m",
+      "puntateTotali": "7"
+    },
+    {
+      "idAsta": "101737288",
+      "prezzo": "1.47",
+      "vincitore": "isitaddei",
+      "durata": "15m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "101727957",
+      "prezzo": "2.14",
+      "vincitore": "egidbio",
+      "durata": "2m",
+      "puntateTotali": "38"
+    },
+    {
+      "idAsta": "101598193",
+      "prezzo": "0.82",
+      "vincitore": "pinosboccia",
+      "durata": "8m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "101840656",
+      "prezzo": "5.01",
+      "vincitore": "padronugo",
+      "durata": "47m",
+      "puntateTotali": "8"
+    },
+    {
+      "idAsta": "101728436",
+      "prezzo": "10.47",
+      "vincitore": "ulicanne",
+      "durata": "1h 33m",
+      "puntateTotali": "8"
+    },
+    {
+      "idAsta": "101641047",
+      "prezzo": "0.83",
+      "vincitore": "rinobocciar",
+      "durata": "4m",
+      "puntateTotali": "31"
+    },
+    {
+      "idAsta": "101626816",
+      "prezzo": "3.19",
+      "vincitore": "laggaccio",
+      "durata": "13m",
+      "puntateTotali": "74"
+    },
+    {
+      "idAsta": "101665083",
+      "prezzo": "5.04",
+      "vincitore": "lronchi70",
+      "durata": "9m",
+      "puntateTotali": "204"
+    },
+    {
+      "idAsta": "101776544",
+      "prezzo": "0.77",
+      "vincitore": "lampobuio",
+      "durata": "7m",
+      "puntateTotali": "12"
+    },
+    {
+      "idAsta": "101687629",
+      "prezzo": "0.83",
+      "vincitore": "titorogo",
+      "durata": "8m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101656618",
+      "prezzo": "1.07",
+      "vincitore": "saulvlog",
+      "durata": "11m",
+      "puntateTotali": "34"
+    },
+    {
+      "idAsta": "101704616",
+      "prezzo": "3.93",
+      "vincitore": "montebon",
+      "durata": "33m",
+      "puntateTotali": "35"
+    },
+    {
+      "idAsta": "101833812",
+      "prezzo": "11.70",
+      "vincitore": "fabiotufo",
+      "durata": "43m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101591871",
+      "prezzo": "5.10",
+      "vincitore": "bettozan",
+      "durata": "20m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101778141",
+      "prezzo": "4.22",
+      "vincitore": "libpieri",
+      "durata": "42m",
+      "puntateTotali": "15"
+    },
+    {
+      "idAsta": "101656121",
+      "prezzo": "0.39",
+      "vincitore": "vincezane",
+      "durata": "1m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101769124",
+      "prezzo": "10.03",
+      "vincitore": "buongustai",
+      "durata": "38m",
+      "puntateTotali": "217"
+    },
+    {
+      "idAsta": "101675868",
+      "prezzo": "0.38",
+      "vincitore": "espressone",
+      "durata": "1m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "101735695",
+      "prezzo": "1.47",
+      "vincitore": "rabaoscar",
+      "durata": "8m",
+      "puntateTotali": "45"
+    },
+    {
+      "idAsta": "101766819",
+      "prezzo": "0.32",
+      "vincitore": "sfidaiene",
+      "durata": "1m",
+      "puntateTotali": "16"
+    },
+    {
+      "idAsta": "101645869",
+      "prezzo": "5.66",
+      "vincitore": "domelievi",
+      "durata": "57m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "101822086",
+      "prezzo": "2.01",
+      "vincitore": "gemmalga",
+      "durata": "9m",
+      "puntateTotali": "88"
+    },
+    {
+      "idAsta": "101661896",
+      "prezzo": "7.68",
+      "vincitore": "liberocarusu",
+      "durata": "1h 6m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "101702559",
+      "prezzo": "1.44",
+      "vincitore": "dalicodino",
+      "durata": "15m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101658393",
+      "prezzo": "1.00",
+      "vincitore": "mormiche",
+      "durata": "9m",
+      "puntateTotali": "15"
+    },
+    {
+      "idAsta": "101648881",
+      "prezzo": "5.56",
+      "vincitore": "pubtega",
+      "durata": "21m",
+      "puntateTotali": "13"
+    },
+    {
+      "idAsta": "101787914",
+      "prezzo": "3.77",
+      "vincitore": "oddofattore",
+      "durata": "10m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101667755",
+      "prezzo": "0.83",
+      "vincitore": "gegecorno",
+      "durata": "3m",
+      "puntateTotali": "36"
+    },
+    {
+      "idAsta": "101838571",
+      "prezzo": "1.24",
+      "vincitore": "brazzogherdi",
+      "durata": "5m",
+      "puntateTotali": "44"
+    },
+    {
+      "idAsta": "101605124",
+      "prezzo": "6.59",
+      "vincitore": "npcsonno",
+      "durata": "1h 6m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "101582236",
+      "prezzo": "1.99",
+      "vincitore": "rinalupa",
+      "durata": "19m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101679350",
+      "prezzo": "0.87",
+      "vincitore": "belluval",
+      "durata": "9m",
+      "puntateTotali": "31"
+    },
+    {
+      "idAsta": "101717223",
+      "prezzo": "4.78",
+      "vincitore": "nivbambo",
+      "durata": "46m",
+      "puntateTotali": "49"
+    },
+    {
+      "idAsta": "101802765",
+      "prezzo": "5.63",
+      "vincitore": "cavatacon",
+      "durata": "19m",
+      "puntateTotali": "53"
+    },
+    {
+      "idAsta": "101618992",
+      "prezzo": "5.19",
+      "vincitore": "bitcarro",
+      "durata": "21m",
+      "puntateTotali": "54"
+    },
+    {
+      "idAsta": "101699820",
+      "prezzo": "15.26",
+      "vincitore": "mazzoccato",
+      "durata": "1h 0m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "101813278",
+      "prezzo": "5.38",
+      "vincitore": "davcore",
+      "durata": "20m",
+      "puntateTotali": "157"
+    },
+    {
+      "idAsta": "101611866",
+      "prezzo": "0.37",
+      "vincitore": "castelbar",
+      "durata": "1m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "101816487",
+      "prezzo": "1.47",
+      "vincitore": "ermebotol",
+      "durata": "6m",
+      "puntateTotali": "62"
+    },
+    {
+      "idAsta": "101720718",
+      "prezzo": "1.17",
+      "vincitore": "novembar",
+      "durata": "4m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101743482",
+      "prezzo": "0.50",
+      "vincitore": "voracelup",
+      "durata": "5m",
+      "puntateTotali": "15"
+    },
+    {
+      "idAsta": "101595358",
+      "prezzo": "0.40",
+      "vincitore": "vascocoatto",
+      "durata": "1m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "101588954",
+      "prezzo": "2.37",
+      "vincitore": "fiaccovaran",
+      "durata": "10m",
+      "puntateTotali": "94"
+    },
+    {
+      "idAsta": "101694812",
+      "prezzo": "1.67",
+      "vincitore": "eugefrost",
+      "durata": "6m",
+      "puntateTotali": "59"
+    },
+    {
+      "idAsta": "101681437",
+      "prezzo": "1.28",
+      "vincitore": "rosbone",
+      "durata": "13m",
+      "puntateTotali": "5"
+    },
+    {
+      "idAsta": "101616105",
+      "prezzo": "1.03",
+      "vincitore": "yattaman23",
+      "durata": "10m",
+      "puntateTotali": "11"
+    },
+    {
+      "idAsta": "101587126",
+      "prezzo": "1.57",
+      "vincitore": "danylogan",
+      "durata": "16m",
+      "puntateTotali": "4"
+    },
+    {
+      "idAsta": "101796950",
+      "prezzo": "0.66",
+      "vincitore": "bruzacca",
+      "durata": "6m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "101772851",
+      "prezzo": "1.45",
+      "vincitore": "fornforte",
+      "durata": "13m",
+      "puntateTotali": "32"
+    },
+    {
+      "idAsta": "101653447",
+      "prezzo": "0.75",
+      "vincitore": "zephelis",
+      "durata": "7m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "101739305",
+      "prezzo": "4.76",
+      "vincitore": "ilagratta",
+      "durata": "46m",
+      "puntateTotali": "55"
+    },
+    {
+      "idAsta": "101744925",
+      "prezzo": "6.83",
+      "vincitore": "ildedrago",
+      "durata": "1h 0m",
+      "puntateTotali": "109"
+    },
+    {
+      "idAsta": "101818989",
+      "prezzo": "6.71",
+      "vincitore": "gael1520",
+      "durata": "15m",
+      "puntateTotali": "78"
+    },
+    {
+      "idAsta": "101576444",
+      "prezzo": "2.73",
+      "vincitore": "carlotana",
+      "durata": "11m",
+      "puntateTotali": "41"
+    },
+    {
+      "idAsta": "101840971",
+      "prezzo": "2.47",
+      "vincitore": "ottegarba",
+      "durata": "10m",
+      "puntateTotali": "99"
+    },
+    {
+      "idAsta": "101673293",
+      "prezzo": "0.65",
+      "vincitore": "cleperro",
+      "durata": "6m",
+      "puntateTotali": "24"
+    },
+    {
+      "idAsta": "101690979",
+      "prezzo": "4.13",
+      "vincitore": "euftofani",
+      "durata": "43m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101627745",
+      "prezzo": "0.30",
+      "vincitore": "verapece",
+      "durata": "1m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101781952",
+      "prezzo": "2.06",
+      "vincitore": "lombacorr",
+      "durata": "20m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101626687",
+      "prezzo": "3.60",
+      "vincitore": "anaylos6",
+      "durata": "14m",
+      "puntateTotali": "60"
+    },
+    {
+      "idAsta": "101652414",
+      "prezzo": "6.43",
+      "vincitore": "amedefer",
+      "durata": "24m",
+      "puntateTotali": "25"
+    },
+    {
+      "idAsta": "101741655",
+      "prezzo": "7.06",
+      "vincitore": "alasseren",
+      "durata": "34m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101750941",
+      "prezzo": "0.32",
+      "vincitore": "sibyllon",
+      "durata": "1m",
+      "puntateTotali": "16"
+    },
+    {
+      "idAsta": "101739379",
+      "prezzo": "1.38",
+      "vincitore": "moscabal",
+      "durata": "2m",
+      "puntateTotali": "65"
+    },
+    {
+      "idAsta": "101683371",
+      "prezzo": "0.99",
+      "vincitore": "orfeobile",
+      "durata": "10m",
+      "puntateTotali": "44"
+    },
+    {
+      "idAsta": "101746062",
+      "prezzo": "0.93",
+      "vincitore": "piecuore",
+      "durata": "4m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "101581563",
+      "prezzo": "0.34",
+      "vincitore": "bigiolinc",
+      "durata": "1m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101759520",
+      "prezzo": "8.34",
+      "vincitore": "arpalvl",
+      "durata": "1h 16m",
+      "puntateTotali": "73"
+    },
+    {
+      "idAsta": "101614109",
+      "prezzo": "0.54",
+      "vincitore": "notturnomar",
+      "durata": "2m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101752027",
+      "prezzo": "1.46",
+      "vincitore": "atarin",
+      "durata": "14m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101584149",
+      "prezzo": "0.76",
+      "vincitore": "caligine",
+      "durata": "3m",
+      "puntateTotali": "36"
+    },
+    {
+      "idAsta": "101679129",
+      "prezzo": "0.66",
+      "vincitore": "paopoll",
+      "durata": "3m",
+      "puntateTotali": "32"
+    },
+    {
+      "idAsta": "101644093",
+      "prezzo": "0.92",
+      "vincitore": "narcioddo",
+      "durata": "9m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "101723121",
+      "prezzo": "0.41",
+      "vincitore": "falcoarso",
+      "durata": "2m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101660125",
+      "prezzo": "1.01",
+      "vincitore": "lanternott",
+      "durata": "10m",
+      "puntateTotali": "44"
+    },
+    {
+      "idAsta": "101797107",
+      "prezzo": "2.32",
+      "vincitore": "extralifer",
+      "durata": "7m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "101689259",
+      "prezzo": "0.97",
+      "vincitore": "liosalama",
+      "durata": "10m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "101806663",
+      "prezzo": "0.84",
+      "vincitore": "linabadi",
+      "durata": "3m",
+      "puntateTotali": "37"
+    },
+    {
+      "idAsta": "101640457",
+      "prezzo": "1.39",
+      "vincitore": "thymaris",
+      "durata": "14m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101826064",
+      "prezzo": "0.36",
+      "vincitore": "isidociato",
+      "durata": "8m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "101723946",
+      "prezzo": "0.57",
+      "vincitore": "ilvosanto",
+      "durata": "5m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "101831171",
+      "prezzo": "1.98",
+      "vincitore": "remareven",
+      "durata": "8m",
+      "puntateTotali": "65"
+    },
+    {
+      "idAsta": "101825979",
+      "prezzo": "1.15",
+      "vincitore": "albebruni",
+      "durata": "31m",
+      "puntateTotali": "54"
+    },
+    {
+      "idAsta": "101801202",
+      "prezzo": "25.54",
+      "vincitore": "gianfang",
+      "durata": "4h 18m",
+      "puntateTotali": "103"
+    },
+    {
+      "idAsta": "101661772",
+      "prezzo": "5.39",
+      "vincitore": "cyndoris",
+      "durata": "18m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "101694950",
+      "prezzo": "10.20",
+      "vincitore": "immadamia",
+      "durata": "1h 42m",
+      "puntateTotali": "8"
+    },
+    {
+      "idAsta": "101622685",
+      "prezzo": "1.31",
+      "vincitore": "lionrame",
+      "durata": "5m",
+      "puntateTotali": "45"
+    },
+    {
+      "idAsta": "101725420",
+      "prezzo": "1.56",
+      "vincitore": "gelsomoro",
+      "durata": "6m",
+      "puntateTotali": "35"
+    },
+    {
+      "idAsta": "101619501",
+      "prezzo": "3.73",
+      "vincitore": "uffa17",
+      "durata": "37m",
+      "puntateTotali": "185"
+    },
+    {
+      "idAsta": "101714067",
+      "prezzo": "3.49",
+      "vincitore": "ricamatri",
+      "durata": "32m",
+      "puntateTotali": "43"
+    },
+    {
+      "idAsta": "101708782",
+      "prezzo": "2.84",
+      "vincitore": "spanumela",
+      "durata": "10m",
+      "puntateTotali": "39"
+    },
+    {
+      "idAsta": "101632967",
+      "prezzo": "2.04",
+      "vincitore": "jandavid",
+      "durata": "8m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "101800152",
+      "prezzo": "1.61",
+      "vincitore": "dorpira",
+      "durata": "6m",
+      "puntateTotali": "70"
+    },
+    {
+      "idAsta": "101818854",
+      "prezzo": "8.38",
+      "vincitore": "egeripinoli",
+      "durata": "53m",
+      "puntateTotali": "51"
+    },
+    {
+      "idAsta": "101753822",
+      "prezzo": "1.00",
+      "vincitore": "cartuccero",
+      "durata": "3m",
+      "puntateTotali": "48"
+    },
+    {
+      "idAsta": "101626539",
+      "prezzo": "1.87",
+      "vincitore": "fotogigetto",
+      "durata": "7m",
+      "puntateTotali": "68"
+    },
+    {
+      "idAsta": "101584869",
+      "prezzo": "1.88",
+      "vincitore": "ivacorni",
+      "durata": "17m",
+      "puntateTotali": "86"
+    },
+    {
+      "idAsta": "101629983",
+      "prezzo": "3.37",
+      "vincitore": "gionodo",
+      "durata": "11m",
+      "puntateTotali": "63"
+    },
+    {
+      "idAsta": "101838141",
+      "prezzo": "2.42",
+      "vincitore": "falcobra",
+      "durata": "23m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "101697468",
+      "prezzo": "0.68",
+      "vincitore": "caligios",
+      "durata": "3m",
+      "puntateTotali": "31"
+    },
+    {
+      "idAsta": "101707916",
+      "prezzo": "7.72",
+      "vincitore": "spallanza",
+      "durata": "1h 19m",
+      "puntateTotali": "16"
+    },
+    {
+      "idAsta": "101889775",
+      "prezzo": "2.81",
+      "vincitore": "piovespa",
+      "durata": "25m",
+      "puntateTotali": "11"
+    },
+    {
+      "idAsta": "101892388",
+      "prezzo": "8.48",
+      "vincitore": "sistodeltram",
+      "durata": "20m",
+      "puntateTotali": "105"
+    },
+    {
+      "idAsta": "101892504",
+      "prezzo": "7.50",
+      "vincitore": "barbabruno",
+      "durata": "1h 11m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101885233",
+      "prezzo": "1.53",
+      "vincitore": "voltacarro",
+      "durata": "6m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "101887822",
+      "prezzo": "0.54",
+      "vincitore": "ugotenda",
+      "durata": "2m",
+      "puntateTotali": "25"
+    },
+    {
+      "idAsta": "101887106",
+      "prezzo": "2.33",
+      "vincitore": "cufflud",
+      "durata": "24m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "101890158",
+      "prezzo": "0.35",
+      "vincitore": "kurt666",
+      "durata": "1m",
+      "puntateTotali": "11"
+    },
+    {
+      "idAsta": "101881544",
+      "prezzo": "6.95",
+      "vincitore": "rompielmi",
+      "durata": "1h 8m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "101833177",
+      "prezzo": "6.46",
+      "vincitore": "martapausa",
+      "durata": "1h 3m",
+      "puntateTotali": "25"
+    },
+    {
+      "idAsta": "101828368",
+      "prezzo": "6.00",
+      "vincitore": "gielumin",
+      "durata": "1h 0m",
+      "puntateTotali": "11"
+    },
+    {
+      "idAsta": "101809071",
+      "prezzo": "10.23",
+      "vincitore": "porzio1996",
+      "durata": "33m",
+      "puntateTotali": "431"
+    },
+    {
+      "idAsta": "101779658",
+      "prezzo": "15.30",
+      "vincitore": "lelerospo",
+      "durata": "55m",
+      "puntateTotali": "19"
+    },
+    {
+      "idAsta": "101774811",
+      "prezzo": "0.91",
+      "vincitore": "fedleone",
+      "durata": "9m",
+      "puntateTotali": "31"
+    },
+    {
+      "idAsta": "101785303",
+      "prezzo": "3.40",
+      "vincitore": "gigipece",
+      "durata": "6m",
+      "puntateTotali": "123"
+    },
+    {
+      "idAsta": "101777212",
+      "prezzo": "1.13",
+      "vincitore": "bandianni",
+      "durata": "5m",
+      "puntateTotali": "47"
+    },
+    {
+      "idAsta": "101771318",
+      "prezzo": "0.61",
+      "vincitore": "mestoport",
+      "durata": "6m",
+      "puntateTotali": "11"
+    },
+    {
+      "idAsta": "101768274",
+      "prezzo": "3.01",
+      "vincitore": "ivospada",
+      "durata": "30m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101773745",
+      "prezzo": "4.02",
+      "vincitore": "buggyzap92",
+      "durata": "19m",
+      "puntateTotali": "55"
+    },
+    {
+      "idAsta": "101765687",
+      "prezzo": "2.62",
+      "vincitore": "iosol",
+      "durata": "24m",
+      "puntateTotali": "37"
+    },
+    {
+      "idAsta": "101764078",
+      "prezzo": "1.30",
+      "vincitore": "lidialama",
+      "durata": "6m",
+      "puntateTotali": "24"
+    },
+    {
+      "idAsta": "101761418",
+      "prezzo": "2.41",
+      "vincitore": "miabronzo",
+      "durata": "7m",
+      "puntateTotali": "75"
+    },
+    {
+      "idAsta": "101749875",
+      "prezzo": "0.98",
+      "vincitore": "lumetilt",
+      "durata": "9m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101736421",
+      "prezzo": "3.56",
+      "vincitore": "sarumanneri",
+      "durata": "13m",
+      "puntateTotali": "135"
+    },
+    {
+      "idAsta": "101725414",
+      "prezzo": "3.09",
+      "vincitore": "ettovalli",
+      "durata": "31m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "101730237",
+      "prezzo": "22.57",
+      "vincitore": "ariann6224",
+      "durata": "1h 9m",
+      "puntateTotali": "2"
+    },
+    {
+      "idAsta": "101691448",
+      "prezzo": "5.71",
+      "vincitore": "ugobitone",
+      "durata": "18m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "101688941",
+      "prezzo": "1.07",
+      "vincitore": "vettomode",
+      "durata": "5m",
+      "puntateTotali": "44"
+    },
+    {
+      "idAsta": "101685104",
+      "prezzo": "2.07",
+      "vincitore": "pierlumin",
+      "durata": "21m",
+      "puntateTotali": "49"
+    },
+    {
+      "idAsta": "101681979",
+      "prezzo": "5.68",
+      "vincitore": "tonidusk",
+      "durata": "23m",
+      "puntateTotali": "59"
+    },
+    {
+      "idAsta": "101685623",
+      "prezzo": "3.67",
+      "vincitore": "lidirusso",
+      "durata": "16m",
+      "puntateTotali": "126"
+    },
+    {
+      "idAsta": "101674946",
+      "prezzo": "3.80",
+      "vincitore": "aquila6693",
+      "durata": "37m",
+      "puntateTotali": "39"
+    },
+    {
+      "idAsta": "101658398",
+      "prezzo": "5.81",
+      "vincitore": "damraimo",
+      "durata": "19m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "101673450",
+      "prezzo": "1.13",
+      "vincitore": "rinozinc",
+      "durata": "5m",
+      "puntateTotali": "48"
+    },
+    {
+      "idAsta": "101655027",
+      "prezzo": "0.80",
+      "vincitore": "ivorovo",
+      "durata": "7m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101650607",
+      "prezzo": "2.59",
+      "vincitore": "norceppo",
+      "durata": "26m",
+      "puntateTotali": "7"
+    },
+    {
+      "idAsta": "101636827",
+      "prezzo": "1.28",
+      "vincitore": "manubecco",
+      "durata": "13m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101634161",
+      "prezzo": "2.43",
+      "vincitore": "odospino",
+      "durata": "25m",
+      "puntateTotali": "36"
+    },
+    {
+      "idAsta": "101623197",
+      "prezzo": "1.23",
+      "vincitore": "limelodo",
+      "durata": "11m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "101625194",
+      "prezzo": "0.35",
+      "vincitore": "barbascopa",
+      "durata": "1m",
+      "puntateTotali": "16"
+    },
+    {
+      "idAsta": "101616512",
+      "prezzo": "0.55",
+      "vincitore": "dantepira",
+      "durata": "2m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101599860",
+      "prezzo": "6.64",
+      "vincitore": "phantaris",
+      "durata": "1h 6m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101602657",
+      "prezzo": "1.34",
+      "vincitore": "lanfieno",
+      "durata": "6m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "101600003",
+      "prezzo": "1.59",
+      "vincitore": "ninamerlo",
+      "durata": "8m",
+      "puntateTotali": "74"
+    },
+    {
+      "idAsta": "101597688",
+      "prezzo": "0.43",
+      "vincitore": "laustorno",
+      "durata": "2m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "101589284",
+      "prezzo": "8.04",
+      "vincitore": "tombagelo",
+      "durata": "1h 19m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101573834",
+      "prezzo": "0.60",
+      "vincitore": "aldivespa",
+      "durata": "3m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "101572051",
+      "prezzo": "1.61",
+      "vincitore": "licicimmi",
+      "durata": "16m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "101571494",
+      "prezzo": "0.56",
+      "vincitore": "arducate",
+      "durata": "2m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101565532",
+      "prezzo": "2.91",
+      "vincitore": "utofalce",
+      "durata": "12m",
+      "puntateTotali": "125"
+    },
+    {
+      "idAsta": "101570398",
+      "prezzo": "0.86",
+      "vincitore": "micsorge",
+      "durata": "8m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101568421",
+      "prezzo": "0.40",
+      "vincitore": "brinacupa",
+      "durata": "1m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101566830",
+      "prezzo": "3.10",
+      "vincitore": "marydega",
+      "durata": "27m",
+      "puntateTotali": "36"
+    }
+  ]
+}

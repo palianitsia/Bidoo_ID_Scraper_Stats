@@ -1,0 +1,33 @@
+{
+  "id": "25388",
+  "title": "Kenwood Triblade XL Pro 1200W",
+  "records": [
+    {
+      "idAsta": "97075780",
+      "prezzo": "29.88",
+      "vincitore": "pagapos03",
+      "durata": "4h 44m",
+      "puntateTotali": "106",
+      "paid_bids": "0",
+      "free_bids": "106"
+    },
+    {
+      "idAsta": "97343765",
+      "prezzo": "11.84",
+      "vincitore": "quantico93",
+      "durata": "1h 21m",
+      "puntateTotali": "112",
+      "paid_bids": "0",
+      "free_bids": "112"
+    },
+    {
+      "idAsta": "97432406",
+      "prezzo": "12.20",
+      "vincitore": "sedulide39",
+      "durata": "2h 4m",
+      "puntateTotali": "17",
+      "paid_bids": "0",
+      "free_bids": "17"
+    }
+  ]
+}

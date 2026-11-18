@@ -1,0 +1,60 @@
+{
+  "id": "22795",
+  "title": "Nilox E‐Bike X8 SE",
+  "records": [
+    {
+      "idAsta": "97046842",
+      "prezzo": "287.95",
+      "vincitore": "randolgi",
+      "durata": "24h 55m",
+      "puntateTotali": "206",
+      "paid_bids": "0",
+      "free_bids": "206"
+    },
+    {
+      "idAsta": "97046881",
+      "prezzo": "308.19",
+      "vincitore": "seridania",
+      "durata": "26h 50m",
+      "puntateTotali": "359",
+      "paid_bids": "0",
+      "free_bids": "359"
+    },
+    {
+      "idAsta": "97046920",
+      "prezzo": "149.63",
+      "vincitore": "maruccis",
+      "durata": "12h 50m",
+      "puntateTotali": "7040",
+      "paid_bids": "0",
+      "free_bids": "7040"
+    },
+    {
+      "idAsta": "97160167",
+      "prezzo": "149.90",
+      "vincitore": "seppietro",
+      "durata": "12h 54m",
+      "puntateTotali": "7095",
+      "paid_bids": "1176",
+      "free_bids": "5919"
+    },
+    {
+      "idAsta": "97160206",
+      "prezzo": "410.32",
+      "vincitore": "pandafu3",
+      "durata": "35h 36m",
+      "puntateTotali": "1884",
+      "paid_bids": "1816",
+      "free_bids": "68"
+    },
+    {
+      "idAsta": "97160258",
+      "prezzo": "346.11",
+      "vincitore": "maccarelli1001",
+      "durata": "29h 33m",
+      "puntateTotali": "175",
+      "paid_bids": "0",
+      "free_bids": "175"
+    }
+  ]
+}

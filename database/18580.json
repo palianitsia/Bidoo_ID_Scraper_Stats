@@ -1,0 +1,69 @@
+{
+  "id": "18580",
+  "title": "Playstation 5 Digital Slim",
+  "records": [
+    {
+      "idAsta": "97015733",
+      "prezzo": "182.18",
+      "vincitore": "mitrone93",
+      "durata": "30h 37m",
+      "puntateTotali": "8253",
+      "paid_bids": "4449",
+      "free_bids": "3804"
+    },
+    {
+      "idAsta": "97031178",
+      "prezzo": "49.78",
+      "vincitore": "cagimosi3",
+      "durata": "8h 10m",
+      "puntateTotali": "2422",
+      "paid_bids": "1798",
+      "free_bids": "624"
+    },
+    {
+      "idAsta": "97071269",
+      "prezzo": "105.88",
+      "vincitore": "ternio",
+      "durata": "17h 51m",
+      "puntateTotali": "317",
+      "paid_bids": "0",
+      "free_bids": "317"
+    },
+    {
+      "idAsta": "97208385",
+      "prezzo": "282.67",
+      "vincitore": "1201981",
+      "durata": "47h 48m",
+      "puntateTotali": "204",
+      "paid_bids": "154",
+      "free_bids": "50"
+    },
+    {
+      "idAsta": "97232618",
+      "prezzo": "122.30",
+      "vincitore": "lucozade33",
+      "durata": "20h 33m",
+      "puntateTotali": "2512",
+      "paid_bids": "254",
+      "free_bids": "2258"
+    },
+    {
+      "idAsta": "97403903",
+      "prezzo": "324.68",
+      "vincitore": "prenditolo3",
+      "durata": "54h 1m",
+      "puntateTotali": "548",
+      "paid_bids": "0",
+      "free_bids": "548"
+    },
+    {
+      "idAsta": "97445220",
+      "prezzo": "141.02",
+      "vincitore": "humus392",
+      "durata": "23h 38m",
+      "puntateTotali": "5613",
+      "paid_bids": "1970",
+      "free_bids": "3643"
+    }
+  ]
+}

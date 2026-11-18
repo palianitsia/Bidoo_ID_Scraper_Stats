@@ -1,0 +1,48 @@
+{
+  "id": "25482",
+  "title": "Set 50 Palline di Natale Rosse e Verdi",
+  "records": [
+    {
+      "idAsta": "101490011",
+      "prezzo": "0.28",
+      "vincitore": "ramcardo",
+      "durata": "2m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101489915",
+      "prezzo": "0.31",
+      "vincitore": "venturio",
+      "durata": "2m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101069903",
+      "prezzo": "0.58",
+      "vincitore": "zannaviva",
+      "durata": "3m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101069762",
+      "prezzo": "0.33",
+      "vincitore": "patfossa",
+      "durata": "2m",
+      "puntateTotali": "15"
+    },
+    {
+      "idAsta": "101938384",
+      "prezzo": "0.93",
+      "vincitore": "tufafinezio",
+      "durata": "6m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "101938480",
+      "prezzo": "2.89",
+      "vincitore": "ogrti",
+      "durata": "20m",
+      "puntateTotali": "13"
+    }
+  ]
+}

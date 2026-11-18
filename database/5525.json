@@ -1,0 +1,24 @@
+{
+  "id": "5525",
+  "title": "Philips AirFryer XL",
+  "records": [
+    {
+      "idAsta": "9020424",
+      "prezzo": "56.44",
+      "vincitore": "claudiasonti",
+      "durata": "9h 55m",
+      "puntateTotali": "2166",
+      "paid_bids": "937",
+      "free_bids": "1229"
+    },
+    {
+      "idAsta": "9056794",
+      "prezzo": "86.34",
+      "vincitore": "211949",
+      "durata": "8h 3m",
+      "puntateTotali": "2943",
+      "paid_bids": "0",
+      "free_bids": "2943"
+    }
+  ]
+}

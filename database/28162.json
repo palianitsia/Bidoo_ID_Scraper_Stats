@@ -1,0 +1,27 @@
+{
+  "id": "28162",
+  "title": "Philips Ambilight 65\" 4K",
+  "records": [
+    {
+      "idAsta": "101386666",
+      "prezzo": "177.32",
+      "vincitore": "pulsario",
+      "durata": "30h 4m",
+      "puntateTotali": "436"
+    },
+    {
+      "idAsta": "100850156",
+      "prezzo": "81.43",
+      "vincitore": "enricoluppi",
+      "durata": "13h 52m",
+      "puntateTotali": "3276"
+    },
+    {
+      "idAsta": "101753439",
+      "prezzo": "75.58",
+      "vincitore": "tonifaina",
+      "durata": "12h 53m",
+      "puntateTotali": "3443"
+    }
+  ]
+}

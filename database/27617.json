@@ -1,0 +1,55 @@
+{
+  "id": "27617",
+  "title": "Woody Parlante Toy Story 5",
+  "records": [
+    {
+      "idAsta": "101820697",
+      "prezzo": "23.37",
+      "vincitore": "gigifalce",
+      "durata": "3h 56m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101333425",
+      "prezzo": "25.34",
+      "vincitore": "impellizarri",
+      "durata": "2h 51m",
+      "puntateTotali": "63"
+    },
+    {
+      "idAsta": "100851592",
+      "prezzo": "1.36",
+      "vincitore": "gaipozzo",
+      "durata": "9m",
+      "puntateTotali": "40"
+    },
+    {
+      "idAsta": "100750523",
+      "prezzo": "1.55",
+      "vincitore": "pellacanuzzi",
+      "durata": "16m",
+      "puntateTotali": "11"
+    },
+    {
+      "idAsta": "100116730",
+      "prezzo": "3.14",
+      "vincitore": "dariroccia",
+      "durata": "32m",
+      "puntateTotali": "38"
+    },
+    {
+      "idAsta": "99985056",
+      "prezzo": "56.60",
+      "vincitore": "minions92",
+      "durata": "6h 39m",
+      "puntateTotali": "448"
+    },
+    {
+      "idAsta": "101941679",
+      "prezzo": "7.59",
+      "vincitore": "zucchinone",
+      "durata": "50m",
+      "puntateTotali": "30"
+    }
+  ]
+}

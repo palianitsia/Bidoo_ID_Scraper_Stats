@@ -1,0 +1,24 @@
+{
+  "id": "26358",
+  "title": "Hisense Smart TV 85\" QLED 4K",
+  "records": [
+    {
+      "idAsta": "97045366",
+      "prezzo": "131.65",
+      "vincitore": "indaloop",
+      "durata": "21h 59m",
+      "puntateTotali": "6312",
+      "paid_bids": "4946",
+      "free_bids": "1366"
+    },
+    {
+      "idAsta": "97284365",
+      "prezzo": "181.11",
+      "vincitore": "svenwalters",
+      "durata": "30h 43m",
+      "puntateTotali": "86",
+      "paid_bids": "0",
+      "free_bids": "86"
+    }
+  ]
+}

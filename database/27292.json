@@ -1,0 +1,33 @@
+{
+  "id": "27292",
+  "title": "Bosch Prof. 18V Kit Trapano Avvitatore",
+  "records": [
+    {
+      "idAsta": "97190485",
+      "prezzo": "19.81",
+      "vincitore": "cofellu475",
+      "durata": "3h 27m",
+      "puntateTotali": "954",
+      "paid_bids": "0",
+      "free_bids": "954"
+    },
+    {
+      "idAsta": "97401465",
+      "prezzo": "28.43",
+      "vincitore": "genesia930",
+      "durata": "4h 46m",
+      "puntateTotali": "783",
+      "paid_bids": "0",
+      "free_bids": "783"
+    },
+    {
+      "idAsta": "97400679",
+      "prezzo": "21.45",
+      "vincitore": "timbollyc",
+      "durata": "2h 25m",
+      "puntateTotali": "752",
+      "paid_bids": "0",
+      "free_bids": "752"
+    }
+  ]
+}

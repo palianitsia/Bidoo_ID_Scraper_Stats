@@ -1,0 +1,48 @@
+{
+  "id": "28188",
+  "title": "Wacom MovinkPad 11",
+  "records": [
+    {
+      "idAsta": "101330825",
+      "prezzo": "116.48",
+      "vincitore": "riccimoro",
+      "durata": "19h 54m",
+      "puntateTotali": "5465"
+    },
+    {
+      "idAsta": "101038886",
+      "prezzo": "93.83",
+      "vincitore": "gentiabbo",
+      "durata": "15h 59m",
+      "puntateTotali": "4026"
+    },
+    {
+      "idAsta": "100637916",
+      "prezzo": "77.02",
+      "vincitore": "zolamaga",
+      "durata": "13h 8m",
+      "puntateTotali": "3721"
+    },
+    {
+      "idAsta": "100563803",
+      "prezzo": "39.43",
+      "vincitore": "leosghembo",
+      "durata": "6h 38m",
+      "puntateTotali": "1906"
+    },
+    {
+      "idAsta": "100408818",
+      "prezzo": "34.45",
+      "vincitore": "rinoalba",
+      "durata": "5h 48m",
+      "puntateTotali": "1527"
+    },
+    {
+      "idAsta": "101902849",
+      "prezzo": "71.51",
+      "vincitore": "lekueudos",
+      "durata": "12h 0m",
+      "puntateTotali": "3398"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "24456",
+  "title": "ASUS ROG Raikiri Pro Wireless",
+  "records": [
+    {
+      "idAsta": "97096834",
+      "prezzo": "5.83",
+      "vincitore": "maisepolti",
+      "durata": "1h 0m",
+      "puntateTotali": "30",
+      "paid_bids": "0",
+      "free_bids": "30"
+    },
+    {
+      "idAsta": "97344973",
+      "prezzo": "5.34",
+      "vincitore": "mericossi",
+      "durata": "55m",
+      "puntateTotali": "11",
+      "paid_bids": "0",
+      "free_bids": "11"
+    }
+  ]
+}

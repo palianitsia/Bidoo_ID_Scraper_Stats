@@ -1,0 +1,27 @@
+{
+  "id": "28102",
+  "title": "Beko Lavastoviglie Slim",
+  "records": [
+    {
+      "idAsta": "101295064",
+      "prezzo": "87.95",
+      "vincitore": "tanabuia",
+      "durata": "14h 42m",
+      "puntateTotali": "2138"
+    },
+    {
+      "idAsta": "100272547",
+      "prezzo": "144.98",
+      "vincitore": "lucalampreda",
+      "durata": "24h 35m",
+      "puntateTotali": "365"
+    },
+    {
+      "idAsta": "101820960",
+      "prezzo": "87.74",
+      "vincitore": "thandris",
+      "durata": "14h 44m",
+      "puntateTotali": "303"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "23034",
+  "title": "Adidas Grand Court Base 00S Scarpe Uomo",
+  "records": [
+    {
+      "idAsta": "97076948",
+      "prezzo": "1.40",
+      "vincitore": "gast01",
+      "durata": "14m",
+      "puntateTotali": "23",
+      "paid_bids": "12",
+      "free_bids": "11"
+    },
+    {
+      "idAsta": "97343803",
+      "prezzo": "11.55",
+      "vincitore": "erpiokka",
+      "durata": "1h 19m",
+      "puntateTotali": "51",
+      "paid_bids": "0",
+      "free_bids": "51"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "7856",
+  "title": "Presepe in legno",
+  "records": [
+    {
+      "idAsta": "9001856",
+      "prezzo": "2.48",
+      "vincitore": "am19081988",
+      "durata": "34m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "9025850",
+      "prezzo": "7.25",
+      "vincitore": "maggy44",
+      "durata": "53m",
+      "puntateTotali": "239",
+      "paid_bids": "0",
+      "free_bids": "239"
+    },
+    {
+      "idAsta": "9045603",
+      "prezzo": "5.98",
+      "vincitore": "gavazzeni",
+      "durata": "57m",
+      "puntateTotali": "193",
+      "paid_bids": "0",
+      "free_bids": "193"
+    },
+    {
+      "idAsta": "9067008",
+      "prezzo": "3.05",
+      "vincitore": "aaarrivato",
+      "durata": "34m",
+      "puntateTotali": "55",
+      "paid_bids": "0",
+      "free_bids": "55"
+    },
+    {
+      "idAsta": "9087338",
+      "prezzo": "5.71",
+      "vincitore": "diavoletto88",
+      "durata": "27m",
+      "puntateTotali": "243",
+      "paid_bids": "0",
+      "free_bids": "243"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "28002",
+  "title": "REDMI Note 17 Pro 5G 6+256GB",
+  "records": [
+    {
+      "idAsta": "101431532",
+      "prezzo": "120.14",
+      "vincitore": "nedocardo",
+      "durata": "10h 27m",
+      "puntateTotali": "5677"
+    },
+    {
+      "idAsta": "101431534",
+      "prezzo": "51.61",
+      "vincitore": "tarlima",
+      "durata": "8h 47m",
+      "puntateTotali": "2100"
+    },
+    {
+      "idAsta": "101431533",
+      "prezzo": "46.11",
+      "vincitore": "fainascura",
+      "durata": "5h 6m",
+      "puntateTotali": "2100"
+    },
+    {
+      "idAsta": "100599008",
+      "prezzo": "68.47",
+      "vincitore": "zapploren",
+      "durata": "7h 41m",
+      "puntateTotali": "1443"
+    },
+    {
+      "idAsta": "100599007",
+      "prezzo": "166.44",
+      "vincitore": "carzabai",
+      "durata": "14h 17m",
+      "puntateTotali": "747"
+    },
+    {
+      "idAsta": "100481675",
+      "prezzo": "34.08",
+      "vincitore": "zolamaga",
+      "durata": "3h 52m",
+      "puntateTotali": "1355"
+    },
+    {
+      "idAsta": "99926200",
+      "prezzo": "125.18",
+      "vincitore": "poggimassimo",
+      "durata": "10h 54m",
+      "puntateTotali": "130"
+    },
+    {
+      "idAsta": "99926201",
+      "prezzo": "85.12",
+      "vincitore": "linofronda",
+      "durata": "9h 43m",
+      "puntateTotali": "4096"
+    },
+    {
+      "idAsta": "101925391",
+      "prezzo": "63.71",
+      "vincitore": "scolapast",
+      "durata": "10h 29m",
+      "puntateTotali": "2552"
+    }
+  ]
+}

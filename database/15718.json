@@ -1,0 +1,24 @@
+{
+  "id": "15718",
+  "title": "Bosch Trapano Avvitatore EasyDrill",
+  "records": [
+    {
+      "idAsta": "97400712",
+      "prezzo": "2.81",
+      "vincitore": "sgobbaus",
+      "durata": "19m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    },
+    {
+      "idAsta": "97458816",
+      "prezzo": "7.58",
+      "vincitore": "laker83",
+      "durata": "1h 16m",
+      "puntateTotali": "121",
+      "paid_bids": "71",
+      "free_bids": "50"
+    }
+  ]
+}

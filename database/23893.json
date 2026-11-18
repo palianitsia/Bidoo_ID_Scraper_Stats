@@ -1,0 +1,33 @@
+{
+  "id": "23893",
+  "title": "Philips Tostapane 2 Fette",
+  "records": [
+    {
+      "idAsta": "97205117",
+      "prezzo": "0.47",
+      "vincitore": "amadaorian",
+      "durata": "2m",
+      "puntateTotali": "23",
+      "paid_bids": "0",
+      "free_bids": "23"
+    },
+    {
+      "idAsta": "97205202",
+      "prezzo": "2.90",
+      "vincitore": "tomleony",
+      "durata": "11m",
+      "puntateTotali": "13",
+      "paid_bids": "0",
+      "free_bids": "13"
+    },
+    {
+      "idAsta": "97205311",
+      "prezzo": "1.52",
+      "vincitore": "costioamol",
+      "durata": "6m",
+      "puntateTotali": "64",
+      "paid_bids": "0",
+      "free_bids": "64"
+    }
+  ]
+}

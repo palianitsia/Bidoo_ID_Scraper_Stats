@@ -1,0 +1,27 @@
+{
+  "id": "28173",
+  "title": "Lenovo Idea Tab Tablet 11\" 2.5K Wi Fi",
+  "records": [
+    {
+      "idAsta": "101295044",
+      "prezzo": "83.77",
+      "vincitore": "francofrost",
+      "durata": "13h 55m",
+      "puntateTotali": "299"
+    },
+    {
+      "idAsta": "100974459",
+      "prezzo": "21.70",
+      "vincitore": "menoronzi",
+      "durata": "3h 33m",
+      "puntateTotali": "997"
+    },
+    {
+      "idAsta": "100505387",
+      "prezzo": "30.31",
+      "vincitore": "riccisaba",
+      "durata": "5h 4m",
+      "puntateTotali": "1460"
+    }
+  ]
+}

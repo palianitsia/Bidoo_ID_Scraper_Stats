@@ -1,0 +1,33 @@
+{
+  "id": "27636",
+  "title": "Shark NeverChange Purificatore 23m2",
+  "records": [
+    {
+      "idAsta": "97034000",
+      "prezzo": "6.23",
+      "vincitore": "bostikk9",
+      "durata": "45m",
+      "puntateTotali": "12",
+      "paid_bids": "0",
+      "free_bids": "12"
+    },
+    {
+      "idAsta": "97280462",
+      "prezzo": "12.58",
+      "vincitore": "fedulcio",
+      "durata": "1h 28m",
+      "puntateTotali": "25",
+      "paid_bids": "0",
+      "free_bids": "25"
+    },
+    {
+      "idAsta": "97458756",
+      "prezzo": "9.40",
+      "vincitore": "skinsimo",
+      "durata": "1h 35m",
+      "puntateTotali": "109",
+      "paid_bids": "0",
+      "free_bids": "109"
+    }
+  ]
+}

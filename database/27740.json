@@ -1,0 +1,87 @@
+{
+  "id": "27740",
+  "title": "EA SPORTS FC 27",
+  "records": [
+    {
+      "idAsta": "97015653",
+      "prezzo": "43.07",
+      "vincitore": "ferroblu",
+      "durata": "5h 0m",
+      "puntateTotali": "20",
+      "paid_bids": "0",
+      "free_bids": "20"
+    },
+    {
+      "idAsta": "97076970",
+      "prezzo": "37.87",
+      "vincitore": "marcolino39",
+      "durata": "6h 20m",
+      "puntateTotali": "68",
+      "paid_bids": "0",
+      "free_bids": "68"
+    },
+    {
+      "idAsta": "97096961",
+      "prezzo": "2.41",
+      "vincitore": "mikireo2",
+      "durata": "25m",
+      "puntateTotali": "14",
+      "paid_bids": "0",
+      "free_bids": "14"
+    },
+    {
+      "idAsta": "97208320",
+      "prezzo": "32.87",
+      "vincitore": "siminidiche",
+      "durata": "3h 40m",
+      "puntateTotali": "23",
+      "paid_bids": "9",
+      "free_bids": "14"
+    },
+    {
+      "idAsta": "97329379",
+      "prezzo": "63.18",
+      "vincitore": "sprussi49",
+      "durata": "6h 52m",
+      "puntateTotali": "68",
+      "paid_bids": "0",
+      "free_bids": "68"
+    },
+    {
+      "idAsta": "97329380",
+      "prezzo": "7.26",
+      "vincitore": "sklogressi",
+      "durata": "1h 11m",
+      "puntateTotali": "108",
+      "paid_bids": "0",
+      "free_bids": "108"
+    },
+    {
+      "idAsta": "97329378",
+      "prezzo": "20.31",
+      "vincitore": "filospago",
+      "durata": "1h 42m",
+      "puntateTotali": "83",
+      "paid_bids": "0",
+      "free_bids": "83"
+    },
+    {
+      "idAsta": "97344575",
+      "prezzo": "2.04",
+      "vincitore": "stekinghi",
+      "durata": "21m",
+      "puntateTotali": "30",
+      "paid_bids": "0",
+      "free_bids": "30"
+    },
+    {
+      "idAsta": "97403852",
+      "prezzo": "30.81",
+      "vincitore": "txosky",
+      "durata": "3h 25m",
+      "puntateTotali": "1444",
+      "paid_bids": "467",
+      "free_bids": "977"
+    }
+  ]
+}

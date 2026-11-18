@@ -1,0 +1,24 @@
+{
+  "id": "26613",
+  "title": "Amazfit Active Max 1,5\" AMOLED",
+  "records": [
+    {
+      "idAsta": "97105015",
+      "prezzo": "11.52",
+      "vincitore": "faiaffiori",
+      "durata": "1h 18m",
+      "puntateTotali": "216",
+      "paid_bids": "73",
+      "free_bids": "143"
+    },
+    {
+      "idAsta": "97494914",
+      "prezzo": "13.38",
+      "vincitore": "karldog",
+      "durata": "1h 31m",
+      "puntateTotali": "121",
+      "paid_bids": "0",
+      "free_bids": "121"
+    }
+  ]
+}

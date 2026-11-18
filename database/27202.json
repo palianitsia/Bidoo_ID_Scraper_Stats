@@ -1,0 +1,24 @@
+{
+  "id": "27202",
+  "title": "Desigual foulard Verde",
+  "records": [
+    {
+      "idAsta": "97096327",
+      "prezzo": "1.22",
+      "vincitore": "canadino0",
+      "durata": "13m",
+      "puntateTotali": "10",
+      "paid_bids": "0",
+      "free_bids": "10"
+    },
+    {
+      "idAsta": "97344700",
+      "prezzo": "0.71",
+      "vincitore": "giampietrolio",
+      "durata": "7m",
+      "puntateTotali": "21",
+      "paid_bids": "0",
+      "free_bids": "21"
+    }
+  ]
+}

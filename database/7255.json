@@ -1,0 +1,33 @@
+{
+  "id": "7255",
+  "title": "Xiaomi Mi 9T",
+  "records": [
+    {
+      "idAsta": "9026256",
+      "prezzo": "86.64",
+      "vincitore": "cecio25",
+      "durata": "10h 9m",
+      "puntateTotali": "4220",
+      "paid_bids": "1111",
+      "free_bids": "3109"
+    },
+    {
+      "idAsta": "9057828",
+      "prezzo": "32.09",
+      "vincitore": "derzotto",
+      "durata": "4h 45m",
+      "puntateTotali": "582",
+      "paid_bids": "0",
+      "free_bids": "582"
+    },
+    {
+      "idAsta": "9076906",
+      "prezzo": "6.11",
+      "vincitore": "antonio2jz",
+      "durata": "51m",
+      "puntateTotali": "47",
+      "paid_bids": "32",
+      "free_bids": "15"
+    }
+  ]
+}

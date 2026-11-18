@@ -1,0 +1,87 @@
+{
+  "id": "26909",
+  "title": "Completo Matrimoniale Acquamarina",
+  "records": [
+    {
+      "idAsta": "97001014",
+      "prezzo": "1.33",
+      "vincitore": "mertensgol",
+      "durata": "12m",
+      "puntateTotali": "46",
+      "paid_bids": "0",
+      "free_bids": "46"
+    },
+    {
+      "idAsta": "97002237",
+      "prezzo": "0.74",
+      "vincitore": "geppettored",
+      "durata": "3m",
+      "puntateTotali": "32",
+      "paid_bids": "0",
+      "free_bids": "32"
+    },
+    {
+      "idAsta": "97002824",
+      "prezzo": "2.58",
+      "vincitore": "ginokkide",
+      "durata": "25m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    },
+    {
+      "idAsta": "97004440",
+      "prezzo": "1.17",
+      "vincitore": "tamarisshi39",
+      "durata": "5m",
+      "puntateTotali": "45",
+      "paid_bids": "0",
+      "free_bids": "45"
+    },
+    {
+      "idAsta": "97005411",
+      "prezzo": "3.96",
+      "vincitore": "serpio94",
+      "durata": "36m",
+      "puntateTotali": "55",
+      "paid_bids": "0",
+      "free_bids": "55"
+    },
+    {
+      "idAsta": "97006731",
+      "prezzo": "2.00",
+      "vincitore": "sandron21",
+      "durata": "6m",
+      "puntateTotali": "77",
+      "paid_bids": "0",
+      "free_bids": "77"
+    },
+    {
+      "idAsta": "97008451",
+      "prezzo": "0.53",
+      "vincitore": "coricotel",
+      "durata": "5m",
+      "puntateTotali": "19",
+      "paid_bids": "0",
+      "free_bids": "19"
+    },
+    {
+      "idAsta": "97011616",
+      "prezzo": "1.58",
+      "vincitore": "drafella2",
+      "durata": "17m",
+      "puntateTotali": "20",
+      "paid_bids": "0",
+      "free_bids": "20"
+    },
+    {
+      "idAsta": "97011619",
+      "prezzo": "2.55",
+      "vincitore": "serdona0",
+      "durata": "10m",
+      "puntateTotali": "78",
+      "paid_bids": "0",
+      "free_bids": "78"
+    }
+  ]
+}

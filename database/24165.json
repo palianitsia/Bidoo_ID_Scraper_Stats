@@ -1,0 +1,27 @@
+{
+  "id": "24165",
+  "title": "Aprilia eSR2 Monopattino Elettrico",
+  "records": [
+    {
+      "idAsta": "101620904",
+      "prezzo": "64.73",
+      "vincitore": "amilcaruzzo",
+      "durata": "10h 50m",
+      "puntateTotali": "3141"
+    },
+    {
+      "idAsta": "100866790",
+      "prezzo": "79.35",
+      "vincitore": "cosimalle",
+      "durata": "13h 29m",
+      "puntateTotali": "3712"
+    },
+    {
+      "idAsta": "101936828",
+      "prezzo": "71.16",
+      "vincitore": "pinapuma",
+      "durata": "12h 0m",
+      "puntateTotali": "3288"
+    }
+  ]
+}

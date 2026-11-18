@@ -1,0 +1,33 @@
+{
+  "id": "24824",
+  "title": "Set 2 Sedia Sdraio da Giardino",
+  "records": [
+    {
+      "idAsta": "97213806",
+      "prezzo": "32.11",
+      "vincitore": "azzorre44",
+      "durata": "3h 35m",
+      "puntateTotali": "119",
+      "paid_bids": "49",
+      "free_bids": "70"
+    },
+    {
+      "idAsta": "97396807",
+      "prezzo": "11.61",
+      "vincitore": "piumafredda",
+      "durata": "1h 16m",
+      "puntateTotali": "178",
+      "paid_bids": "0",
+      "free_bids": "178"
+    },
+    {
+      "idAsta": "97449470",
+      "prezzo": "26.16",
+      "vincitore": "infiaccola",
+      "durata": "2h 54m",
+      "puntateTotali": "25",
+      "paid_bids": "0",
+      "free_bids": "25"
+    }
+  ]
+}

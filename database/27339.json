@@ -1,0 +1,27 @@
+{
+  "id": "27339",
+  "title": "HEAD Borsa Tour ‐ L",
+  "records": [
+    {
+      "idAsta": "100750413",
+      "prezzo": "11.11",
+      "vincitore": "aschito",
+      "durata": "1h 53m",
+      "puntateTotali": "553"
+    },
+    {
+      "idAsta": "100271914",
+      "prezzo": "22.01",
+      "vincitore": "bennyyy79",
+      "durata": "3h 46m",
+      "puntateTotali": "1097"
+    },
+    {
+      "idAsta": "100116662",
+      "prezzo": "4.58",
+      "vincitore": "egicanest",
+      "durata": "47m",
+      "puntateTotali": "26"
+    }
+  ]
+}

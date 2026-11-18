@@ -1,0 +1,24 @@
+{
+  "id": "25738",
+  "title": "Tognana Iridea Friggitrice ad Aria 8L",
+  "records": [
+    {
+      "idAsta": "97096833",
+      "prezzo": "8.70",
+      "vincitore": "carter1",
+      "durata": "1h 29m",
+      "puntateTotali": "5",
+      "paid_bids": "0",
+      "free_bids": "5"
+    },
+    {
+      "idAsta": "97344972",
+      "prezzo": "49.91",
+      "vincitore": "cirivediamoti93",
+      "durata": "8h 2m",
+      "puntateTotali": "63",
+      "paid_bids": "0",
+      "free_bids": "63"
+    }
+  ]
+}

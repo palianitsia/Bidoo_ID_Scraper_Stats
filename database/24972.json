@@ -1,0 +1,27 @@
+{
+  "id": "24972",
+  "title": "PNY RTX 5070 Ti 16GB Triple",
+  "records": [
+    {
+      "idAsta": "101231066",
+      "prezzo": "176.67",
+      "vincitore": "fabrispire",
+      "durata": "29h 55m",
+      "puntateTotali": "345"
+    },
+    {
+      "idAsta": "101166995",
+      "prezzo": "171.17",
+      "vincitore": "spadavevasca",
+      "durata": "28h 27m",
+      "puntateTotali": "6173"
+    },
+    {
+      "idAsta": "100909651",
+      "prezzo": "175.09",
+      "vincitore": "alvagatta",
+      "durata": "29h 31m",
+      "puntateTotali": "7607"
+    }
+  ]
+}

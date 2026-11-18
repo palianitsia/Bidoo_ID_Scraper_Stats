@@ -1,0 +1,51 @@
+{
+  "id": "7838",
+  "title": "Oral‐B Pro 750",
+  "records": [
+    {
+      "idAsta": "9000528",
+      "prezzo": "8.39",
+      "vincitore": "rapace190",
+      "durata": "1h 0m",
+      "puntateTotali": "68",
+      "paid_bids": "0",
+      "free_bids": "68"
+    },
+    {
+      "idAsta": "9025365",
+      "prezzo": "3.20",
+      "vincitore": "sanguisuga",
+      "durata": "29m",
+      "puntateTotali": "126",
+      "paid_bids": "39",
+      "free_bids": "87"
+    },
+    {
+      "idAsta": "9045459",
+      "prezzo": "3.29",
+      "vincitore": "azimuthfunnels",
+      "durata": "25m",
+      "puntateTotali": "148",
+      "paid_bids": "0",
+      "free_bids": "148"
+    },
+    {
+      "idAsta": "9066389",
+      "prezzo": "8.35",
+      "vincitore": "chistory",
+      "durata": "55m",
+      "puntateTotali": "114",
+      "paid_bids": "0",
+      "free_bids": "114"
+    },
+    {
+      "idAsta": "9086517",
+      "prezzo": "9.49",
+      "vincitore": "coconutcheer",
+      "durata": "1h 8m",
+      "puntateTotali": "9",
+      "paid_bids": "0",
+      "free_bids": "9"
+    }
+  ]
+}

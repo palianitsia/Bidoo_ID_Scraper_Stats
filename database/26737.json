@@ -1,0 +1,51 @@
+{
+  "id": "26737",
+  "title": "TCL NXTPAPER 14",
+  "records": [
+    {
+      "idAsta": "97105016",
+      "prezzo": "12.29",
+      "vincitore": "makkiom",
+      "durata": "2h 4m",
+      "puntateTotali": "606",
+      "paid_bids": "0",
+      "free_bids": "606"
+    },
+    {
+      "idAsta": "97190446",
+      "prezzo": "61.99",
+      "vincitore": "lucrecordo",
+      "durata": "10h 33m",
+      "puntateTotali": "283",
+      "paid_bids": "53",
+      "free_bids": "230"
+    },
+    {
+      "idAsta": "97401035",
+      "prezzo": "13.22",
+      "vincitore": "elvismen8",
+      "durata": "2h 13m",
+      "puntateTotali": "561",
+      "paid_bids": "0",
+      "free_bids": "561"
+    },
+    {
+      "idAsta": "97432768",
+      "prezzo": "7.93",
+      "vincitore": "pzarkat",
+      "durata": "54m",
+      "puntateTotali": "394",
+      "paid_bids": "0",
+      "free_bids": "394"
+    },
+    {
+      "idAsta": "97494915",
+      "prezzo": "22.83",
+      "vincitore": "paoal93",
+      "durata": "3h 50m",
+      "puntateTotali": "1084",
+      "paid_bids": "0",
+      "free_bids": "1084"
+    }
+  ]
+}

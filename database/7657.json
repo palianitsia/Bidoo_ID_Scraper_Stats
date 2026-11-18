@@ -1,0 +1,51 @@
+{
+  "id": "7657",
+  "title": "Poretti Bock Rossa 24pz",
+  "records": [
+    {
+      "idAsta": "9000795",
+      "prezzo": "1.80",
+      "vincitore": "ilrefaraone",
+      "durata": "15m",
+      "puntateTotali": "68",
+      "paid_bids": "0",
+      "free_bids": "68"
+    },
+    {
+      "idAsta": "9025425",
+      "prezzo": "4.04",
+      "vincitore": "trepppiedi",
+      "durata": "38m",
+      "puntateTotali": "81",
+      "paid_bids": "0",
+      "free_bids": "81"
+    },
+    {
+      "idAsta": "9045470",
+      "prezzo": "5.62",
+      "vincitore": "andr0ider",
+      "durata": "45m",
+      "puntateTotali": "92",
+      "paid_bids": "5",
+      "free_bids": "87"
+    },
+    {
+      "idAsta": "9066486",
+      "prezzo": "2.27",
+      "vincitore": "calorosso",
+      "durata": "18m",
+      "puntateTotali": "13",
+      "paid_bids": "0",
+      "free_bids": "13"
+    },
+    {
+      "idAsta": "9086767",
+      "prezzo": "1.70",
+      "vincitore": "essikka",
+      "durata": "15m",
+      "puntateTotali": "6",
+      "paid_bids": "0",
+      "free_bids": "6"
+    }
+  ]
+}

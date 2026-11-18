@@ -1,0 +1,33 @@
+{
+  "id": "26927",
+  "title": "DIRECTIVE 8020",
+  "records": [
+    {
+      "idAsta": "97015667",
+      "prezzo": "1.58",
+      "vincitore": "paulinha19",
+      "durata": "11m",
+      "puntateTotali": "22",
+      "paid_bids": "0",
+      "free_bids": "22"
+    },
+    {
+      "idAsta": "97208334",
+      "prezzo": "2.55",
+      "vincitore": "leporemailio",
+      "durata": "18m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97403899",
+      "prezzo": "1.65",
+      "vincitore": "lelloe239",
+      "durata": "17m",
+      "puntateTotali": "14",
+      "paid_bids": "0",
+      "free_bids": "14"
+    }
+  ]
+}

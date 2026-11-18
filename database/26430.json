@@ -1,0 +1,33 @@
+{
+  "id": "26430",
+  "title": "Tommy Hilfiger Casual",
+  "records": [
+    {
+      "idAsta": "97096258",
+      "prezzo": "1.68",
+      "vincitore": "lorvien",
+      "durata": "17m",
+      "puntateTotali": "7",
+      "paid_bids": "0",
+      "free_bids": "7"
+    },
+    {
+      "idAsta": "97222887",
+      "prezzo": "1.68",
+      "vincitore": "caufresi",
+      "durata": "17m",
+      "puntateTotali": "35",
+      "paid_bids": "0",
+      "free_bids": "35"
+    },
+    {
+      "idAsta": "97344577",
+      "prezzo": "1.56",
+      "vincitore": "findolario",
+      "durata": "16m",
+      "puntateTotali": "9",
+      "paid_bids": "0",
+      "free_bids": "9"
+    }
+  ]
+}

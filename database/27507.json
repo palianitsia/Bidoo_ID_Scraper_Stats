@@ -1,0 +1,27 @@
+{
+  "id": "27507",
+  "title": "I primi Maestri del Fantastico Pack I",
+  "records": [
+    {
+      "idAsta": "101643201",
+      "prezzo": "0.75",
+      "vincitore": "busceluca",
+      "durata": "5m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "101454465",
+      "prezzo": "7.43",
+      "vincitore": "teseopodesta",
+      "durata": "1h 28m",
+      "puntateTotali": "43"
+    },
+    {
+      "idAsta": "100197905",
+      "prezzo": "0.92",
+      "vincitore": "cosmquar",
+      "durata": "9m",
+      "puntateTotali": "9"
+    }
+  ]
+}

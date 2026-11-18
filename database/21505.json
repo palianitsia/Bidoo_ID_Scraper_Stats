@@ -1,0 +1,24 @@
+{
+  "id": "21505",
+  "title": "BIC Megatubo 20pz",
+  "records": [
+    {
+      "idAsta": "97211615",
+      "prezzo": "1.63",
+      "vincitore": "gestikola",
+      "durata": "7m",
+      "puntateTotali": "43",
+      "paid_bids": "0",
+      "free_bids": "43"
+    },
+    {
+      "idAsta": "97211683",
+      "prezzo": "1.06",
+      "vincitore": "scisci81",
+      "durata": "3m",
+      "puntateTotali": "3",
+      "paid_bids": "0",
+      "free_bids": "3"
+    }
+  ]
+}

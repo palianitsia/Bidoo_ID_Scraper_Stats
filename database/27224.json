@@ -1,0 +1,33 @@
+{
+  "id": "27224",
+  "title": "Ariete Forno Pizza 919",
+  "records": [
+    {
+      "idAsta": "97190430",
+      "prezzo": "5.42",
+      "vincitore": "casiomed",
+      "durata": "56m",
+      "puntateTotali": "24",
+      "paid_bids": "0",
+      "free_bids": "24"
+    },
+    {
+      "idAsta": "97400845",
+      "prezzo": "16.45",
+      "vincitore": "ie3049",
+      "durata": "2h 42m",
+      "puntateTotali": "48",
+      "paid_bids": "0",
+      "free_bids": "48"
+    },
+    {
+      "idAsta": "97432405",
+      "prezzo": "4.34",
+      "vincitore": "leri39",
+      "durata": "44m",
+      "puntateTotali": "79",
+      "paid_bids": "0",
+      "free_bids": "79"
+    }
+  ]
+}

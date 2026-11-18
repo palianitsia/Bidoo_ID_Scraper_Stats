@@ -1,0 +1,60 @@
+{
+  "id": "22038",
+  "title": "Macchina per Pane 600W 15 Programmi",
+  "records": [
+    {
+      "idAsta": "97046872",
+      "prezzo": "5.69",
+      "vincitore": "flexagord",
+      "durata": "30m",
+      "puntateTotali": "58",
+      "paid_bids": "0",
+      "free_bids": "58"
+    },
+    {
+      "idAsta": "97046911",
+      "prezzo": "28.47",
+      "vincitore": "laformia93",
+      "durata": "2h 26m",
+      "puntateTotali": "48",
+      "paid_bids": "0",
+      "free_bids": "48"
+    },
+    {
+      "idAsta": "97160197",
+      "prezzo": "18.34",
+      "vincitore": "semprealtop",
+      "durata": "1h 38m",
+      "puntateTotali": "32",
+      "paid_bids": "0",
+      "free_bids": "32"
+    },
+    {
+      "idAsta": "97160236",
+      "prezzo": "4.06",
+      "vincitore": "duepiotte9",
+      "durata": "23m",
+      "puntateTotali": "55",
+      "paid_bids": "0",
+      "free_bids": "55"
+    },
+    {
+      "idAsta": "97488421",
+      "prezzo": "0.07",
+      "vincitore": "st3y",
+      "durata": "1m",
+      "puntateTotali": "3",
+      "paid_bids": "0",
+      "free_bids": "3"
+    },
+    {
+      "idAsta": "97488382",
+      "prezzo": "15.32",
+      "vincitore": "eferidiasi",
+      "durata": "1h 14m",
+      "puntateTotali": "38",
+      "paid_bids": "0",
+      "free_bids": "38"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "27270",
+  "title": "GoPro MISSION 1 PRO Grip Edition",
+  "records": [
+    {
+      "idAsta": "100750379",
+      "prezzo": "104.14",
+      "vincitore": "franruota",
+      "durata": "17h 41m",
+      "puntateTotali": "4754"
+    },
+    {
+      "idAsta": "100420105",
+      "prezzo": "146.09",
+      "vincitore": "pastquiri",
+      "durata": "24h 57m",
+      "puntateTotali": "5931"
+    },
+    {
+      "idAsta": "101806107",
+      "prezzo": "156.93",
+      "vincitore": "spritzista",
+      "durata": "26h 49m",
+      "puntateTotali": "142"
+    }
+  ]
+}

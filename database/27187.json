@@ -1,0 +1,24 @@
+{
+  "id": "27187",
+  "title": "SONY 1000X THE COLLEXION",
+  "records": [
+    {
+      "idAsta": "97045402",
+      "prezzo": "120.25",
+      "vincitore": "roimaj",
+      "durata": "20h 28m",
+      "puntateTotali": "5983",
+      "paid_bids": "2349",
+      "free_bids": "3634"
+    },
+    {
+      "idAsta": "97284366",
+      "prezzo": "114.16",
+      "vincitore": "corsallom",
+      "durata": "19h 26m",
+      "puntateTotali": "5652",
+      "paid_bids": "1664",
+      "free_bids": "3988"
+    }
+  ]
+}

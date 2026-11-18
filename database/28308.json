@@ -1,0 +1,27 @@
+{
+  "id": "28308",
+  "title": "Jean Paul Gaultier Scandal Gift Set",
+  "records": [
+    {
+      "idAsta": "101395091",
+      "prezzo": "30.26",
+      "vincitore": "rodipietra",
+      "durata": "3h 27m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101395051",
+      "prezzo": "28.04",
+      "vincitore": "ugocervo",
+      "durata": "3h 11m",
+      "puntateTotali": "1364"
+    },
+    {
+      "idAsta": "101395017",
+      "prezzo": "24.46",
+      "vincitore": "zitamamba",
+      "durata": "2h 45m",
+      "puntateTotali": "20"
+    }
+  ]
+}

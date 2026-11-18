@@ -1,0 +1,33 @@
+{
+  "id": "13241",
+  "title": "Foppapedretti Lettino da Viaggio",
+  "records": [
+    {
+      "idAsta": "97435941",
+      "prezzo": "32.50",
+      "vincitore": "paolamstardam",
+      "durata": "5h 37m",
+      "puntateTotali": "1338",
+      "paid_bids": "417",
+      "free_bids": "921"
+    },
+    {
+      "idAsta": "97456315",
+      "prezzo": "17.17",
+      "vincitore": "seuplam",
+      "durata": "2h 52m",
+      "puntateTotali": "150",
+      "paid_bids": "0",
+      "free_bids": "150"
+    },
+    {
+      "idAsta": "97489445",
+      "prezzo": "22.80",
+      "vincitore": "geppy485",
+      "durata": "3h 41m",
+      "puntateTotali": "222",
+      "paid_bids": "0",
+      "free_bids": "222"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "28106",
+  "title": "Box Samsung Galaxy FE",
+  "records": [
+    {
+      "idAsta": "101676840",
+      "prezzo": "219.05",
+      "vincitore": "codinoser",
+      "durata": "25h 29m",
+      "puntateTotali": "359"
+    },
+    {
+      "idAsta": "101430583",
+      "prezzo": "152.43",
+      "vincitore": "delumir",
+      "durata": "17h 13m",
+      "puntateTotali": "5620"
+    },
+    {
+      "idAsta": "100799317",
+      "prezzo": "246.01",
+      "vincitore": "biazvez",
+      "durata": "27h 54m",
+      "puntateTotali": "379"
+    },
+    {
+      "idAsta": "100265786",
+      "prezzo": "283.17",
+      "vincitore": "gaeguidi",
+      "durata": "32h 0m",
+      "puntateTotali": "251"
+    }
+  ]
+}

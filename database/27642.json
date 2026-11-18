@@ -1,0 +1,42 @@
+{
+  "id": "27642",
+  "title": "Assassin's Creed Black Flag Resynced",
+  "records": [
+    {
+      "idAsta": "97044929",
+      "prezzo": "3.09",
+      "vincitore": "deremido",
+      "durata": "32m",
+      "puntateTotali": "47",
+      "paid_bids": "0",
+      "free_bids": "47"
+    },
+    {
+      "idAsta": "97284033",
+      "prezzo": "2.71",
+      "vincitore": "tniakki2",
+      "durata": "28m",
+      "puntateTotali": "26",
+      "paid_bids": "0",
+      "free_bids": "26"
+    },
+    {
+      "idAsta": "97403898",
+      "prezzo": "1.19",
+      "vincitore": "caumaceni",
+      "durata": "12m",
+      "puntateTotali": "12",
+      "paid_bids": "0",
+      "free_bids": "12"
+    },
+    {
+      "idAsta": "97458948",
+      "prezzo": "2.56",
+      "vincitore": "delimagici",
+      "durata": "25m",
+      "puntateTotali": "9",
+      "paid_bids": "0",
+      "free_bids": "9"
+    }
+  ]
+}

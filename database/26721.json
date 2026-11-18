@@ -1,0 +1,33 @@
+{
+  "id": "26721",
+  "title": "MacBook Air M5 15\" 512GB",
+  "records": [
+    {
+      "idAsta": "97373713",
+      "prezzo": "534.49",
+      "vincitore": "stafello03",
+      "durata": "119h 58m",
+      "puntateTotali": "640",
+      "paid_bids": "445",
+      "free_bids": "195"
+    },
+    {
+      "idAsta": "97373711",
+      "prezzo": "211.27",
+      "vincitore": "landpiano",
+      "durata": "24h 12m",
+      "puntateTotali": "10429",
+      "paid_bids": "689",
+      "free_bids": "9740"
+    },
+    {
+      "idAsta": "97373712",
+      "prezzo": "209.94",
+      "vincitore": "fimbolisiti",
+      "durata": "35h 58m",
+      "puntateTotali": "262",
+      "paid_bids": "87",
+      "free_bids": "175"
+    }
+  ]
+}

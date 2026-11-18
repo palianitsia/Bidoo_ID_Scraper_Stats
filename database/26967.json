@@ -1,0 +1,33 @@
+{
+  "id": "26967",
+  "title": "Pokémon: 18 buste Equilibrio Perfetto",
+  "records": [
+    {
+      "idAsta": "97281321",
+      "prezzo": "20.39",
+      "vincitore": "lupoabc",
+      "durata": "3h 26m",
+      "puntateTotali": "54",
+      "paid_bids": "0",
+      "free_bids": "54"
+    },
+    {
+      "idAsta": "97281320",
+      "prezzo": "25.08",
+      "vincitore": "eddietekken",
+      "durata": "2h 8m",
+      "puntateTotali": "33",
+      "paid_bids": "0",
+      "free_bids": "33"
+    },
+    {
+      "idAsta": "97281322",
+      "prezzo": "32.51",
+      "vincitore": "danyela1988",
+      "durata": "7h 12m",
+      "puntateTotali": "271",
+      "paid_bids": "136",
+      "free_bids": "135"
+    }
+  ]
+}

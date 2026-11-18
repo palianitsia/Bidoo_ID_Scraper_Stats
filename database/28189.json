@@ -1,0 +1,27 @@
+{
+  "id": "28189",
+  "title": "Galaxy Tab S12 Ultra 14.6\" 512GB",
+  "records": [
+    {
+      "idAsta": "101574959",
+      "prezzo": "386.85",
+      "vincitore": "zelphos",
+      "durata": "42h 22m",
+      "puntateTotali": "276"
+    },
+    {
+      "idAsta": "101173223",
+      "prezzo": "108.23",
+      "vincitore": "nibbione",
+      "durata": "12h 16m",
+      "puntateTotali": "383"
+    },
+    {
+      "idAsta": "100987079",
+      "prezzo": "238.82",
+      "vincitore": "nenecima",
+      "durata": "40h 25m",
+      "puntateTotali": "9127"
+    }
+  ]
+}

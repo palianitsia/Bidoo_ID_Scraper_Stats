@@ -1,0 +1,41 @@
+{
+  "id": "20979",
+  "title": "10€ Rumbo +20P",
+  "records": [
+    {
+      "idAsta": "101491257",
+      "prezzo": "0.33",
+      "vincitore": "abellalba",
+      "durata": "2m",
+      "puntateTotali": "16"
+    },
+    {
+      "idAsta": "101316153",
+      "prezzo": "0.41",
+      "vincitore": "efrelasa",
+      "durata": "2m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "100741067",
+      "prezzo": "0.54",
+      "vincitore": "dorbati",
+      "durata": "4m",
+      "puntateTotali": "16"
+    },
+    {
+      "idAsta": "100071851",
+      "prezzo": "0.07",
+      "vincitore": "zaida9791",
+      "durata": "1m",
+      "puntateTotali": "2"
+    },
+    {
+      "idAsta": "101933150",
+      "prezzo": "0.79",
+      "vincitore": "rugbarba",
+      "durata": "5m",
+      "puntateTotali": "13"
+    }
+  ]
+}

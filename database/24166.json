@@ -1,0 +1,41 @@
+{
+  "id": "24166",
+  "title": "eMonopattino Argento by Pininfarina",
+  "records": [
+    {
+      "idAsta": "101620909",
+      "prezzo": "136.80",
+      "vincitore": "schiebianchi",
+      "durata": "22h 52m",
+      "puntateTotali": "38"
+    },
+    {
+      "idAsta": "100866796",
+      "prezzo": "42.00",
+      "vincitore": "viganoluca",
+      "durata": "7h 3m",
+      "puntateTotali": "2087"
+    },
+    {
+      "idAsta": "101934899",
+      "prezzo": "136.00",
+      "vincitore": "gaiascure",
+      "durata": "11h 22m",
+      "puntateTotali": "6380"
+    },
+    {
+      "idAsta": "101936833",
+      "prezzo": "79.36",
+      "vincitore": "nardelparini",
+      "durata": "13h 24m",
+      "puntateTotali": "3451"
+    },
+    {
+      "idAsta": "101934949",
+      "prezzo": "74.96",
+      "vincitore": "motoranixio",
+      "durata": "6h 36m",
+      "puntateTotali": "3399"
+    }
+  ]
+}

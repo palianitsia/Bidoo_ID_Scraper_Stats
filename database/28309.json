@@ -1,0 +1,34 @@
+{
+  "id": "28309",
+  "title": "Bulgari Man Gift Set Terrae Essence",
+  "records": [
+    {
+      "idAsta": "101395084",
+      "prezzo": "42.41",
+      "vincitore": "lampuivo",
+      "durata": "4h 51m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "101395062",
+      "prezzo": "30.64",
+      "vincitore": "pitafulvi",
+      "durata": "3h 29m",
+      "puntateTotali": "1489"
+    },
+    {
+      "idAsta": "101395011",
+      "prezzo": "24.94",
+      "vincitore": "quintara",
+      "durata": "2h 50m",
+      "puntateTotali": "1207"
+    },
+    {
+      "idAsta": "101395101",
+      "prezzo": "21.33",
+      "vincitore": "battistuzotti",
+      "durata": "2h 25m",
+      "puntateTotali": "1052"
+    }
+  ]
+}

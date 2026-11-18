@@ -1,0 +1,33 @@
+{
+  "id": "20942",
+  "title": "50€ Smartbox +100P",
+  "records": [
+    {
+      "idAsta": "97486199",
+      "prezzo": "1.19",
+      "vincitore": "topmiky",
+      "durata": "6m",
+      "puntateTotali": "56",
+      "paid_bids": "28",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97486235",
+      "prezzo": "1.01",
+      "vincitore": "derozer0",
+      "durata": "5m",
+      "puntateTotali": "48",
+      "paid_bids": "0",
+      "free_bids": "48"
+    },
+    {
+      "idAsta": "97486094",
+      "prezzo": "2.95",
+      "vincitore": "tomar3949",
+      "durata": "13m",
+      "puntateTotali": "130",
+      "paid_bids": "0",
+      "free_bids": "130"
+    }
+  ]
+}

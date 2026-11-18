@@ -1,0 +1,15 @@
+{
+  "id": "6153",
+  "title": "Fiat 500 Cavalcabile",
+  "records": [
+    {
+      "idAsta": "9080981",
+      "prezzo": "4.29",
+      "vincitore": "franceschettino",
+      "durata": "52m",
+      "puntateTotali": "24",
+      "paid_bids": "6",
+      "free_bids": "18"
+    }
+  ]
+}

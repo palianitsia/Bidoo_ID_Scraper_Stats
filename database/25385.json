@@ -1,0 +1,34 @@
+{
+  "id": "25385",
+  "title": "Nilox Ebike Cargo C1",
+  "records": [
+    {
+      "idAsta": "101620906",
+      "prezzo": "59.37",
+      "vincitore": "maglimutilo",
+      "durata": "9h 56m",
+      "puntateTotali": "2452"
+    },
+    {
+      "idAsta": "100866792",
+      "prezzo": "98.17",
+      "vincitore": "capodas",
+      "durata": "16h 30m",
+      "puntateTotali": "3083"
+    },
+    {
+      "idAsta": "100198642",
+      "prezzo": "155.20",
+      "vincitore": "orlanglob",
+      "durata": "26h 11m",
+      "puntateTotali": "77"
+    },
+    {
+      "idAsta": "101936830",
+      "prezzo": "141.25",
+      "vincitore": "lirarelor",
+      "durata": "23h 30m",
+      "puntateTotali": "134"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "26611",
+  "title": "Garmin Forerunner 55",
+  "records": [
+    {
+      "idAsta": "101642915",
+      "prezzo": "37.24",
+      "vincitore": "dardolava",
+      "durata": "6h 25m",
+      "puntateTotali": "122"
+    },
+    {
+      "idAsta": "101454179",
+      "prezzo": "27.39",
+      "vincitore": "malvezzafonte",
+      "durata": "4h 41m",
+      "puntateTotali": "12"
+    },
+    {
+      "idAsta": "101231088",
+      "prezzo": "34.42",
+      "vincitore": "ninobaia",
+      "durata": "6h 4m",
+      "puntateTotali": "55"
+    },
+    {
+      "idAsta": "101167017",
+      "prezzo": "56.43",
+      "vincitore": "buongustai",
+      "durata": "9h 38m",
+      "puntateTotali": "544"
+    },
+    {
+      "idAsta": "100909820",
+      "prezzo": "22.27",
+      "vincitore": "calystis",
+      "durata": "3h 41m",
+      "puntateTotali": "172"
+    },
+    {
+      "idAsta": "100498197",
+      "prezzo": "10.31",
+      "vincitore": "ninozampa",
+      "durata": "1h 46m",
+      "puntateTotali": "134"
+    },
+    {
+      "idAsta": "100446036",
+      "prezzo": "29.43",
+      "vincitore": "mirtomario",
+      "durata": "4h 59m",
+      "puntateTotali": "99"
+    },
+    {
+      "idAsta": "100197594",
+      "prezzo": "24.05",
+      "vincitore": "cicomara",
+      "durata": "4h 7m",
+      "puntateTotali": "117"
+    },
+    {
+      "idAsta": "102028037",
+      "prezzo": "47.33",
+      "vincitore": "tiglialisix",
+      "durata": "8h 9m",
+      "puntateTotali": "36"
+    }
+  ]
+}

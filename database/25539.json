@@ -1,0 +1,27 @@
+{
+  "id": "25539",
+  "title": "Lattafa Pride Ansaam Set Regalo 3 Pezzi",
+  "records": [
+    {
+      "idAsta": "101394996",
+      "prezzo": "7.65",
+      "vincitore": "tonibarista",
+      "durata": "53m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101395070",
+      "prezzo": "0.82",
+      "vincitore": "ossoscuro",
+      "durata": "6m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "101395024",
+      "prezzo": "3.66",
+      "vincitore": "soragino",
+      "durata": "24m",
+      "puntateTotali": "29"
+    }
+  ]
+}

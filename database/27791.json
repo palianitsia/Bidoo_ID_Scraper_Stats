@@ -1,0 +1,24 @@
+{
+  "id": "27791",
+  "title": "iRobot Roomba Plus 576",
+  "records": [
+    {
+      "idAsta": "97216535",
+      "prezzo": "133.48",
+      "vincitore": "protobambi",
+      "durata": "22h 38m",
+      "puntateTotali": "5673",
+      "paid_bids": "1182",
+      "free_bids": "4491"
+    },
+    {
+      "idAsta": "97400542",
+      "prezzo": "114.70",
+      "vincitore": "raubecci",
+      "durata": "19h 9m",
+      "puntateTotali": "4799",
+      "paid_bids": "1732",
+      "free_bids": "3067"
+    }
+  ]
+}

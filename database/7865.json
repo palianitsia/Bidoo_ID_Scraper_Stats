@@ -1,0 +1,42 @@
+{
+  "id": "7865",
+  "title": "Set caffè Christmas",
+  "records": [
+    {
+      "idAsta": "9025786",
+      "prezzo": "3.61",
+      "vincitore": "profmari",
+      "durata": "34m",
+      "puntateTotali": "178",
+      "paid_bids": "0",
+      "free_bids": "178"
+    },
+    {
+      "idAsta": "9045516",
+      "prezzo": "5.95",
+      "vincitore": "goku444",
+      "durata": "50m",
+      "puntateTotali": "106",
+      "paid_bids": "51",
+      "free_bids": "55"
+    },
+    {
+      "idAsta": "9066938",
+      "prezzo": "4.79",
+      "vincitore": "kolita00",
+      "durata": "41m",
+      "puntateTotali": "3",
+      "paid_bids": "0",
+      "free_bids": "3"
+    },
+    {
+      "idAsta": "9087242",
+      "prezzo": "2.45",
+      "vincitore": "eeeia",
+      "durata": "17m",
+      "puntateTotali": "46",
+      "paid_bids": "0",
+      "free_bids": "46"
+    }
+  ]
+}

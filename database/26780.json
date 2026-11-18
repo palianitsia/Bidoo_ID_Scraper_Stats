@@ -1,0 +1,24 @@
+{
+  "id": "26780",
+  "title": "Bosch Fresatrice Verticale",
+  "records": [
+    {
+      "idAsta": "97400684",
+      "prezzo": "44.63",
+      "vincitore": "scricciolyna",
+      "durata": "5h 3m",
+      "puntateTotali": "679",
+      "paid_bids": "0",
+      "free_bids": "679"
+    },
+    {
+      "idAsta": "97458951",
+      "prezzo": "8.82",
+      "vincitore": "marikomba23",
+      "durata": "1h 28m",
+      "puntateTotali": "410",
+      "paid_bids": "0",
+      "free_bids": "410"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "27683",
+  "title": "BAKAJI Set Salotto Giardino",
+  "records": [
+    {
+      "idAsta": "97213787",
+      "prezzo": "54.89",
+      "vincitore": "caprelli93",
+      "durata": "6h 19m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    },
+    {
+      "idAsta": "97449449",
+      "prezzo": "25.05",
+      "vincitore": "potenxixxl",
+      "durata": "2h 38m",
+      "puntateTotali": "23",
+      "paid_bids": "0",
+      "free_bids": "23"
+    }
+  ]
+}

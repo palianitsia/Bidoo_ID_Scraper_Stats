@@ -1,0 +1,24 @@
+{
+  "id": "26097",
+  "title": "HOSHANHO Coltello da Disosso 18cm",
+  "records": [
+    {
+      "idAsta": "97205135",
+      "prezzo": "20.24",
+      "vincitore": "v5v5v5m",
+      "durata": "1h 28m",
+      "puntateTotali": "442",
+      "paid_bids": "170",
+      "free_bids": "272"
+    },
+    {
+      "idAsta": "97205221",
+      "prezzo": "3.43",
+      "vincitore": "deffoe0",
+      "durata": "15m",
+      "puntateTotali": "33",
+      "paid_bids": "0",
+      "free_bids": "33"
+    }
+  ]
+}

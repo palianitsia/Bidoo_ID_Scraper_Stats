@@ -1,0 +1,24 @@
+{
+  "id": "27340",
+  "title": "Philips Bodygroom series 3000",
+  "records": [
+    {
+      "idAsta": "97170684",
+      "prezzo": "2.05",
+      "vincitore": "ladottora",
+      "durata": "21m",
+      "puntateTotali": "61",
+      "paid_bids": "3",
+      "free_bids": "58"
+    },
+    {
+      "idAsta": "97400750",
+      "prezzo": "1.15",
+      "vincitore": "forestiere93",
+      "durata": "12m",
+      "puntateTotali": "53",
+      "paid_bids": "0",
+      "free_bids": "53"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "27417",
+  "title": "Versace Short da Mare",
+  "records": [
+    {
+      "idAsta": "97163580",
+      "prezzo": "101.55",
+      "vincitore": "sghei4859",
+      "durata": "17h 22m",
+      "puntateTotali": "5049",
+      "paid_bids": "2239",
+      "free_bids": "2810"
+    },
+    {
+      "idAsta": "97190436",
+      "prezzo": "49.91",
+      "vincitore": "fedemilan",
+      "durata": "8h 25m",
+      "puntateTotali": "2473",
+      "paid_bids": "0",
+      "free_bids": "2473"
+    },
+    {
+      "idAsta": "97400902",
+      "prezzo": "92.52",
+      "vincitore": "masuned",
+      "durata": "15h 50m",
+      "puntateTotali": "4600",
+      "paid_bids": "1845",
+      "free_bids": "2755"
+    }
+  ]
+}

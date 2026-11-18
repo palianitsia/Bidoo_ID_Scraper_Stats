@@ -1,0 +1,24 @@
+{
+  "id": "7596",
+  "title": "Call of Duty M. W.",
+  "records": [
+    {
+      "idAsta": "9057856",
+      "prezzo": "19.24",
+      "vincitore": "321mio",
+      "durata": "2h 42m",
+      "puntateTotali": "26",
+      "paid_bids": "0",
+      "free_bids": "26"
+    },
+    {
+      "idAsta": "9080078",
+      "prezzo": "5.64",
+      "vincitore": "quidsedmoet",
+      "durata": "56m",
+      "puntateTotali": "26",
+      "paid_bids": "3",
+      "free_bids": "23"
+    }
+  ]
+}

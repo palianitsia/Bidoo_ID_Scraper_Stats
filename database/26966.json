@@ -1,0 +1,33 @@
+{
+  "id": "26966",
+  "title": "Pokémon: collezione Gothitelle",
+  "records": [
+    {
+      "idAsta": "97281317",
+      "prezzo": "4.24",
+      "vincitore": "elgranpedrinsky",
+      "durata": "22m",
+      "puntateTotali": "6",
+      "paid_bids": "2",
+      "free_bids": "4"
+    },
+    {
+      "idAsta": "97281319",
+      "prezzo": "1.50",
+      "vincitore": "dromi48",
+      "durata": "19m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    },
+    {
+      "idAsta": "97281318",
+      "prezzo": "2.12",
+      "vincitore": "aswaaaa9",
+      "durata": "22m",
+      "puntateTotali": "44",
+      "paid_bids": "0",
+      "free_bids": "44"
+    }
+  ]
+}

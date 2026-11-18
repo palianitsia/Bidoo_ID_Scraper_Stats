@@ -1,0 +1,69 @@
+{
+  "id": "25121",
+  "title": "iPhone 17 PRO 1TB",
+  "records": [
+    {
+      "idAsta": "97018698",
+      "prezzo": "346.88",
+      "vincitore": "storyazz",
+      "durata": "58h 10m",
+      "puntateTotali": "12917",
+      "paid_bids": "2955",
+      "free_bids": "9962"
+    },
+    {
+      "idAsta": "97204482",
+      "prezzo": "447.63",
+      "vincitore": "franceschettino",
+      "durata": "50h 59m",
+      "puntateTotali": "161",
+      "paid_bids": "0",
+      "free_bids": "161"
+    },
+    {
+      "idAsta": "97263013",
+      "prezzo": "232.21",
+      "vincitore": "sgundan",
+      "durata": "38h 23m",
+      "puntateTotali": "9172",
+      "paid_bids": "1095",
+      "free_bids": "8077"
+    },
+    {
+      "idAsta": "97324033",
+      "prezzo": "172.65",
+      "vincitore": "robedo0",
+      "durata": "28h 53m",
+      "puntateTotali": "8219",
+      "paid_bids": "0",
+      "free_bids": "8219"
+    },
+    {
+      "idAsta": "97373697",
+      "prezzo": "203.21",
+      "vincitore": "mariaelena91",
+      "durata": "34h 13m",
+      "puntateTotali": "546",
+      "paid_bids": "0",
+      "free_bids": "546"
+    },
+    {
+      "idAsta": "97373696",
+      "prezzo": "166.26",
+      "vincitore": "ormipicci",
+      "durata": "18h 42m",
+      "puntateTotali": "602",
+      "paid_bids": "0",
+      "free_bids": "602"
+    },
+    {
+      "idAsta": "97373698",
+      "prezzo": "188.65",
+      "vincitore": "mistofere93",
+      "durata": "42h 6m",
+      "puntateTotali": "8772",
+      "paid_bids": "0",
+      "free_bids": "8772"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "27859",
+  "title": "Gucci Paparazzo Medium",
+  "records": [
+    {
+      "idAsta": "101449392",
+      "prezzo": "324.60",
+      "vincitore": "fioreradio",
+      "durata": "54h 48m",
+      "puntateTotali": "771"
+    },
+    {
+      "idAsta": "100786203",
+      "prezzo": "839.36",
+      "vincitore": "giacvarco",
+      "durata": "141h 45m",
+      "puntateTotali": "180"
+    },
+    {
+      "idAsta": "100379965",
+      "prezzo": "344.36",
+      "vincitore": "teregrana",
+      "durata": "58h 14m",
+      "puntateTotali": "14767"
+    }
+  ]
+}

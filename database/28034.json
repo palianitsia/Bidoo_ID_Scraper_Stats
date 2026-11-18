@@ -1,0 +1,41 @@
+{
+  "id": "28034",
+  "title": "Gabel Trapunta Theo",
+  "records": [
+    {
+      "idAsta": "101396351",
+      "prezzo": "49.03",
+      "vincitore": "patriziabaraldi",
+      "durata": "8h 36m",
+      "puntateTotali": "1405"
+    },
+    {
+      "idAsta": "101396352",
+      "prezzo": "12.22",
+      "vincitore": "milmiche",
+      "durata": "2h 2m",
+      "puntateTotali": "105"
+    },
+    {
+      "idAsta": "100742980",
+      "prezzo": "8.95",
+      "vincitore": "mondragobaldo",
+      "durata": "1h 30m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "100742979",
+      "prezzo": "23.12",
+      "vincitore": "cazzavill",
+      "durata": "3h 55m",
+      "puntateTotali": "37"
+    },
+    {
+      "idAsta": "100440966",
+      "prezzo": "8.79",
+      "vincitore": "ciappi69",
+      "durata": "1h 24m",
+      "puntateTotali": "151"
+    }
+  ]
+}

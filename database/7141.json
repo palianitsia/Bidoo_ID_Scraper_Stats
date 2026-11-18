@@ -1,0 +1,24 @@
+{
+  "id": "7141",
+  "title": "Galaxy A80",
+  "records": [
+    {
+      "idAsta": "9057127",
+      "prezzo": "33.08",
+      "vincitore": "eli0sir",
+      "durata": "4h 2m",
+      "puntateTotali": "1047",
+      "paid_bids": "0",
+      "free_bids": "1047"
+    },
+    {
+      "idAsta": "9098926",
+      "prezzo": "80.48",
+      "vincitore": "adelecossa",
+      "durata": "13h 2m",
+      "puntateTotali": "2881",
+      "paid_bids": "100",
+      "free_bids": "2781"
+    }
+  ]
+}

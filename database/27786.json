@@ -1,0 +1,42 @@
+{
+  "id": "27786",
+  "title": "Pinolino Set 4 posti Nicki",
+  "records": [
+    {
+      "idAsta": "97213802",
+      "prezzo": "3.74",
+      "vincitore": "mrpakk",
+      "durata": "27m",
+      "puntateTotali": "18",
+      "paid_bids": "0",
+      "free_bids": "18"
+    },
+    {
+      "idAsta": "97213832",
+      "prezzo": "2.24",
+      "vincitore": "sfendi39",
+      "durata": "15m",
+      "puntateTotali": "38",
+      "paid_bids": "0",
+      "free_bids": "38"
+    },
+    {
+      "idAsta": "97449495",
+      "prezzo": "1.31",
+      "vincitore": "celentano29",
+      "durata": "9m",
+      "puntateTotali": "26",
+      "paid_bids": "0",
+      "free_bids": "26"
+    },
+    {
+      "idAsta": "97449466",
+      "prezzo": "1.89",
+      "vincitore": "federicoplc",
+      "durata": "13m",
+      "puntateTotali": "29",
+      "paid_bids": "0",
+      "free_bids": "29"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "27548",
+  "title": "FENDI Peekaboo ISeeU Small",
+  "records": [
+    {
+      "idAsta": "100751397",
+      "prezzo": "945.61",
+      "vincitore": "rinaduna",
+      "durata": "160h 9m",
+      "puntateTotali": "199"
+    },
+    {
+      "idAsta": "100272698",
+      "prezzo": "356.33",
+      "vincitore": "lolloboschi",
+      "durata": "60h 23m",
+      "puntateTotali": "304"
+    },
+    {
+      "idAsta": "100117238",
+      "prezzo": "566.12",
+      "vincitore": "sedacorr",
+      "durata": "95h 48m",
+      "puntateTotali": "23697"
+    },
+    {
+      "idAsta": "99091775",
+      "prezzo": "2105.30",
+      "vincitore": "guebarbi",
+      "durata": "356h 54m",
+      "puntateTotali": "632"
+    },
+    {
+      "idAsta": "99872629",
+      "prezzo": "952.68",
+      "vincitore": "ugowarp",
+      "durata": "161h 31m",
+      "puntateTotali": "616"
+    },
+    {
+      "idAsta": "99275614",
+      "prezzo": "1723.50",
+      "vincitore": "broccafur",
+      "durata": "292h 7m",
+      "puntateTotali": "763"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "26582",
+  "title": "Lego Ford Model T",
+  "records": [
+    {
+      "idAsta": "97096964",
+      "prezzo": "2.45",
+      "vincitore": "sbelinda83",
+      "durata": "26m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97149340",
+      "prezzo": "4.37",
+      "vincitore": "cotrame30",
+      "durata": "31m",
+      "puntateTotali": "41",
+      "paid_bids": "0",
+      "free_bids": "41"
+    },
+    {
+      "idAsta": "97345101",
+      "prezzo": "7.06",
+      "vincitore": "kerdueu3i",
+      "durata": "1h 11m",
+      "puntateTotali": "175",
+      "paid_bids": "0",
+      "free_bids": "175"
+    }
+  ]
+}

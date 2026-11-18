@@ -1,0 +1,42 @@
+{
+  "id": "7193",
+  "title": "100€ Volagratis +200P",
+  "records": [
+    {
+      "idAsta": "9059403",
+      "prezzo": "33.25",
+      "vincitore": "titano59",
+      "durata": "2h 24m",
+      "puntateTotali": "1523",
+      "paid_bids": "0",
+      "free_bids": "1523"
+    },
+    {
+      "idAsta": "9059495",
+      "prezzo": "5.16",
+      "vincitore": "malpelo12",
+      "durata": "38m",
+      "puntateTotali": "62",
+      "paid_bids": "0",
+      "free_bids": "62"
+    },
+    {
+      "idAsta": "9059642",
+      "prezzo": "30.87",
+      "vincitore": "lojiko",
+      "durata": "3h 6m",
+      "puntateTotali": "11",
+      "paid_bids": "0",
+      "free_bids": "11"
+    },
+    {
+      "idAsta": "9099948",
+      "prezzo": "31.00",
+      "vincitore": "dankishcha",
+      "durata": "2h 31m",
+      "puntateTotali": "5",
+      "paid_bids": "0",
+      "free_bids": "5"
+    }
+  ]
+}

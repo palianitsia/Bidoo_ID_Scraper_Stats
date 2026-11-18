@@ -1,0 +1,27 @@
+{
+  "id": "27937",
+  "title": "Ferro da Stiro a Vapore Cordless 2400W",
+  "records": [
+    {
+      "idAsta": "101581986",
+      "prezzo": "2.45",
+      "vincitore": "gianco7419",
+      "durata": "23m",
+      "puntateTotali": "117"
+    },
+    {
+      "idAsta": "100694577",
+      "prezzo": "2.02",
+      "vincitore": "taffamorelli",
+      "durata": "20m",
+      "puntateTotali": "51"
+    },
+    {
+      "idAsta": "101924772",
+      "prezzo": "4.08",
+      "vincitore": "spadamaren",
+      "durata": "41m",
+      "puntateTotali": "80"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "25313",
+  "title": "Dyson Corrale Plate",
+  "records": [
+    {
+      "idAsta": "100913957",
+      "prezzo": "84.94",
+      "vincitore": "cristalon",
+      "durata": "19h 9m",
+      "puntateTotali": "200"
+    },
+    {
+      "idAsta": "100913955",
+      "prezzo": "90.40",
+      "vincitore": "marcruota",
+      "durata": "10h 24m",
+      "puntateTotali": "4345"
+    },
+    {
+      "idAsta": "100913956",
+      "prezzo": "49.95",
+      "vincitore": "pareile",
+      "durata": "8h 35m",
+      "puntateTotali": "2303"
+    },
+    {
+      "idAsta": "100266012",
+      "prezzo": "75.12",
+      "vincitore": "orsagabri",
+      "durata": "8h 42m",
+      "puntateTotali": "3397"
+    },
+    {
+      "idAsta": "100266013",
+      "prezzo": "110.58",
+      "vincitore": "guidolito",
+      "durata": "18h 49m",
+      "puntateTotali": "162"
+    }
+  ]
+}

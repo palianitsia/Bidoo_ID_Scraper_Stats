@@ -1,0 +1,41 @@
+{
+  "id": "26656",
+  "title": "100€ BOLT +100P",
+  "records": [
+    {
+      "idAsta": "101870197",
+      "prezzo": "18.95",
+      "vincitore": "epifaoyar",
+      "durata": "1h 44m",
+      "puntateTotali": "43"
+    },
+    {
+      "idAsta": "101870122",
+      "prezzo": "14.74",
+      "vincitore": "miottogherdi",
+      "durata": "1h 21m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "101870172",
+      "prezzo": "10.15",
+      "vincitore": "antolsego",
+      "durata": "56m",
+      "puntateTotali": "118"
+    },
+    {
+      "idAsta": "101870147",
+      "prezzo": "6.82",
+      "vincitore": "mejicon",
+      "durata": "37m",
+      "puntateTotali": "128"
+    },
+    {
+      "idAsta": "101316065",
+      "prezzo": "21.05",
+      "vincitore": "perfeball",
+      "durata": "2h 29m",
+      "puntateTotali": "23"
+    }
+  ]
+}

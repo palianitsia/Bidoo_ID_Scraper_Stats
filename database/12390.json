@@ -1,0 +1,42 @@
+{
+  "id": "12390",
+  "title": "25€ Iper +50P",
+  "records": [
+    {
+      "idAsta": "97208650",
+      "prezzo": "0.86",
+      "vincitore": "annacapaci",
+      "durata": "6m",
+      "puntateTotali": "31",
+      "paid_bids": "0",
+      "free_bids": "31"
+    },
+    {
+      "idAsta": "97208665",
+      "prezzo": "1.57",
+      "vincitore": "miskie94",
+      "durata": "16m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    },
+    {
+      "idAsta": "97208693",
+      "prezzo": "0.56",
+      "vincitore": "ariapol",
+      "durata": "4m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97208605",
+      "prezzo": "0.92",
+      "vincitore": "sbertuccc",
+      "durata": "3m",
+      "puntateTotali": "44",
+      "paid_bids": "0",
+      "free_bids": "44"
+    }
+  ]
+}

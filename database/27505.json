@@ -1,0 +1,51 @@
+{
+  "id": "27505",
+  "title": "Halo: Campaign Evolved",
+  "records": [
+    {
+      "idAsta": "97015762",
+      "prezzo": "1.27",
+      "vincitore": "krtos756",
+      "durata": "9m",
+      "puntateTotali": "15",
+      "paid_bids": "0",
+      "free_bids": "15"
+    },
+    {
+      "idAsta": "97208399",
+      "prezzo": "2.27",
+      "vincitore": "queslb2",
+      "durata": "16m",
+      "puntateTotali": "36",
+      "paid_bids": "0",
+      "free_bids": "36"
+    },
+    {
+      "idAsta": "97222216",
+      "prezzo": "1.53",
+      "vincitore": "gieuedje33",
+      "durata": "16m",
+      "puntateTotali": "33",
+      "paid_bids": "0",
+      "free_bids": "33"
+    },
+    {
+      "idAsta": "97343858",
+      "prezzo": "1.67",
+      "vincitore": "adriana03w",
+      "durata": "11m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97403889",
+      "prezzo": "9.12",
+      "vincitore": "bobygiga",
+      "durata": "1h 34m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    }
+  ]
+}

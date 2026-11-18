@@ -1,0 +1,24 @@
+{
+  "id": "25245",
+  "title": "Pancake Maker 4X",
+  "records": [
+    {
+      "idAsta": "97205177",
+      "prezzo": "5.45",
+      "vincitore": "sunflower0322",
+      "durata": "18m",
+      "puntateTotali": "177",
+      "paid_bids": "0",
+      "free_bids": "177"
+    },
+    {
+      "idAsta": "97205292",
+      "prezzo": "2.30",
+      "vincitore": "alex1978aa",
+      "durata": "10m",
+      "puntateTotali": "98",
+      "paid_bids": "0",
+      "free_bids": "98"
+    }
+  ]
+}

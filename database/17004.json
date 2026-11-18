@@ -1,0 +1,33 @@
+{
+  "id": "17004",
+  "title": "Chicco Bagnetto Fasciatoio",
+  "records": [
+    {
+      "idAsta": "97435934",
+      "prezzo": "9.37",
+      "vincitore": "fumagallim",
+      "durata": "1h 37m",
+      "puntateTotali": "142",
+      "paid_bids": "0",
+      "free_bids": "142"
+    },
+    {
+      "idAsta": "97456308",
+      "prezzo": "17.22",
+      "vincitore": "cosimameli",
+      "durata": "2h 57m",
+      "puntateTotali": "12",
+      "paid_bids": "0",
+      "free_bids": "12"
+    },
+    {
+      "idAsta": "97489438",
+      "prezzo": "10.08",
+      "vincitore": "mir2000",
+      "durata": "1h 41m",
+      "puntateTotali": "496",
+      "paid_bids": "120",
+      "free_bids": "376"
+    }
+  ]
+}

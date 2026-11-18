@@ -1,0 +1,83 @@
+{
+  "id": "28153",
+  "title": "Valor Mortis",
+  "records": [
+    {
+      "idAsta": "101766983",
+      "prezzo": "2.73",
+      "vincitore": "ansepoia",
+      "durata": "28m",
+      "puntateTotali": "32"
+    },
+    {
+      "idAsta": "101750705",
+      "prezzo": "1.18",
+      "vincitore": "ildepuma",
+      "durata": "12m",
+      "puntateTotali": "44"
+    },
+    {
+      "idAsta": "101537656",
+      "prezzo": "3.49",
+      "vincitore": "mirtaleri",
+      "durata": "36m",
+      "puntateTotali": "15"
+    },
+    {
+      "idAsta": "101678321",
+      "prezzo": "3.17",
+      "vincitore": "wolmaris",
+      "durata": "23m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "101248782",
+      "prezzo": "0.68",
+      "vincitore": "quimulino",
+      "durata": "5m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "100865729",
+      "prezzo": "1.80",
+      "vincitore": "pauatre",
+      "durata": "12m",
+      "puntateTotali": "7"
+    },
+    {
+      "idAsta": "100817167",
+      "prezzo": "1.12",
+      "vincitore": "lidzufol",
+      "durata": "12m",
+      "puntateTotali": "18"
+    },
+    {
+      "idAsta": "100598298",
+      "prezzo": "3.18",
+      "vincitore": "paglienel",
+      "durata": "33m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "100330022",
+      "prezzo": "2.58",
+      "vincitore": "yenneferneri",
+      "durata": "26m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "100198570",
+      "prezzo": "12.81",
+      "vincitore": "stefanomassc",
+      "durata": "2h 11m",
+      "puntateTotali": "638"
+    },
+    {
+      "idAsta": "101977740",
+      "prezzo": "2.14",
+      "vincitore": "plutamoya",
+      "durata": "22m",
+      "puntateTotali": "49"
+    }
+  ]
+}

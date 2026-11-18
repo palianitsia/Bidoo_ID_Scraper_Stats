@@ -1,0 +1,76 @@
+{
+  "id": "27955",
+  "title": "Lego SpongeBob: Bikini Bottom",
+  "records": [
+    {
+      "idAsta": "101333393",
+      "prezzo": "36.92",
+      "vincitore": "sartquiri",
+      "durata": "6h 15m",
+      "puntateTotali": "1754"
+    },
+    {
+      "idAsta": "101333444",
+      "prezzo": "18.98",
+      "vincitore": "funestorov",
+      "durata": "3h 13m",
+      "puntateTotali": "70"
+    },
+    {
+      "idAsta": "101073636",
+      "prezzo": "16.33",
+      "vincitore": "halmerix",
+      "durata": "1h 52m",
+      "puntateTotali": "796"
+    },
+    {
+      "idAsta": "100851604",
+      "prezzo": "121.44",
+      "vincitore": "fabrcordo",
+      "durata": "20h 27m",
+      "puntateTotali": "53"
+    },
+    {
+      "idAsta": "100852565",
+      "prezzo": "19.26",
+      "vincitore": "scanrapid",
+      "durata": "2h 21m",
+      "puntateTotali": "57"
+    },
+    {
+      "idAsta": "100851568",
+      "prezzo": "36.91",
+      "vincitore": "alvabuca",
+      "durata": "6h 16m",
+      "puntateTotali": "1726"
+    },
+    {
+      "idAsta": "100020805",
+      "prezzo": "80.17",
+      "vincitore": "vtln93",
+      "durata": "9h 13m",
+      "puntateTotali": "3624"
+    },
+    {
+      "idAsta": "101863418",
+      "prezzo": "30.37",
+      "vincitore": "pascondiv",
+      "durata": "3h 29m",
+      "puntateTotali": "1410"
+    },
+    {
+      "idAsta": "101941691",
+      "prezzo": "34.68",
+      "vincitore": "podcastpan",
+      "durata": "6h 2m",
+      "puntateTotali": "1388"
+    },
+    {
+      "idAsta": "101941655",
+      "prezzo": "32.61",
+      "vincitore": "doraghisa",
+      "durata": "5h 31m",
+      "puntateTotali": "1521"
+    }
+  ]
+}

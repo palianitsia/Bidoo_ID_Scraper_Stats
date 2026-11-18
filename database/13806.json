@@ -1,0 +1,33 @@
+{
+  "id": "13806",
+  "title": "350€ Bidoo Shop + 350 pt",
+  "records": [
+    {
+      "idAsta": "97329370",
+      "prezzo": "24.78",
+      "vincitore": "maritna249",
+      "durata": "2h 49m",
+      "puntateTotali": "569",
+      "paid_bids": "0",
+      "free_bids": "569"
+    },
+    {
+      "idAsta": "97329371",
+      "prezzo": "40.09",
+      "vincitore": "stemoris",
+      "durata": "6h 44m",
+      "puntateTotali": "1599",
+      "paid_bids": "297",
+      "free_bids": "1302"
+    },
+    {
+      "idAsta": "97329369",
+      "prezzo": "34.24",
+      "vincitore": "alexandrapoi",
+      "durata": "2h 55m",
+      "puntateTotali": "1423",
+      "paid_bids": "0",
+      "free_bids": "1423"
+    }
+  ]
+}

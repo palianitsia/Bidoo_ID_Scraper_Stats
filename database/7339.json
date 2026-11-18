@@ -1,0 +1,24 @@
+{
+  "id": "7339",
+  "title": "Samsung smart 43\" 2019",
+  "records": [
+    {
+      "idAsta": "9038331",
+      "prezzo": "191.82",
+      "vincitore": "imuradi",
+      "durata": "23h 41m",
+      "puntateTotali": "86",
+      "paid_bids": "47",
+      "free_bids": "39"
+    },
+    {
+      "idAsta": "9081194",
+      "prezzo": "61.45",
+      "vincitore": "falegname007",
+      "durata": "7h 25m",
+      "puntateTotali": "2673",
+      "paid_bids": "744",
+      "free_bids": "1929"
+    }
+  ]
+}

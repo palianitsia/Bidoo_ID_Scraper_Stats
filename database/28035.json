@@ -1,0 +1,34 @@
+{
+  "id": "28035",
+  "title": "Gabel Trapunta Alexander",
+  "records": [
+    {
+      "idAsta": "101396363",
+      "prezzo": "16.56",
+      "vincitore": "falaodino",
+      "durata": "2h 39m",
+      "puntateTotali": "32"
+    },
+    {
+      "idAsta": "101396364",
+      "prezzo": "3.52",
+      "vincitore": "manuela7789",
+      "durata": "35m",
+      "puntateTotali": "173"
+    },
+    {
+      "idAsta": "100742992",
+      "prezzo": "6.40",
+      "vincitore": "iacogarda",
+      "durata": "1h 5m",
+      "puntateTotali": "82"
+    },
+    {
+      "idAsta": "100440977",
+      "prezzo": "20.07",
+      "vincitore": "paolfumo",
+      "durata": "3h 28m",
+      "puntateTotali": "101"
+    }
+  ]
+}

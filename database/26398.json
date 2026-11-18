@@ -1,0 +1,55 @@
+{
+  "id": "26398",
+  "title": "Fossil Riley",
+  "records": [
+    {
+      "idAsta": "101642854",
+      "prezzo": "26.76",
+      "vincitore": "rosparisi",
+      "durata": "4h 27m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101454178",
+      "prezzo": "15.10",
+      "vincitore": "papapirata",
+      "durata": "2h 36m",
+      "puntateTotali": "6"
+    },
+    {
+      "idAsta": "101231087",
+      "prezzo": "20.95",
+      "vincitore": "pievanucciolo",
+      "durata": "3h 32m",
+      "puntateTotali": "15"
+    },
+    {
+      "idAsta": "101167016",
+      "prezzo": "22.42",
+      "vincitore": "roguaris",
+      "durata": "3h 50m",
+      "puntateTotali": "192"
+    },
+    {
+      "idAsta": "100446035",
+      "prezzo": "25.42",
+      "vincitore": "tortelcal",
+      "durata": "4h 24m",
+      "puntateTotali": "163"
+    },
+    {
+      "idAsta": "100197593",
+      "prezzo": "8.98",
+      "vincitore": "fedfaste",
+      "durata": "1h 30m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "102028036",
+      "prezzo": "20.97",
+      "vincitore": "iolenotte",
+      "durata": "3h 36m",
+      "puntateTotali": "114"
+    }
+  ]
+}

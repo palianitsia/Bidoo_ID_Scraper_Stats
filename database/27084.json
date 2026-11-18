@@ -1,0 +1,24 @@
+{
+  "id": "27084",
+  "title": "Set 2 Sedie da Esterno Pieghevoli",
+  "records": [
+    {
+      "idAsta": "97213791",
+      "prezzo": "7.93",
+      "vincitore": "geremia9221",
+      "durata": "1h 23m",
+      "puntateTotali": "13",
+      "paid_bids": "0",
+      "free_bids": "13"
+    },
+    {
+      "idAsta": "97449453",
+      "prezzo": "7.88",
+      "vincitore": "pericistide",
+      "durata": "1h 20m",
+      "puntateTotali": "106",
+      "paid_bids": "0",
+      "free_bids": "106"
+    }
+  ]
+}

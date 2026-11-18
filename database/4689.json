@@ -1,0 +1,24 @@
+{
+  "id": "4689",
+  "title": "Nutribullet 12pz",
+  "records": [
+    {
+      "idAsta": "9038008",
+      "prezzo": "14.05",
+      "vincitore": "bayrut",
+      "durata": "1h 26m",
+      "puntateTotali": "134",
+      "paid_bids": "0",
+      "free_bids": "134"
+    },
+    {
+      "idAsta": "9078172",
+      "prezzo": "5.11",
+      "vincitore": "articolo41",
+      "durata": "31m",
+      "puntateTotali": "82",
+      "paid_bids": "0",
+      "free_bids": "82"
+    }
+  ]
+}

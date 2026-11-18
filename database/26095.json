@@ -1,0 +1,33 @@
+{
+  "id": "26095",
+  "title": "MasterChef Set Taglieri Legno Bamboo",
+  "records": [
+    {
+      "idAsta": "97205121",
+      "prezzo": "1.22",
+      "vincitore": "magiau",
+      "durata": "5m",
+      "puntateTotali": "33",
+      "paid_bids": "0",
+      "free_bids": "33"
+    },
+    {
+      "idAsta": "97205200",
+      "prezzo": "3.22",
+      "vincitore": "scisci81",
+      "durata": "13m",
+      "puntateTotali": "56",
+      "paid_bids": "0",
+      "free_bids": "56"
+    },
+    {
+      "idAsta": "97205318",
+      "prezzo": "6.69",
+      "vincitore": "pierogessi",
+      "durata": "23m",
+      "puntateTotali": "52",
+      "paid_bids": "0",
+      "free_bids": "52"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "25104",
+  "title": "Samsung Galaxy Tab S11 Ultra 512Gb",
+  "records": [
+    {
+      "idAsta": "97105004",
+      "prezzo": "225.07",
+      "vincitore": "modrello40",
+      "durata": "25h 29m",
+      "puntateTotali": "9824",
+      "paid_bids": "0",
+      "free_bids": "9824"
+    },
+    {
+      "idAsta": "97494903",
+      "prezzo": "165.16",
+      "vincitore": "marittti0",
+      "durata": "18h 49m",
+      "puntateTotali": "7716",
+      "paid_bids": "359",
+      "free_bids": "7357"
+    }
+  ]
+}

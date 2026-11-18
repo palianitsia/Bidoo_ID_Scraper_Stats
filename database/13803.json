@@ -1,0 +1,834 @@
+{
+  "id": "13803",
+  "title": "200€ Bidoo Shop + 200 pt",
+  "records": [
+    {
+      "idAsta": "97010857",
+      "prezzo": "5.78",
+      "vincitore": "nerone934",
+      "durata": "1h 19m",
+      "puntateTotali": "247",
+      "paid_bids": "0",
+      "free_bids": "247"
+    },
+    {
+      "idAsta": "97022271",
+      "prezzo": "10.71",
+      "vincitore": "skrapasa",
+      "durata": "2h 22m",
+      "puntateTotali": "529",
+      "paid_bids": "0",
+      "free_bids": "529"
+    },
+    {
+      "idAsta": "97030499",
+      "prezzo": "9.58",
+      "vincitore": "marittimi",
+      "durata": "2h 8m",
+      "puntateTotali": "461",
+      "paid_bids": "0",
+      "free_bids": "461"
+    },
+    {
+      "idAsta": "97035299",
+      "prezzo": "6.82",
+      "vincitore": "masgiuzzi",
+      "durata": "1h 31m",
+      "puntateTotali": "338",
+      "paid_bids": "0",
+      "free_bids": "338"
+    },
+    {
+      "idAsta": "97042493",
+      "prezzo": "4.93",
+      "vincitore": "fiendo02",
+      "durata": "1h 6m",
+      "puntateTotali": "245",
+      "paid_bids": "0",
+      "free_bids": "245"
+    },
+    {
+      "idAsta": "97045015",
+      "prezzo": "8.79",
+      "vincitore": "cofumeride",
+      "durata": "1h 58m",
+      "puntateTotali": "434",
+      "paid_bids": "0",
+      "free_bids": "434"
+    },
+    {
+      "idAsta": "97051076",
+      "prezzo": "9.64",
+      "vincitore": "desulloe3",
+      "durata": "2h 8m",
+      "puntateTotali": "476",
+      "paid_bids": "0",
+      "free_bids": "476"
+    },
+    {
+      "idAsta": "97058454",
+      "prezzo": "4.54",
+      "vincitore": "caplerot",
+      "durata": "1h 2m",
+      "puntateTotali": "186",
+      "paid_bids": "0",
+      "free_bids": "186"
+    },
+    {
+      "idAsta": "97063180",
+      "prezzo": "16.02",
+      "vincitore": "giup39",
+      "durata": "3h 43m",
+      "puntateTotali": "766",
+      "paid_bids": "181",
+      "free_bids": "585"
+    },
+    {
+      "idAsta": "97071071",
+      "prezzo": "8.39",
+      "vincitore": "crtiem3",
+      "durata": "1h 53m",
+      "puntateTotali": "339",
+      "paid_bids": "0",
+      "free_bids": "339"
+    },
+    {
+      "idAsta": "97081009",
+      "prezzo": "6.49",
+      "vincitore": "mariluna2939",
+      "durata": "1h 27m",
+      "puntateTotali": "322",
+      "paid_bids": "0",
+      "free_bids": "322"
+    },
+    {
+      "idAsta": "97083784",
+      "prezzo": "5.52",
+      "vincitore": "drhibberyto0",
+      "durata": "1h 14m",
+      "puntateTotali": "192",
+      "paid_bids": "0",
+      "free_bids": "192"
+    },
+    {
+      "idAsta": "97090720",
+      "prezzo": "7.58",
+      "vincitore": "aluhau3",
+      "durata": "1h 43m",
+      "puntateTotali": "355",
+      "paid_bids": "0",
+      "free_bids": "355"
+    },
+    {
+      "idAsta": "97094039",
+      "prezzo": "10.07",
+      "vincitore": "gianpett94",
+      "durata": "2h 17m",
+      "puntateTotali": "220",
+      "paid_bids": "0",
+      "free_bids": "220"
+    },
+    {
+      "idAsta": "97101619",
+      "prezzo": "14.87",
+      "vincitore": "fidennias",
+      "durata": "3h 20m",
+      "puntateTotali": "658",
+      "paid_bids": "0",
+      "free_bids": "658"
+    },
+    {
+      "idAsta": "97108171",
+      "prezzo": "3.98",
+      "vincitore": "ginocrisis",
+      "durata": "53m",
+      "puntateTotali": "197",
+      "paid_bids": "0",
+      "free_bids": "197"
+    },
+    {
+      "idAsta": "97115605",
+      "prezzo": "5.92",
+      "vincitore": "salvatore949",
+      "durata": "1h 19m",
+      "puntateTotali": "293",
+      "paid_bids": "0",
+      "free_bids": "293"
+    },
+    {
+      "idAsta": "97118429",
+      "prezzo": "5.92",
+      "vincitore": "upime93",
+      "durata": "1h 19m",
+      "puntateTotali": "294",
+      "paid_bids": "0",
+      "free_bids": "294"
+    },
+    {
+      "idAsta": "97130792",
+      "prezzo": "12.57",
+      "vincitore": "gerrykfc",
+      "durata": "2h 50m",
+      "puntateTotali": "433",
+      "paid_bids": "0",
+      "free_bids": "433"
+    },
+    {
+      "idAsta": "97130791",
+      "prezzo": "8.28",
+      "vincitore": "alelessia3",
+      "durata": "1h 51m",
+      "puntateTotali": "406",
+      "paid_bids": "0",
+      "free_bids": "406"
+    },
+    {
+      "idAsta": "97142282",
+      "prezzo": "5.25",
+      "vincitore": "luciaernes",
+      "durata": "1h 10m",
+      "puntateTotali": "150",
+      "paid_bids": "19",
+      "free_bids": "131"
+    },
+    {
+      "idAsta": "97146528",
+      "prezzo": "4.06",
+      "vincitore": "misneo",
+      "durata": "39m",
+      "puntateTotali": "200",
+      "paid_bids": "0",
+      "free_bids": "200"
+    },
+    {
+      "idAsta": "97146518",
+      "prezzo": "7.50",
+      "vincitore": "biziobisio",
+      "durata": "1h 16m",
+      "puntateTotali": "345",
+      "paid_bids": "0",
+      "free_bids": "345"
+    },
+    {
+      "idAsta": "97146545",
+      "prezzo": "3.70",
+      "vincitore": "seriman39",
+      "durata": "38m",
+      "puntateTotali": "168",
+      "paid_bids": "0",
+      "free_bids": "168"
+    },
+    {
+      "idAsta": "97146538",
+      "prezzo": "12.46",
+      "vincitore": "alikei4",
+      "durata": "2h 7m",
+      "puntateTotali": "321",
+      "paid_bids": "0",
+      "free_bids": "321"
+    },
+    {
+      "idAsta": "97146555",
+      "prezzo": "3.15",
+      "vincitore": "fantokki9",
+      "durata": "33m",
+      "puntateTotali": "157",
+      "paid_bids": "96",
+      "free_bids": "61"
+    },
+    {
+      "idAsta": "97146582",
+      "prezzo": "13.79",
+      "vincitore": "coniglio0101",
+      "durata": "2h 21m",
+      "puntateTotali": "450",
+      "paid_bids": "0",
+      "free_bids": "450"
+    },
+    {
+      "idAsta": "97146565",
+      "prezzo": "7.77",
+      "vincitore": "entrogusto",
+      "durata": "55m",
+      "puntateTotali": "359",
+      "paid_bids": "0",
+      "free_bids": "359"
+    },
+    {
+      "idAsta": "97146572",
+      "prezzo": "3.24",
+      "vincitore": "rikitry38",
+      "durata": "34m",
+      "puntateTotali": "161",
+      "paid_bids": "0",
+      "free_bids": "161"
+    },
+    {
+      "idAsta": "97146592",
+      "prezzo": "3.93",
+      "vincitore": "monreale033",
+      "durata": "39m",
+      "puntateTotali": "191",
+      "paid_bids": "0",
+      "free_bids": "191"
+    },
+    {
+      "idAsta": "97146599",
+      "prezzo": "3.73",
+      "vincitore": "andri2942",
+      "durata": "38m",
+      "puntateTotali": "185",
+      "paid_bids": "0",
+      "free_bids": "185"
+    },
+    {
+      "idAsta": "97146609",
+      "prezzo": "3.38",
+      "vincitore": "salu39",
+      "durata": "34m",
+      "puntateTotali": "165",
+      "paid_bids": "0",
+      "free_bids": "165"
+    },
+    {
+      "idAsta": "97146619",
+      "prezzo": "6.80",
+      "vincitore": "casiomed",
+      "durata": "47m",
+      "puntateTotali": "334",
+      "paid_bids": "0",
+      "free_bids": "334"
+    },
+    {
+      "idAsta": "97146626",
+      "prezzo": "7.91",
+      "vincitore": "stufato49",
+      "durata": "1h 20m",
+      "puntateTotali": "392",
+      "paid_bids": "0",
+      "free_bids": "392"
+    },
+    {
+      "idAsta": "97146636",
+      "prezzo": "30.57",
+      "vincitore": "albymerola",
+      "durata": "5h 10m",
+      "puntateTotali": "750",
+      "paid_bids": "0",
+      "free_bids": "750"
+    },
+    {
+      "idAsta": "97146646",
+      "prezzo": "3.32",
+      "vincitore": "roccolafe9",
+      "durata": "34m",
+      "puntateTotali": "166",
+      "paid_bids": "0",
+      "free_bids": "166"
+    },
+    {
+      "idAsta": "97146653",
+      "prezzo": "3.55",
+      "vincitore": "dobersi",
+      "durata": "37m",
+      "puntateTotali": "174",
+      "paid_bids": "130",
+      "free_bids": "44"
+    },
+    {
+      "idAsta": "97146663",
+      "prezzo": "6.97",
+      "vincitore": "mitralica",
+      "durata": "1h 10m",
+      "puntateTotali": "345",
+      "paid_bids": "0",
+      "free_bids": "345"
+    },
+    {
+      "idAsta": "97146680",
+      "prezzo": "27.33",
+      "vincitore": "serenatjk",
+      "durata": "4h 36m",
+      "puntateTotali": "924",
+      "paid_bids": "0",
+      "free_bids": "924"
+    },
+    {
+      "idAsta": "97146673",
+      "prezzo": "15.79",
+      "vincitore": "perenato",
+      "durata": "2h 41m",
+      "puntateTotali": "570",
+      "paid_bids": "0",
+      "free_bids": "570"
+    },
+    {
+      "idAsta": "97151172",
+      "prezzo": "15.88",
+      "vincitore": "toremauro1",
+      "durata": "3h 34m",
+      "puntateTotali": "575",
+      "paid_bids": "0",
+      "free_bids": "575"
+    },
+    {
+      "idAsta": "97151910",
+      "prezzo": "8.05",
+      "vincitore": "gofrleti49",
+      "durata": "1h 47m",
+      "puntateTotali": "389",
+      "paid_bids": "179",
+      "free_bids": "210"
+    },
+    {
+      "idAsta": "97166225",
+      "prezzo": "8.25",
+      "vincitore": "gobbulai",
+      "durata": "1h 49m",
+      "puntateTotali": "378",
+      "paid_bids": "0",
+      "free_bids": "378"
+    },
+    {
+      "idAsta": "97168797",
+      "prezzo": "3.87",
+      "vincitore": "smtrinelli0",
+      "durata": "51m",
+      "puntateTotali": "189",
+      "paid_bids": "0",
+      "free_bids": "189"
+    },
+    {
+      "idAsta": "97177211",
+      "prezzo": "33.03",
+      "vincitore": "curruccud23",
+      "durata": "7h 18m",
+      "puntateTotali": "608",
+      "paid_bids": "0",
+      "free_bids": "608"
+    },
+    {
+      "idAsta": "97177710",
+      "prezzo": "15.28",
+      "vincitore": "giniwopw329",
+      "durata": "3h 28m",
+      "puntateTotali": "730",
+      "paid_bids": "0",
+      "free_bids": "730"
+    },
+    {
+      "idAsta": "97229342",
+      "prezzo": "4.45",
+      "vincitore": "distillateve",
+      "durata": "1h 0m",
+      "puntateTotali": "218",
+      "paid_bids": "0",
+      "free_bids": "218"
+    },
+    {
+      "idAsta": "97227921",
+      "prezzo": "10.94",
+      "vincitore": "topolina902384",
+      "durata": "2h 25m",
+      "puntateTotali": "386",
+      "paid_bids": "0",
+      "free_bids": "386"
+    },
+    {
+      "idAsta": "97239818",
+      "prezzo": "8.93",
+      "vincitore": "comussi",
+      "durata": "2h 9m",
+      "puntateTotali": "438",
+      "paid_bids": "0",
+      "free_bids": "438"
+    },
+    {
+      "idAsta": "97240990",
+      "prezzo": "18.36",
+      "vincitore": "reuma394",
+      "durata": "4h 14m",
+      "puntateTotali": "531",
+      "paid_bids": "0",
+      "free_bids": "531"
+    },
+    {
+      "idAsta": "97251268",
+      "prezzo": "6.70",
+      "vincitore": "imparam384",
+      "durata": "1h 28m",
+      "puntateTotali": "201",
+      "paid_bids": "0",
+      "free_bids": "201"
+    },
+    {
+      "idAsta": "97259273",
+      "prezzo": "4.93",
+      "vincitore": "sgmberio49",
+      "durata": "50m",
+      "puntateTotali": "160",
+      "paid_bids": "0",
+      "free_bids": "160"
+    },
+    {
+      "idAsta": "97259292",
+      "prezzo": "53.95",
+      "vincitore": "mastricciak",
+      "durata": "9h 4m",
+      "puntateTotali": "93",
+      "paid_bids": "34",
+      "free_bids": "59"
+    },
+    {
+      "idAsta": "97261427",
+      "prezzo": "4.41",
+      "vincitore": "qualoerto",
+      "durata": "59m",
+      "puntateTotali": "219",
+      "paid_bids": "0",
+      "free_bids": "219"
+    },
+    {
+      "idAsta": "97263619",
+      "prezzo": "17.63",
+      "vincitore": "cogifinid",
+      "durata": "3h 57m",
+      "puntateTotali": "667",
+      "paid_bids": "0",
+      "free_bids": "667"
+    },
+    {
+      "idAsta": "97269297",
+      "prezzo": "11.68",
+      "vincitore": "ilmattopino",
+      "durata": "2h 34m",
+      "puntateTotali": "570",
+      "paid_bids": "0",
+      "free_bids": "570"
+    },
+    {
+      "idAsta": "97283686",
+      "prezzo": "3.47",
+      "vincitore": "cuelbyti",
+      "durata": "48m",
+      "puntateTotali": "171",
+      "paid_bids": "0",
+      "free_bids": "171"
+    },
+    {
+      "idAsta": "97284791",
+      "prezzo": "7.22",
+      "vincitore": "elviosani",
+      "durata": "1h 37m",
+      "puntateTotali": "357",
+      "paid_bids": "0",
+      "free_bids": "357"
+    },
+    {
+      "idAsta": "97290964",
+      "prezzo": "11.08",
+      "vincitore": "klosero",
+      "durata": "2h 28m",
+      "puntateTotali": "501",
+      "paid_bids": "0",
+      "free_bids": "501"
+    },
+    {
+      "idAsta": "97297932",
+      "prezzo": "8.01",
+      "vincitore": "ilkirko",
+      "durata": "1h 47m",
+      "puntateTotali": "386",
+      "paid_bids": "0",
+      "free_bids": "386"
+    },
+    {
+      "idAsta": "97313710",
+      "prezzo": "4.66",
+      "vincitore": "albytrecci",
+      "durata": "1h 3m",
+      "puntateTotali": "226",
+      "paid_bids": "0",
+      "free_bids": "226"
+    },
+    {
+      "idAsta": "97321646",
+      "prezzo": "7.03",
+      "vincitore": "mariobindo",
+      "durata": "1h 35m",
+      "puntateTotali": "339",
+      "paid_bids": "155",
+      "free_bids": "184"
+    },
+    {
+      "idAsta": "97332074",
+      "prezzo": "14.50",
+      "vincitore": "cofferati99",
+      "durata": "3h 16m",
+      "puntateTotali": "433",
+      "paid_bids": "0",
+      "free_bids": "433"
+    },
+    {
+      "idAsta": "97345755",
+      "prezzo": "5.36",
+      "vincitore": "colibri3985",
+      "durata": "1h 12m",
+      "puntateTotali": "262",
+      "paid_bids": "0",
+      "free_bids": "262"
+    },
+    {
+      "idAsta": "97349151",
+      "prezzo": "6.52",
+      "vincitore": "paulasauro39",
+      "durata": "1h 28m",
+      "puntateTotali": "326",
+      "paid_bids": "0",
+      "free_bids": "326"
+    },
+    {
+      "idAsta": "97353906",
+      "prezzo": "5.64",
+      "vincitore": "paolokkio",
+      "durata": "1h 15m",
+      "puntateTotali": "274",
+      "paid_bids": "0",
+      "free_bids": "274"
+    },
+    {
+      "idAsta": "97358994",
+      "prezzo": "11.76",
+      "vincitore": "mchielina928378",
+      "durata": "2h 46m",
+      "puntateTotali": "557",
+      "paid_bids": "0",
+      "free_bids": "557"
+    },
+    {
+      "idAsta": "97368032",
+      "prezzo": "5.75",
+      "vincitore": "giumenka2882",
+      "durata": "1h 18m",
+      "puntateTotali": "287",
+      "paid_bids": "0",
+      "free_bids": "287"
+    },
+    {
+      "idAsta": "97373000",
+      "prezzo": "7.09",
+      "vincitore": "antoniopicy",
+      "durata": "1h 34m",
+      "puntateTotali": "328",
+      "paid_bids": "0",
+      "free_bids": "328"
+    },
+    {
+      "idAsta": "97378470",
+      "prezzo": "20.48",
+      "vincitore": "yeppetoo3",
+      "durata": "4h 36m",
+      "puntateTotali": "959",
+      "paid_bids": "169",
+      "free_bids": "790"
+    },
+    {
+      "idAsta": "97383734",
+      "prezzo": "23.47",
+      "vincitore": "dnur9403",
+      "durata": "5h 17m",
+      "puntateTotali": "953",
+      "paid_bids": "368",
+      "free_bids": "585"
+    },
+    {
+      "idAsta": "97399750",
+      "prezzo": "3.49",
+      "vincitore": "lingles39",
+      "durata": "46m",
+      "puntateTotali": "173",
+      "paid_bids": "0",
+      "free_bids": "173"
+    },
+    {
+      "idAsta": "97406867",
+      "prezzo": "8.62",
+      "vincitore": "testimony",
+      "durata": "1h 55m",
+      "puntateTotali": "428",
+      "paid_bids": "0",
+      "free_bids": "428"
+    },
+    {
+      "idAsta": "97407470",
+      "prezzo": "9.85",
+      "vincitore": "baracelli49",
+      "durata": "2h 12m",
+      "puntateTotali": "481",
+      "paid_bids": "0",
+      "free_bids": "481"
+    },
+    {
+      "idAsta": "97417802",
+      "prezzo": "59.56",
+      "vincitore": "grazietanto981",
+      "durata": "13h 28m",
+      "puntateTotali": "32",
+      "paid_bids": "0",
+      "free_bids": "32"
+    },
+    {
+      "idAsta": "97426439",
+      "prezzo": "4.58",
+      "vincitore": "lopiuo",
+      "durata": "1h 1m",
+      "puntateTotali": "227",
+      "paid_bids": "0",
+      "free_bids": "227"
+    },
+    {
+      "idAsta": "97436076",
+      "prezzo": "3.21",
+      "vincitore": "mascelli39",
+      "durata": "43m",
+      "puntateTotali": "159",
+      "paid_bids": "0",
+      "free_bids": "159"
+    },
+    {
+      "idAsta": "97442999",
+      "prezzo": "7.81",
+      "vincitore": "sobbolly",
+      "durata": "1h 44m",
+      "puntateTotali": "383",
+      "paid_bids": "0",
+      "free_bids": "383"
+    },
+    {
+      "idAsta": "97453468",
+      "prezzo": "3.35",
+      "vincitore": "euleoindia",
+      "durata": "45m",
+      "puntateTotali": "164",
+      "paid_bids": "0",
+      "free_bids": "164"
+    },
+    {
+      "idAsta": "97460323",
+      "prezzo": "8.80",
+      "vincitore": "sempretardiii",
+      "durata": "1h 59m",
+      "puntateTotali": "375",
+      "paid_bids": "0",
+      "free_bids": "375"
+    },
+    {
+      "idAsta": "97471120",
+      "prezzo": "21.11",
+      "vincitore": "masedo3a",
+      "durata": "4h 54m",
+      "puntateTotali": "657",
+      "paid_bids": "0",
+      "free_bids": "657"
+    },
+    {
+      "idAsta": "97471589",
+      "prezzo": "8.60",
+      "vincitore": "astamamma",
+      "durata": "2h 5m",
+      "puntateTotali": "410",
+      "paid_bids": "0",
+      "free_bids": "410"
+    },
+    {
+      "idAsta": "97486062",
+      "prezzo": "6.57",
+      "vincitore": "desoc3",
+      "durata": "1h 6m",
+      "puntateTotali": "201",
+      "paid_bids": "0",
+      "free_bids": "201"
+    },
+    {
+      "idAsta": "97486181",
+      "prezzo": "6.39",
+      "vincitore": "rispaul",
+      "durata": "1h 4m",
+      "puntateTotali": "258",
+      "paid_bids": "0",
+      "free_bids": "258"
+    },
+    {
+      "idAsta": "97486243",
+      "prezzo": "3.19",
+      "vincitore": "paristella",
+      "durata": "43m",
+      "puntateTotali": "158",
+      "paid_bids": "0",
+      "free_bids": "158"
+    },
+    {
+      "idAsta": "97486222",
+      "prezzo": "56.91",
+      "vincitore": "ilposto40",
+      "durata": "6h 27m",
+      "puntateTotali": "128",
+      "paid_bids": "64",
+      "free_bids": "64"
+    },
+    {
+      "idAsta": "97486101",
+      "prezzo": "71.68",
+      "vincitore": "vincsoft",
+      "durata": "12h 5m",
+      "puntateTotali": "3563",
+      "paid_bids": "265",
+      "free_bids": "3298"
+    },
+    {
+      "idAsta": "97486141",
+      "prezzo": "6.77",
+      "vincitore": "ilcantante",
+      "durata": "48m",
+      "puntateTotali": "188",
+      "paid_bids": "0",
+      "free_bids": "188"
+    },
+    {
+      "idAsta": "97492703",
+      "prezzo": "3.45",
+      "vincitore": "addefe2",
+      "durata": "46m",
+      "puntateTotali": "169",
+      "paid_bids": "0",
+      "free_bids": "169"
+    },
+    {
+      "idAsta": "97493147",
+      "prezzo": "7.40",
+      "vincitore": "carlofogli",
+      "durata": "1h 39m",
+      "puntateTotali": "324",
+      "paid_bids": "0",
+      "free_bids": "324"
+    },
+    {
+      "idAsta": "97499437",
+      "prezzo": "7.22",
+      "vincitore": "foccialsi",
+      "durata": "1h 37m",
+      "puntateTotali": "279",
+      "paid_bids": "0",
+      "free_bids": "279"
+    },
+    {
+      "idAsta": "97506432",
+      "prezzo": "6.80",
+      "vincitore": "jafar45",
+      "durata": "1h 31m",
+      "puntateTotali": "335",
+      "paid_bids": "0",
+      "free_bids": "335"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "27397",
+  "title": "Lenovo IdeaCentre All‐In‐One 27\"",
+  "records": [
+    {
+      "idAsta": "97190467",
+      "prezzo": "133.82",
+      "vincitore": "detroni485",
+      "durata": "22h 47m",
+      "puntateTotali": "203",
+      "paid_bids": "0",
+      "free_bids": "203"
+    },
+    {
+      "idAsta": "97401246",
+      "prezzo": "205.65",
+      "vincitore": "bestiollo",
+      "durata": "35h 9m",
+      "puntateTotali": "723",
+      "paid_bids": "0",
+      "free_bids": "723"
+    },
+    {
+      "idAsta": "97432759",
+      "prezzo": "252.96",
+      "vincitore": "manter1",
+      "durata": "43h 24m",
+      "puntateTotali": "257",
+      "paid_bids": "0",
+      "free_bids": "257"
+    }
+  ]
+}

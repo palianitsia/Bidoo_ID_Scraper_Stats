@@ -1,0 +1,24 @@
+{
+  "id": "7964",
+  "title": "Cassetta vini nord 3pz",
+  "records": [
+    {
+      "idAsta": "9099430",
+      "prezzo": "24.22",
+      "vincitore": "rimpietro",
+      "durata": "2h 39m",
+      "puntateTotali": "77",
+      "paid_bids": "0",
+      "free_bids": "77"
+    },
+    {
+      "idAsta": "9099431",
+      "prezzo": "6.79",
+      "vincitore": "ilparrucchino",
+      "durata": "1h 25m",
+      "puntateTotali": "60",
+      "paid_bids": "19",
+      "free_bids": "41"
+    }
+  ]
+}

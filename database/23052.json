@@ -1,0 +1,24 @@
+{
+  "id": "23052",
+  "title": "Cecotec Scopa Elettrica Senza Fili 2100 Twice",
+  "records": [
+    {
+      "idAsta": "97216531",
+      "prezzo": "2.93",
+      "vincitore": "sgobelli49",
+      "durata": "31m",
+      "puntateTotali": "38",
+      "paid_bids": "0",
+      "free_bids": "38"
+    },
+    {
+      "idAsta": "97343787",
+      "prezzo": "24.37",
+      "vincitore": "ortueri483",
+      "durata": "2h 49m",
+      "puntateTotali": "31",
+      "paid_bids": "0",
+      "free_bids": "31"
+    }
+  ]
+}

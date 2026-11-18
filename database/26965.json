@@ -1,0 +1,33 @@
+{
+  "id": "26965",
+  "title": "Pokémon: Mega Lucario‐ex",
+  "records": [
+    {
+      "idAsta": "97281314",
+      "prezzo": "19.22",
+      "vincitore": "pouslu29",
+      "durata": "1h 36m",
+      "puntateTotali": "87",
+      "paid_bids": "0",
+      "free_bids": "87"
+    },
+    {
+      "idAsta": "97281316",
+      "prezzo": "14.11",
+      "vincitore": "drifugio",
+      "durata": "3h 1m",
+      "puntateTotali": "16",
+      "paid_bids": "0",
+      "free_bids": "16"
+    },
+    {
+      "idAsta": "97281315",
+      "prezzo": "0.09",
+      "vincitore": "obsolution",
+      "durata": "1m",
+      "puntateTotali": "3",
+      "paid_bids": "1",
+      "free_bids": "2"
+    }
+  ]
+}

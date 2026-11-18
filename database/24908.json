@@ -1,0 +1,33 @@
+{
+  "id": "24908",
+  "title": "Invicta Zaino Carlson Shine",
+  "records": [
+    {
+      "idAsta": "97211602",
+      "prezzo": "0.63",
+      "vincitore": "felinido",
+      "durata": "3m",
+      "puntateTotali": "28",
+      "paid_bids": "0",
+      "free_bids": "28"
+    },
+    {
+      "idAsta": "97211670",
+      "prezzo": "0.37",
+      "vincitore": "gagliardino22",
+      "durata": "2m",
+      "puntateTotali": "18",
+      "paid_bids": "0",
+      "free_bids": "18"
+    },
+    {
+      "idAsta": "97487007",
+      "prezzo": "5.04",
+      "vincitore": "meridiano09",
+      "durata": "19m",
+      "puntateTotali": "55",
+      "paid_bids": "0",
+      "free_bids": "55"
+    }
+  ]
+}

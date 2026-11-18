@@ -1,0 +1,42 @@
+{
+  "id": "27096",
+  "title": "Lego Cristiano Ronaldo",
+  "records": [
+    {
+      "idAsta": "97190472",
+      "prezzo": "21.43",
+      "vincitore": "fredo22",
+      "durata": "3h 42m",
+      "puntateTotali": "46",
+      "paid_bids": "0",
+      "free_bids": "46"
+    },
+    {
+      "idAsta": "97222247",
+      "prezzo": "2.52",
+      "vincitore": "entercar93",
+      "durata": "24m",
+      "puntateTotali": "11",
+      "paid_bids": "0",
+      "free_bids": "11"
+    },
+    {
+      "idAsta": "97343833",
+      "prezzo": "2.20",
+      "vincitore": "frederikpp",
+      "durata": "16m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    },
+    {
+      "idAsta": "97401315",
+      "prezzo": "2.44",
+      "vincitore": "jmpiero38",
+      "durata": "25m",
+      "puntateTotali": "44",
+      "paid_bids": "0",
+      "free_bids": "44"
+    }
+  ]
+}

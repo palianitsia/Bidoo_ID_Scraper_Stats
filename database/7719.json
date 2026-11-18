@@ -1,0 +1,24 @@
+{
+  "id": "7719",
+  "title": "Sony SRS‐XB12",
+  "records": [
+    {
+      "idAsta": "9022173",
+      "prezzo": "11.17",
+      "vincitore": "silvan35",
+      "durata": "1h 25m",
+      "puntateTotali": "154",
+      "paid_bids": "0",
+      "free_bids": "154"
+    },
+    {
+      "idAsta": "9038778",
+      "prezzo": "10.79",
+      "vincitore": "ffxiii",
+      "durata": "1h 7m",
+      "puntateTotali": "276",
+      "paid_bids": "0",
+      "free_bids": "276"
+    }
+  ]
+}

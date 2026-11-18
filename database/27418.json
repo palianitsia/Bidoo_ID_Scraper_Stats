@@ -1,0 +1,33 @@
+{
+  "id": "27418",
+  "title": "Versace Costume in Jacquard",
+  "records": [
+    {
+      "idAsta": "97096334",
+      "prezzo": "6.87",
+      "vincitore": "kolumi394",
+      "durata": "1h 8m",
+      "puntateTotali": "339",
+      "paid_bids": "0",
+      "free_bids": "339"
+    },
+    {
+      "idAsta": "97163568",
+      "prezzo": "22.03",
+      "vincitore": "inteurca",
+      "durata": "3h 41m",
+      "puntateTotali": "1068",
+      "paid_bids": "312",
+      "free_bids": "756"
+    },
+    {
+      "idAsta": "97345296",
+      "prezzo": "15.18",
+      "vincitore": "devefere3",
+      "durata": "2h 42m",
+      "puntateTotali": "711",
+      "paid_bids": "0",
+      "free_bids": "711"
+    }
+  ]
+}

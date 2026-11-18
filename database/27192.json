@@ -1,0 +1,24 @@
+{
+  "id": "27192",
+  "title": "WYBOT C1‐Plus Robot Piscina",
+  "records": [
+    {
+      "idAsta": "97045211",
+      "prezzo": "122.52",
+      "vincitore": "rojisco2",
+      "durata": "20h 39m",
+      "puntateTotali": "11",
+      "paid_bids": "0",
+      "free_bids": "11"
+    },
+    {
+      "idAsta": "97284291",
+      "prezzo": "47.20",
+      "vincitore": "crodellio",
+      "durata": "7h 34m",
+      "puntateTotali": "1863",
+      "paid_bids": "0",
+      "free_bids": "1863"
+    }
+  ]
+}

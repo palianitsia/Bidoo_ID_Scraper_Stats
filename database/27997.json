@@ -1,0 +1,69 @@
+{
+  "id": "27997",
+  "title": "Philips Lady Shaver Serie 6000",
+  "records": [
+    {
+      "idAsta": "101642181",
+      "prezzo": "1.56",
+      "vincitore": "loreciurma",
+      "durata": "16m",
+      "puntateTotali": "40"
+    },
+    {
+      "idAsta": "101453606",
+      "prezzo": "2.76",
+      "vincitore": "aspidone",
+      "durata": "27m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101375137",
+      "prezzo": "2.00",
+      "vincitore": "gioghisa",
+      "durata": "20m",
+      "puntateTotali": "10"
+    },
+    {
+      "idAsta": "101231039",
+      "prezzo": "2.49",
+      "vincitore": "grimager",
+      "durata": "25m",
+      "puntateTotali": "13"
+    },
+    {
+      "idAsta": "101110024",
+      "prezzo": "6.27",
+      "vincitore": "quaedmon",
+      "durata": "34m",
+      "puntateTotali": "41"
+    },
+    {
+      "idAsta": "101166965",
+      "prezzo": "1.74",
+      "vincitore": "dariovex",
+      "durata": "17m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "100909432",
+      "prezzo": "2.03",
+      "vincitore": "bellinrocchi",
+      "durata": "20m",
+      "puntateTotali": "28"
+    },
+    {
+      "idAsta": "100444985",
+      "prezzo": "0.55",
+      "vincitore": "fabipari",
+      "durata": "5m",
+      "puntateTotali": "13"
+    },
+    {
+      "idAsta": "102025245",
+      "prezzo": "2.23",
+      "vincitore": "tenerife2021",
+      "durata": "22m",
+      "puntateTotali": "1"
+    }
+  ]
+}

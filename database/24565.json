@@ -1,0 +1,41 @@
+{
+  "id": "24565",
+  "title": "Inmotion E20 Ruota Elettrica",
+  "records": [
+    {
+      "idAsta": "101620900",
+      "prezzo": "49.42",
+      "vincitore": "kikomare",
+      "durata": "8h 18m",
+      "puntateTotali": "2407"
+    },
+    {
+      "idAsta": "100866786",
+      "prezzo": "35.99",
+      "vincitore": "scoglicon",
+      "durata": "6h 5m",
+      "puntateTotali": "1650"
+    },
+    {
+      "idAsta": "100198636",
+      "prezzo": "114.23",
+      "vincitore": "raffagola",
+      "durata": "19h 25m",
+      "puntateTotali": "5516"
+    },
+    {
+      "idAsta": "99920880",
+      "prezzo": "96.20",
+      "vincitore": "biagvarco",
+      "durata": "16h 22m",
+      "puntateTotali": "4550"
+    },
+    {
+      "idAsta": "101936824",
+      "prezzo": "84.04",
+      "vincitore": "favaclan",
+      "durata": "14h 10m",
+      "puntateTotali": "149"
+    }
+  ]
+}

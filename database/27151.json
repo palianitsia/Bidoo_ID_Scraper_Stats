@@ -1,0 +1,24 @@
+{
+  "id": "27151",
+  "title": "Ninja CREAMi Deluxe Gelatiera",
+  "records": [
+    {
+      "idAsta": "97075772",
+      "prezzo": "42.73",
+      "vincitore": "bestbo",
+      "durata": "7h 10m",
+      "puntateTotali": "1862",
+      "paid_bids": "139",
+      "free_bids": "1723"
+    },
+    {
+      "idAsta": "97432415",
+      "prezzo": "6.68",
+      "vincitore": "fortiam1",
+      "durata": "1h 8m",
+      "puntateTotali": "243",
+      "paid_bids": "0",
+      "free_bids": "243"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "26954",
+  "title": "Electrolux 600 Condizionatore portatile",
+  "records": [
+    {
+      "idAsta": "97033965",
+      "prezzo": "155.90",
+      "vincitore": "mangiapiog",
+      "durata": "17h 52m",
+      "puntateTotali": "510",
+      "paid_bids": "412",
+      "free_bids": "98"
+    },
+    {
+      "idAsta": "97033990",
+      "prezzo": "49.71",
+      "vincitore": "fureitio",
+      "durata": "5h 41m",
+      "puntateTotali": "1601",
+      "paid_bids": "0",
+      "free_bids": "1601"
+    },
+    {
+      "idAsta": "97280453",
+      "prezzo": "126.66",
+      "vincitore": "erpanzzo",
+      "durata": "14h 31m",
+      "puntateTotali": "258",
+      "paid_bids": "0",
+      "free_bids": "258"
+    },
+    {
+      "idAsta": "97280428",
+      "prezzo": "99.73",
+      "vincitore": "kereer3",
+      "durata": "11h 33m",
+      "puntateTotali": "4933",
+      "paid_bids": "1946",
+      "free_bids": "2987"
+    }
+  ]
+}

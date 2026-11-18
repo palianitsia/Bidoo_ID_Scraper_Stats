@@ -1,0 +1,33 @@
+{
+  "id": "26389",
+  "title": "JBL Tune 780 NC",
+  "records": [
+    {
+      "idAsta": "97280848",
+      "prezzo": "5.31",
+      "vincitore": "mais222",
+      "durata": "37m",
+      "puntateTotali": "41",
+      "paid_bids": "0",
+      "free_bids": "41"
+    },
+    {
+      "idAsta": "97280894",
+      "prezzo": "42.87",
+      "vincitore": "calippofizz",
+      "durata": "5h 4m",
+      "puntateTotali": "12",
+      "paid_bids": "0",
+      "free_bids": "12"
+    },
+    {
+      "idAsta": "97343886",
+      "prezzo": "9.82",
+      "vincitore": "cortennu33",
+      "durata": "1h 9m",
+      "puntateTotali": "110",
+      "paid_bids": "0",
+      "free_bids": "110"
+    }
+  ]
+}

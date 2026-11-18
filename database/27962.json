@@ -1,0 +1,34 @@
+{
+  "id": "27962",
+  "title": "Lego Busto del Dottor Destino",
+  "records": [
+    {
+      "idAsta": "101581517",
+      "prezzo": "2.82",
+      "vincitore": "drewndrea",
+      "durata": "28m",
+      "puntateTotali": "134"
+    },
+    {
+      "idAsta": "101038835",
+      "prezzo": "1.61",
+      "vincitore": "zanolfero",
+      "durata": "16m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "100693601",
+      "prezzo": "20.18",
+      "vincitore": "bennyyy79",
+      "durata": "3h 28m",
+      "puntateTotali": "1006"
+    },
+    {
+      "idAsta": "101902596",
+      "prezzo": "14.92",
+      "vincitore": "scoretasso",
+      "durata": "2h 30m",
+      "puntateTotali": "31"
+    }
+  ]
+}

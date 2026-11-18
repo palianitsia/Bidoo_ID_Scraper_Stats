@@ -1,0 +1,60 @@
+{
+  "id": "20139",
+  "title": "Dyson Supersonic Nural",
+  "records": [
+    {
+      "idAsta": "97037403",
+      "prezzo": "112.58",
+      "vincitore": "costacos4",
+      "durata": "19h 8m",
+      "puntateTotali": "5559",
+      "paid_bids": "2722",
+      "free_bids": "2837"
+    },
+    {
+      "idAsta": "97116563",
+      "prezzo": "116.92",
+      "vincitore": "piglialdi",
+      "durata": "19h 59m",
+      "puntateTotali": "486",
+      "paid_bids": "0",
+      "free_bids": "486"
+    },
+    {
+      "idAsta": "97197192",
+      "prezzo": "85.41",
+      "vincitore": "silfidi39",
+      "durata": "14h 31m",
+      "puntateTotali": "3015",
+      "paid_bids": "2396",
+      "free_bids": "619"
+    },
+    {
+      "idAsta": "97258246",
+      "prezzo": "50.69",
+      "vincitore": "adromole",
+      "durata": "8h 32m",
+      "puntateTotali": "2477",
+      "paid_bids": "0",
+      "free_bids": "2477"
+    },
+    {
+      "idAsta": "97309328",
+      "prezzo": "158.29",
+      "vincitore": "merklash",
+      "durata": "26h 43m",
+      "puntateTotali": "5712",
+      "paid_bids": "2800",
+      "free_bids": "2912"
+    },
+    {
+      "idAsta": "97426808",
+      "prezzo": "123.42",
+      "vincitore": "artioneu21",
+      "durata": "20h 57m",
+      "puntateTotali": "6118",
+      "paid_bids": "3577",
+      "free_bids": "2541"
+    }
+  ]
+}

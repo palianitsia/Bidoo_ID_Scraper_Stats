@@ -1,0 +1,41 @@
+{
+  "id": "25485",
+  "title": "DJI Mini 5 Pro",
+  "records": [
+    {
+      "idAsta": "101431531",
+      "prezzo": "144.24",
+      "vincitore": "bosscobra",
+      "durata": "24h 26m",
+      "puntateTotali": "6621"
+    },
+    {
+      "idAsta": "101431530",
+      "prezzo": "64.85",
+      "vincitore": "leatuono",
+      "durata": "7h 32m",
+      "puntateTotali": "111"
+    },
+    {
+      "idAsta": "101431529",
+      "prezzo": "82.43",
+      "vincitore": "enzobane",
+      "durata": "7h 8m",
+      "puntateTotali": "3943"
+    },
+    {
+      "idAsta": "100599006",
+      "prezzo": "54.91",
+      "vincitore": "fanzaghetto",
+      "durata": "9h 12m",
+      "puntateTotali": "1634"
+    },
+    {
+      "idAsta": "100481672",
+      "prezzo": "144.00",
+      "vincitore": "alvabiffa",
+      "durata": "24h 17m",
+      "puntateTotali": "22"
+    }
+  ]
+}

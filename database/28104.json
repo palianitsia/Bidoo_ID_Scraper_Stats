@@ -1,0 +1,27 @@
+{
+  "id": "28104",
+  "title": "Hisense Lavasciuga 10,5 + 6 KG",
+  "records": [
+    {
+      "idAsta": "101231115",
+      "prezzo": "81.33",
+      "vincitore": "neriscorzo",
+      "durata": "13h 49m",
+      "puntateTotali": "3056"
+    },
+    {
+      "idAsta": "101166988",
+      "prezzo": "78.61",
+      "vincitore": "papuerco",
+      "durata": "13h 19m",
+      "puntateTotali": "2643"
+    },
+    {
+      "idAsta": "100909597",
+      "prezzo": "107.49",
+      "vincitore": "svebura",
+      "durata": "18h 0m",
+      "puntateTotali": "265"
+    }
+  ]
+}

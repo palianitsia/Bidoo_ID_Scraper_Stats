@@ -1,0 +1,33 @@
+{
+  "id": "27733",
+  "title": "Lego Gustav Klimt ‐ Il bacio",
+  "records": [
+    {
+      "idAsta": "97045276",
+      "prezzo": "110.51",
+      "vincitore": "bennyyy79",
+      "durata": "18h 42m",
+      "puntateTotali": "5372",
+      "paid_bids": "594",
+      "free_bids": "4778"
+    },
+    {
+      "idAsta": "97149328",
+      "prezzo": "33.94",
+      "vincitore": "jessicaol9",
+      "durata": "5h 43m",
+      "puntateTotali": "634",
+      "paid_bids": "0",
+      "free_bids": "634"
+    },
+    {
+      "idAsta": "97284364",
+      "prezzo": "8.70",
+      "vincitore": "francynga",
+      "durata": "1h 28m",
+      "puntateTotali": "5",
+      "paid_bids": "2",
+      "free_bids": "3"
+    }
+  ]
+}

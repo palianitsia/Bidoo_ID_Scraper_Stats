@@ -1,0 +1,51 @@
+{
+  "id": "25693",
+  "title": "DJI Neo 2",
+  "records": [
+    {
+      "idAsta": "97222436",
+      "prezzo": "9.55",
+      "vincitore": "posteo589",
+      "durata": "1h 37m",
+      "puntateTotali": "453",
+      "paid_bids": "0",
+      "free_bids": "453"
+    },
+    {
+      "idAsta": "97329374",
+      "prezzo": "59.73",
+      "vincitore": "ricang",
+      "durata": "10h 2m",
+      "puntateTotali": "737",
+      "paid_bids": "318",
+      "free_bids": "419"
+    },
+    {
+      "idAsta": "97329372",
+      "prezzo": "29.18",
+      "vincitore": "bellomio39",
+      "durata": "2h 30m",
+      "puntateTotali": "747",
+      "paid_bids": "0",
+      "free_bids": "747"
+    },
+    {
+      "idAsta": "97329373",
+      "prezzo": "19.85",
+      "vincitore": "sbacueio3",
+      "durata": "2h 16m",
+      "puntateTotali": "775",
+      "paid_bids": "0",
+      "free_bids": "775"
+    },
+    {
+      "idAsta": "97458619",
+      "prezzo": "6.20",
+      "vincitore": "sfertuulli39",
+      "durata": "1h 1m",
+      "puntateTotali": "295",
+      "paid_bids": "0",
+      "free_bids": "295"
+    }
+  ]
+}

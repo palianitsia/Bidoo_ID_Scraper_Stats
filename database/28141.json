@@ -1,0 +1,41 @@
+{
+  "id": "28141",
+  "title": "LG OLED C6 48\"",
+  "records": [
+    {
+      "idAsta": "100815682",
+      "prezzo": "80.73",
+      "vincitore": "trevisbianchi",
+      "durata": "13h 28m",
+      "puntateTotali": "160"
+    },
+    {
+      "idAsta": "100598997",
+      "prezzo": "123.46",
+      "vincitore": "bocellistef",
+      "durata": "20h 42m",
+      "puntateTotali": "3417"
+    },
+    {
+      "idAsta": "100598995",
+      "prezzo": "133.48",
+      "vincitore": "guscioblaze",
+      "durata": "11h 27m",
+      "puntateTotali": "4881"
+    },
+    {
+      "idAsta": "100481661",
+      "prezzo": "79.13",
+      "vincitore": "mirtiene",
+      "durata": "6h 35m",
+      "puntateTotali": "385"
+    },
+    {
+      "idAsta": "100039873",
+      "prezzo": "146.11",
+      "vincitore": "crifont",
+      "durata": "24h 46m",
+      "puntateTotali": "5769"
+    }
+  ]
+}

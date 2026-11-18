@@ -1,0 +1,33 @@
+{
+  "id": "13288",
+  "title": "Chicco Bebècare Easy‐Tech Anti Abbandono",
+  "records": [
+    {
+      "idAsta": "97435937",
+      "prezzo": "1.15",
+      "vincitore": "rifeci293",
+      "durata": "12m",
+      "puntateTotali": "13",
+      "paid_bids": "0",
+      "free_bids": "13"
+    },
+    {
+      "idAsta": "97456311",
+      "prezzo": "2.81",
+      "vincitore": "paolamstardam",
+      "durata": "28m",
+      "puntateTotali": "38",
+      "paid_bids": "18",
+      "free_bids": "20"
+    },
+    {
+      "idAsta": "97489441",
+      "prezzo": "12.27",
+      "vincitore": "sbublaila",
+      "durata": "2h 2m",
+      "puntateTotali": "27",
+      "paid_bids": "0",
+      "free_bids": "27"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "25123",
+  "title": "iPhone 17 PRO Max 512GB",
+  "records": [
+    {
+      "idAsta": "97018692",
+      "prezzo": "439.55",
+      "vincitore": "deflussi38",
+      "durata": "49h 33m",
+      "puntateTotali": "423",
+      "paid_bids": "262",
+      "free_bids": "161"
+    },
+    {
+      "idAsta": "97204494",
+      "prezzo": "106.39",
+      "vincitore": "skure1",
+      "durata": "11h 50m",
+      "puntateTotali": "5059",
+      "paid_bids": "401",
+      "free_bids": "4658"
+    },
+    {
+      "idAsta": "97309118",
+      "prezzo": "274.14",
+      "vincitore": "derteumi29",
+      "durata": "45h 23m",
+      "puntateTotali": "691",
+      "paid_bids": "251",
+      "free_bids": "440"
+    },
+    {
+      "idAsta": "97324027",
+      "prezzo": "381.57",
+      "vincitore": "micikeki",
+      "durata": "42h 55m",
+      "puntateTotali": "650",
+      "paid_bids": "0",
+      "free_bids": "650"
+    },
+    {
+      "idAsta": "97459012",
+      "prezzo": "122.39",
+      "vincitore": "cafferuglio",
+      "durata": "20h 23m",
+      "puntateTotali": "4381",
+      "paid_bids": "0",
+      "free_bids": "4381"
+    }
+  ]
+}

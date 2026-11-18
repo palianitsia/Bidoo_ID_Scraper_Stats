@@ -1,0 +1,150 @@
+{
+  "id": "17671",
+  "title": "Playstation Portal",
+  "records": [
+    {
+      "idAsta": "97011205",
+      "prezzo": "75.25",
+      "vincitore": "fred3030",
+      "durata": "12h 36m",
+      "puntateTotali": "2993",
+      "paid_bids": "439",
+      "free_bids": "2554"
+    },
+    {
+      "idAsta": "97015766",
+      "prezzo": "46.64",
+      "vincitore": "mureddo2",
+      "durata": "5h 24m",
+      "puntateTotali": "1403",
+      "paid_bids": "366",
+      "free_bids": "1037"
+    },
+    {
+      "idAsta": "97071408",
+      "prezzo": "45.57",
+      "vincitore": "carraiaa",
+      "durata": "7h 29m",
+      "puntateTotali": "2180",
+      "paid_bids": "1470",
+      "free_bids": "710"
+    },
+    {
+      "idAsta": "97138569",
+      "prezzo": "31.67",
+      "vincitore": "ingierto49",
+      "durata": "5h 17m",
+      "puntateTotali": "1481",
+      "paid_bids": "0",
+      "free_bids": "1481"
+    },
+    {
+      "idAsta": "97168835",
+      "prezzo": "46.17",
+      "vincitore": "corridor20",
+      "durata": "7h 51m",
+      "puntateTotali": "2196",
+      "paid_bids": "248",
+      "free_bids": "1948"
+    },
+    {
+      "idAsta": "97206244",
+      "prezzo": "29.59",
+      "vincitore": "treoma1",
+      "durata": "4h 55m",
+      "puntateTotali": "1438",
+      "paid_bids": "0",
+      "free_bids": "1438"
+    },
+    {
+      "idAsta": "97208403",
+      "prezzo": "23.62",
+      "vincitore": "simonpaopl",
+      "durata": "2h 39m",
+      "puntateTotali": "1136",
+      "paid_bids": "0",
+      "free_bids": "1136"
+    },
+    {
+      "idAsta": "97279365",
+      "prezzo": "6.46",
+      "vincitore": "giorgina44",
+      "durata": "1h 1m",
+      "puntateTotali": "277",
+      "paid_bids": "0",
+      "free_bids": "277"
+    },
+    {
+      "idAsta": "97309278",
+      "prezzo": "26.35",
+      "vincitore": "spotunik",
+      "durata": "4h 23m",
+      "puntateTotali": "1247",
+      "paid_bids": "0",
+      "free_bids": "1247"
+    },
+    {
+      "idAsta": "97335776",
+      "prezzo": "7.34",
+      "vincitore": "kasirio389",
+      "durata": "1h 12m",
+      "puntateTotali": "345",
+      "paid_bids": "0",
+      "free_bids": "345"
+    },
+    {
+      "idAsta": "97349740",
+      "prezzo": "6.18",
+      "vincitore": "jositos",
+      "durata": "59m",
+      "puntateTotali": "2",
+      "paid_bids": "2",
+      "free_bids": "0"
+    },
+    {
+      "idAsta": "97368364",
+      "prezzo": "5.77",
+      "vincitore": "capel39",
+      "durata": "59m",
+      "puntateTotali": "287",
+      "paid_bids": "0",
+      "free_bids": "287"
+    },
+    {
+      "idAsta": "97381832",
+      "prezzo": "58.36",
+      "vincitore": "saladino11",
+      "durata": "9h 39m",
+      "puntateTotali": "1646",
+      "paid_bids": "422",
+      "free_bids": "1224"
+    },
+    {
+      "idAsta": "97403841",
+      "prezzo": "16.27",
+      "vincitore": "giumandorla",
+      "durata": "2h 43m",
+      "puntateTotali": "700",
+      "paid_bids": "0",
+      "free_bids": "700"
+    },
+    {
+      "idAsta": "97426760",
+      "prezzo": "32.81",
+      "vincitore": "genotossi9",
+      "durata": "5h 10m",
+      "puntateTotali": "1504",
+      "paid_bids": "0",
+      "free_bids": "1504"
+    },
+    {
+      "idAsta": "97455825",
+      "prezzo": "195.37",
+      "vincitore": "txosky",
+      "durata": "32h 48m",
+      "puntateTotali": "4259",
+      "paid_bids": "1012",
+      "free_bids": "3247"
+    }
+  ]
+}

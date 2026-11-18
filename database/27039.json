@@ -1,0 +1,69 @@
+{
+  "id": "27039",
+  "title": "Pokémon: Collezione Compagni d'avventura",
+  "records": [
+    {
+      "idAsta": "101678993",
+      "prezzo": "6.24",
+      "vincitore": "bigliette",
+      "durata": "33m",
+      "puntateTotali": "10"
+    },
+    {
+      "idAsta": "101678995",
+      "prezzo": "33.69",
+      "vincitore": "jacobob23",
+      "durata": "7h 27m",
+      "puntateTotali": "611"
+    },
+    {
+      "idAsta": "101678994",
+      "prezzo": "13.67",
+      "vincitore": "noccimar",
+      "durata": "2h 16m",
+      "puntateTotali": "54"
+    },
+    {
+      "idAsta": "101129124",
+      "prezzo": "26.08",
+      "vincitore": "camomentix",
+      "durata": "4h 22m",
+      "puntateTotali": "823"
+    },
+    {
+      "idAsta": "101129123",
+      "prezzo": "9.25",
+      "vincitore": "ilalimone",
+      "durata": "50m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101129125",
+      "prezzo": "2.15",
+      "vincitore": "mazzalisa",
+      "durata": "29m",
+      "puntateTotali": "32"
+    },
+    {
+      "idAsta": "100685647",
+      "prezzo": "27.37",
+      "vincitore": "dolceynnel984",
+      "durata": "2h 17m",
+      "puntateTotali": "379"
+    },
+    {
+      "idAsta": "100685649",
+      "prezzo": "15.31",
+      "vincitore": "dapretto",
+      "durata": "3h 24m",
+      "puntateTotali": "79"
+    },
+    {
+      "idAsta": "100685648",
+      "prezzo": "6.42",
+      "vincitore": "lovisostelli",
+      "durata": "1h 5m",
+      "puntateTotali": "14"
+    }
+  ]
+}

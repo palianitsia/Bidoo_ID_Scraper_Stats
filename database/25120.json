@@ -1,0 +1,87 @@
+{
+  "id": "25120",
+  "title": "iPhone 17 PRO 512GB",
+  "records": [
+    {
+      "idAsta": "97018694",
+      "prezzo": "231.88",
+      "vincitore": "sfriddol",
+      "durata": "26h 9m",
+      "puntateTotali": "133",
+      "paid_bids": "0",
+      "free_bids": "133"
+    },
+    {
+      "idAsta": "97191007",
+      "prezzo": "198.32",
+      "vincitore": "sarapivot",
+      "durata": "33h 3m",
+      "puntateTotali": "454",
+      "paid_bids": "0",
+      "free_bids": "454"
+    },
+    {
+      "idAsta": "97204488",
+      "prezzo": "433.49",
+      "vincitore": "intr39320",
+      "durata": "49h 2m",
+      "puntateTotali": "397",
+      "paid_bids": "0",
+      "free_bids": "397"
+    },
+    {
+      "idAsta": "97210585",
+      "prezzo": "317.51",
+      "vincitore": "michitucci",
+      "durata": "52h 1m",
+      "puntateTotali": "347",
+      "paid_bids": "0",
+      "free_bids": "347"
+    },
+    {
+      "idAsta": "97263025",
+      "prezzo": "140.91",
+      "vincitore": "russianna91",
+      "durata": "22h 46m",
+      "puntateTotali": "993",
+      "paid_bids": "347",
+      "free_bids": "646"
+    },
+    {
+      "idAsta": "97324029",
+      "prezzo": "143.17",
+      "vincitore": "fortiskio",
+      "durata": "16h 12m",
+      "puntateTotali": "6634",
+      "paid_bids": "485",
+      "free_bids": "6149"
+    },
+    {
+      "idAsta": "97441152",
+      "prezzo": "192.25",
+      "vincitore": "pasdone9",
+      "durata": "32h 21m",
+      "puntateTotali": "8383",
+      "paid_bids": "299",
+      "free_bids": "8084"
+    },
+    {
+      "idAsta": "97458754",
+      "prezzo": "123.40",
+      "vincitore": "giovannisolla",
+      "durata": "20h 17m",
+      "puntateTotali": "4855",
+      "paid_bids": "140",
+      "free_bids": "4715"
+    },
+    {
+      "idAsta": "97466908",
+      "prezzo": "152.58",
+      "vincitore": "ametrone",
+      "durata": "25h 17m",
+      "puntateTotali": "5471",
+      "paid_bids": "1310",
+      "free_bids": "4161"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "13242",
+  "title": "Peg Perego Seggiolone Prima Pappa",
+  "records": [
+    {
+      "idAsta": "97435936",
+      "prezzo": "7.86",
+      "vincitore": "michitans",
+      "durata": "1h 19m",
+      "puntateTotali": "23",
+      "paid_bids": "0",
+      "free_bids": "23"
+    },
+    {
+      "idAsta": "97456310",
+      "prezzo": "24.32",
+      "vincitore": "fintionika",
+      "durata": "4h 2m",
+      "puntateTotali": "27",
+      "paid_bids": "0",
+      "free_bids": "27"
+    },
+    {
+      "idAsta": "97489440",
+      "prezzo": "9.93",
+      "vincitore": "ferdinando394",
+      "durata": "1h 39m",
+      "puntateTotali": "150",
+      "paid_bids": "0",
+      "free_bids": "150"
+    }
+  ]
+}

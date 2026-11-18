@@ -1,0 +1,24 @@
+{
+  "id": "15215",
+  "title": "200€ Megamark +200P",
+  "records": [
+    {
+      "idAsta": "97208656",
+      "prezzo": "13.79",
+      "vincitore": "kilosre",
+      "durata": "2h 17m",
+      "puntateTotali": "672",
+      "paid_bids": "0",
+      "free_bids": "672"
+    },
+    {
+      "idAsta": "97486095",
+      "prezzo": "11.39",
+      "vincitore": "sospiri291",
+      "durata": "1h 54m",
+      "puntateTotali": "554",
+      "paid_bids": "0",
+      "free_bids": "554"
+    }
+  ]
+}

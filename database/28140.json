@@ -1,0 +1,97 @@
+{
+  "id": "28140",
+  "title": "Apple HomePod mini 2",
+  "records": [
+    {
+      "idAsta": "101616908",
+      "prezzo": "20.74",
+      "vincitore": "cirmaggi",
+      "durata": "4h 42m",
+      "puntateTotali": "139"
+    },
+    {
+      "idAsta": "101616907",
+      "prezzo": "27.43",
+      "vincitore": "frezzascotti",
+      "durata": "4h 41m",
+      "puntateTotali": "125"
+    },
+    {
+      "idAsta": "101616903",
+      "prezzo": "17.19",
+      "vincitore": "sciammaccheri",
+      "durata": "2h 0m",
+      "puntateTotali": "198"
+    },
+    {
+      "idAsta": "101316513",
+      "prezzo": "33.95",
+      "vincitore": "crocechiar",
+      "durata": "5h 52m",
+      "puntateTotali": "162"
+    },
+    {
+      "idAsta": "101316514",
+      "prezzo": "15.39",
+      "vincitore": "carlossantin",
+      "durata": "3h 21m",
+      "puntateTotali": "279"
+    },
+    {
+      "idAsta": "101294885",
+      "prezzo": "28.83",
+      "vincitore": "trischigaudi",
+      "durata": "4h 56m",
+      "puntateTotali": "168"
+    },
+    {
+      "idAsta": "101108710",
+      "prezzo": "29.10",
+      "vincitore": "enerusso",
+      "durata": "4h 49m",
+      "puntateTotali": "485"
+    },
+    {
+      "idAsta": "100974301",
+      "prezzo": "23.76",
+      "vincitore": "rocmaso",
+      "durata": "4h 4m",
+      "puntateTotali": "168"
+    },
+    {
+      "idAsta": "100606750",
+      "prezzo": "13.80",
+      "vincitore": "cribarda",
+      "durata": "1h 12m",
+      "puntateTotali": "90"
+    },
+    {
+      "idAsta": "100248208",
+      "prezzo": "18.28",
+      "vincitore": "ricang",
+      "durata": "3h 55m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "100077437",
+      "prezzo": "26.98",
+      "vincitore": "mattevez",
+      "durata": "3h 8m",
+      "puntateTotali": "69"
+    },
+    {
+      "idAsta": "100077438",
+      "prezzo": "13.69",
+      "vincitore": "cripappa",
+      "durata": "2h 19m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "101977194",
+      "prezzo": "28.12",
+      "vincitore": "elecavo",
+      "durata": "3h 10m",
+      "puntateTotali": "46"
+    }
+  ]
+}

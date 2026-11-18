@@ -1,0 +1,27 @@
+{
+  "id": "28239",
+  "title": "HUAWEI MatePad Air 12\" + M pencil Pro",
+  "records": [
+    {
+      "idAsta": "101575346",
+      "prezzo": "163.66",
+      "vincitore": "fedebici",
+      "durata": "18h 35m",
+      "puntateTotali": "94"
+    },
+    {
+      "idAsta": "101172169",
+      "prezzo": "70.37",
+      "vincitore": "triliber",
+      "durata": "8h 7m",
+      "puntateTotali": "61"
+    },
+    {
+      "idAsta": "101981931",
+      "prezzo": "54.91",
+      "vincitore": "galleladi",
+      "durata": "5h 3m",
+      "puntateTotali": "1840"
+    }
+  ]
+}

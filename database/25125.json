@@ -1,0 +1,51 @@
+{
+  "id": "25125",
+  "title": "iPhone 17 PRO Max 2TB",
+  "records": [
+    {
+      "idAsta": "97018701",
+      "prezzo": "304.61",
+      "vincitore": "lunaferra",
+      "durata": "33h 59m",
+      "puntateTotali": "10915",
+      "paid_bids": "2477",
+      "free_bids": "8438"
+    },
+    {
+      "idAsta": "97204502",
+      "prezzo": "534.65",
+      "vincitore": "satursi",
+      "durata": "59h 38m",
+      "puntateTotali": "191",
+      "paid_bids": "0",
+      "free_bids": "191"
+    },
+    {
+      "idAsta": "97262999",
+      "prezzo": "249.41",
+      "vincitore": "cici382",
+      "durata": "41h 15m",
+      "puntateTotali": "9474",
+      "paid_bids": "457",
+      "free_bids": "9017"
+    },
+    {
+      "idAsta": "97324036",
+      "prezzo": "349.68",
+      "vincitore": "saperassi39",
+      "durata": "39h 27m",
+      "puntateTotali": "15573",
+      "paid_bids": "2109",
+      "free_bids": "13464"
+    },
+    {
+      "idAsta": "97485155",
+      "prezzo": "212.61",
+      "vincitore": "cofferati99",
+      "durata": "35h 41m",
+      "puntateTotali": "9623",
+      "paid_bids": "163",
+      "free_bids": "9460"
+    }
+  ]
+}

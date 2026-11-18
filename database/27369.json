@@ -1,0 +1,51 @@
+{
+  "id": "27369",
+  "title": "LEGO SEGA Mega Drive",
+  "records": [
+    {
+      "idAsta": "97045754",
+      "prezzo": "2.36",
+      "vincitore": "coprassini",
+      "durata": "25m",
+      "puntateTotali": "36",
+      "paid_bids": "0",
+      "free_bids": "36"
+    },
+    {
+      "idAsta": "97149332",
+      "prezzo": "4.34",
+      "vincitore": "sbotteghino",
+      "durata": "43m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    },
+    {
+      "idAsta": "97190450",
+      "prezzo": "0.98",
+      "vincitore": "luanfed",
+      "durata": "10m",
+      "puntateTotali": "47",
+      "paid_bids": "0",
+      "free_bids": "47"
+    },
+    {
+      "idAsta": "97284847",
+      "prezzo": "1.89",
+      "vincitore": "ingegnercaspi",
+      "durata": "19m",
+      "puntateTotali": "27",
+      "paid_bids": "0",
+      "free_bids": "27"
+    },
+    {
+      "idAsta": "97401039",
+      "prezzo": "1.62",
+      "vincitore": "xowmu21",
+      "durata": "17m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    }
+  ]
+}

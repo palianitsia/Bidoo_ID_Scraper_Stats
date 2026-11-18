@@ -1,0 +1,33 @@
+{
+  "id": "25974",
+  "title": "Macchina da Caffe a Capsule 1400W",
+  "records": [
+    {
+      "idAsta": "97046875",
+      "prezzo": "30.43",
+      "vincitore": "mynameismiky",
+      "durata": "2h 38m",
+      "puntateTotali": "1323",
+      "paid_bids": "0",
+      "free_bids": "1323"
+    },
+    {
+      "idAsta": "97046914",
+      "prezzo": "10.68",
+      "vincitore": "margaot94",
+      "durata": "57m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    },
+    {
+      "idAsta": "97343880",
+      "prezzo": "2.23",
+      "vincitore": "sfintalo92",
+      "durata": "15m",
+      "puntateTotali": "47",
+      "paid_bids": "0",
+      "free_bids": "47"
+    }
+  ]
+}

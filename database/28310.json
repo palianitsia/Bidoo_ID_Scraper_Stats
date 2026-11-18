@@ -1,0 +1,27 @@
+{
+  "id": "28310",
+  "title": "Chloe Gift Set EDP e Body Lotion Donna",
+  "records": [
+    {
+      "idAsta": "101395003",
+      "prezzo": "63.12",
+      "vincitore": "diegcambia",
+      "durata": "7h 13m",
+      "puntateTotali": "2970"
+    },
+    {
+      "idAsta": "101395058",
+      "prezzo": "39.19",
+      "vincitore": "moscadeli",
+      "durata": "4h 27m",
+      "puntateTotali": "1865"
+    },
+    {
+      "idAsta": "101395089",
+      "prezzo": "24.60",
+      "vincitore": "pomcaste",
+      "durata": "2h 46m",
+      "puntateTotali": "1172"
+    }
+  ]
+}

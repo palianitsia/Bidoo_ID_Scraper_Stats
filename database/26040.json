@@ -1,0 +1,76 @@
+{
+  "id": "26040",
+  "title": "5225 Puntate",
+  "records": [
+    {
+      "idAsta": "101847031",
+      "prezzo": "26.16",
+      "vincitore": "sernenci",
+      "durata": "4h 24m",
+      "puntateTotali": "1235"
+    },
+    {
+      "idAsta": "101867432",
+      "prezzo": "40.27",
+      "vincitore": "aqui64",
+      "durata": "6h 46m",
+      "puntateTotali": "1467"
+    },
+    {
+      "idAsta": "101896069",
+      "prezzo": "17.27",
+      "vincitore": "spaccapixel",
+      "durata": "2h 53m",
+      "puntateTotali": "814"
+    },
+    {
+      "idAsta": "102049529",
+      "prezzo": "27.34",
+      "vincitore": "danpicco",
+      "durata": "4h 20m",
+      "puntateTotali": "1098"
+    },
+    {
+      "idAsta": "102032885",
+      "prezzo": "22.56",
+      "vincitore": "gugswipe",
+      "durata": "3h 48m",
+      "puntateTotali": "1095"
+    },
+    {
+      "idAsta": "102020738",
+      "prezzo": "13.85",
+      "vincitore": "ienatorva",
+      "durata": "2h 19m",
+      "puntateTotali": "434"
+    },
+    {
+      "idAsta": "102002459",
+      "prezzo": "25.68",
+      "vincitore": "chioidel",
+      "durata": "4h 17m",
+      "puntateTotali": "1091"
+    },
+    {
+      "idAsta": "101985662",
+      "prezzo": "22.79",
+      "vincitore": "specalda",
+      "durata": "3h 50m",
+      "puntateTotali": "978"
+    },
+    {
+      "idAsta": "101961999",
+      "prezzo": "30.86",
+      "vincitore": "paocalamita",
+      "durata": "5h 22m",
+      "puntateTotali": "1064"
+    },
+    {
+      "idAsta": "101910010",
+      "prezzo": "76.56",
+      "vincitore": "guido8900",
+      "durata": "12h 46m",
+      "puntateTotali": "3337"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "27840",
+  "title": "HUAWEI WATCH GT 7 46mm",
+  "records": [
+    {
+      "idAsta": "101575003",
+      "prezzo": "41.96",
+      "vincitore": "leamulo",
+      "durata": "7h 6m",
+      "puntateTotali": "1700"
+    },
+    {
+      "idAsta": "101330413",
+      "prezzo": "66.09",
+      "vincitore": "utodrago",
+      "durata": "11h 19m",
+      "puntateTotali": "87"
+    },
+    {
+      "idAsta": "101173238",
+      "prezzo": "1.03",
+      "vincitore": "scisci81",
+      "durata": "10m",
+      "puntateTotali": "10"
+    },
+    {
+      "idAsta": "100637569",
+      "prezzo": "61.74",
+      "vincitore": "fraemanue",
+      "durata": "10h 36m",
+      "puntateTotali": "2765"
+    },
+    {
+      "idAsta": "100684284",
+      "prezzo": "51.09",
+      "vincitore": "aldobiffa",
+      "durata": "8h 28m",
+      "puntateTotali": "232"
+    }
+  ]
+}

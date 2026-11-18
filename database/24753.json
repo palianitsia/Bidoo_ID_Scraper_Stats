@@ -1,0 +1,87 @@
+{
+  "id": "24753",
+  "title": "Galaxy Z Flip7 FE 128GB",
+  "records": [
+    {
+      "idAsta": "97001498",
+      "prezzo": "245.97",
+      "vincitore": "rifeci293",
+      "durata": "42h 8m",
+      "puntateTotali": "308",
+      "paid_bids": "0",
+      "free_bids": "308"
+    },
+    {
+      "idAsta": "97020544",
+      "prezzo": "83.92",
+      "vincitore": "pani93",
+      "durata": "14h 9m",
+      "puntateTotali": "472",
+      "paid_bids": "0",
+      "free_bids": "472"
+    },
+    {
+      "idAsta": "97078491",
+      "prezzo": "86.92",
+      "vincitore": "simovalsa",
+      "durata": "14h 33m",
+      "puntateTotali": "143",
+      "paid_bids": "0",
+      "free_bids": "143"
+    },
+    {
+      "idAsta": "97137560",
+      "prezzo": "173.34",
+      "vincitore": "restcalm",
+      "durata": "29h 28m",
+      "puntateTotali": "385",
+      "paid_bids": "265",
+      "free_bids": "120"
+    },
+    {
+      "idAsta": "97164886",
+      "prezzo": "274.73",
+      "vincitore": "giualianopal",
+      "durata": "46h 48m",
+      "puntateTotali": "469",
+      "paid_bids": "277",
+      "free_bids": "192"
+    },
+    {
+      "idAsta": "97252312",
+      "prezzo": "203.21",
+      "vincitore": "cosimane33",
+      "durata": "34h 42m",
+      "puntateTotali": "388",
+      "paid_bids": "0",
+      "free_bids": "388"
+    },
+    {
+      "idAsta": "97343724",
+      "prezzo": "103.31",
+      "vincitore": "lominero",
+      "durata": "17h 18m",
+      "puntateTotali": "460",
+      "paid_bids": "0",
+      "free_bids": "460"
+    },
+    {
+      "idAsta": "97386592",
+      "prezzo": "196.32",
+      "vincitore": "mostiom3",
+      "durata": "33h 17m",
+      "puntateTotali": "33",
+      "paid_bids": "11",
+      "free_bids": "22"
+    },
+    {
+      "idAsta": "97412199",
+      "prezzo": "155.46",
+      "vincitore": "drtokix",
+      "durata": "26h 24m",
+      "puntateTotali": "7602",
+      "paid_bids": "1230",
+      "free_bids": "6372"
+    }
+  ]
+}

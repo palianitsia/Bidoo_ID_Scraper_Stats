@@ -1,0 +1,55 @@
+{
+  "id": "28103",
+  "title": "Samsung Lavasciuga Crystal WiFi 9+6 kg",
+  "records": [
+    {
+      "idAsta": "101430852",
+      "prezzo": "102.89",
+      "vincitore": "federovo",
+      "durata": "17h 11m",
+      "puntateTotali": "4102"
+    },
+    {
+      "idAsta": "101108312",
+      "prezzo": "107.05",
+      "vincitore": "paczuppie",
+      "durata": "18h 3m",
+      "puntateTotali": "219"
+    },
+    {
+      "idAsta": "100987077",
+      "prezzo": "128.06",
+      "vincitore": "gilbsmart",
+      "durata": "14h 25m",
+      "puntateTotali": "5644"
+    },
+    {
+      "idAsta": "100867345",
+      "prezzo": "92.37",
+      "vincitore": "ivorovo",
+      "durata": "15h 34m",
+      "puntateTotali": "471"
+    },
+    {
+      "idAsta": "100851747",
+      "prezzo": "64.22",
+      "vincitore": "zambeosva",
+      "durata": "10h 55m",
+      "puntateTotali": "42"
+    },
+    {
+      "idAsta": "100445511",
+      "prezzo": "41.97",
+      "vincitore": "olimerba",
+      "durata": "7h 4m",
+      "puntateTotali": "2041"
+    },
+    {
+      "idAsta": "100302467",
+      "prezzo": "109.88",
+      "vincitore": "gualfredo",
+      "durata": "18h 33m",
+      "puntateTotali": "3961"
+    }
+  ]
+}

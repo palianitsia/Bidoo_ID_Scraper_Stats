@@ -1,0 +1,27 @@
+{
+  "id": "28244",
+  "title": "iPad mini 512GB WiFi",
+  "records": [
+    {
+      "idAsta": "101616924",
+      "prezzo": "212.27",
+      "vincitore": "eleonalba",
+      "durata": "36h 43m",
+      "puntateTotali": "8538"
+    },
+    {
+      "idAsta": "101616922",
+      "prezzo": "160.69",
+      "vincitore": "utogelo",
+      "durata": "37h 17m",
+      "puntateTotali": "147"
+    },
+    {
+      "idAsta": "101616925",
+      "prezzo": "117.18",
+      "vincitore": "teofame",
+      "durata": "12h 45m",
+      "puntateTotali": "219"
+    }
+  ]
+}

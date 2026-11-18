@@ -1,0 +1,60 @@
+{
+  "id": "12312",
+  "title": "25€ Nintendo +50P",
+  "records": [
+    {
+      "idAsta": "97015665",
+      "prezzo": "1.18",
+      "vincitore": "calumecci",
+      "durata": "5m",
+      "puntateTotali": "52",
+      "paid_bids": "0",
+      "free_bids": "52"
+    },
+    {
+      "idAsta": "97015694",
+      "prezzo": "7.06",
+      "vincitore": "sendola02",
+      "durata": "35m",
+      "puntateTotali": "37",
+      "paid_bids": "0",
+      "free_bids": "37"
+    },
+    {
+      "idAsta": "97015746",
+      "prezzo": "2.95",
+      "vincitore": "pikachu21",
+      "durata": "27m",
+      "puntateTotali": "34",
+      "paid_bids": "0",
+      "free_bids": "34"
+    },
+    {
+      "idAsta": "97208332",
+      "prezzo": "0.33",
+      "vincitore": "abbandonato93",
+      "durata": "2m",
+      "puntateTotali": "16",
+      "paid_bids": "0",
+      "free_bids": "16"
+    },
+    {
+      "idAsta": "97208361",
+      "prezzo": "2.83",
+      "vincitore": "caffiungi3",
+      "durata": "11m",
+      "puntateTotali": "106",
+      "paid_bids": "0",
+      "free_bids": "106"
+    },
+    {
+      "idAsta": "97208389",
+      "prezzo": "3.27",
+      "vincitore": "rua05",
+      "durata": "32m",
+      "puntateTotali": "133",
+      "paid_bids": "21",
+      "free_bids": "112"
+    }
+  ]
+}

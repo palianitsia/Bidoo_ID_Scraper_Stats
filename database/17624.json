@@ -1,0 +1,24 @@
+{
+  "id": "17624",
+  "title": "Bosch Multifunzione Sistem Box",
+  "records": [
+    {
+      "idAsta": "97400709",
+      "prezzo": "13.23",
+      "vincitore": "stefasso",
+      "durata": "2h 13m",
+      "puntateTotali": "655",
+      "paid_bids": "0",
+      "free_bids": "655"
+    },
+    {
+      "idAsta": "97400772",
+      "prezzo": "6.19",
+      "vincitore": "asbundeo",
+      "durata": "1h 3m",
+      "puntateTotali": "243",
+      "paid_bids": "0",
+      "free_bids": "243"
+    }
+  ]
+}

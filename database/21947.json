@@ -1,0 +1,87 @@
+{
+  "id": "21947",
+  "title": "Smeg Macchina da Caffè Espresso",
+  "records": [
+    {
+      "idAsta": "97011203",
+      "prezzo": "79.24",
+      "vincitore": "martinagiau",
+      "durata": "13h 34m",
+      "puntateTotali": "3514",
+      "paid_bids": "0",
+      "free_bids": "3514"
+    },
+    {
+      "idAsta": "97072376",
+      "prezzo": "74.89",
+      "vincitore": "bigliettista",
+      "durata": "12h 37m",
+      "puntateTotali": "3584",
+      "paid_bids": "1176",
+      "free_bids": "2408"
+    },
+    {
+      "idAsta": "97131117",
+      "prezzo": "58.70",
+      "vincitore": "combolim",
+      "durata": "9h 54m",
+      "puntateTotali": "2197",
+      "paid_bids": "457",
+      "free_bids": "1740"
+    },
+    {
+      "idAsta": "97190901",
+      "prezzo": "48.53",
+      "vincitore": "brughetti49",
+      "durata": "8h 6m",
+      "puntateTotali": "2333",
+      "paid_bids": "0",
+      "free_bids": "2333"
+    },
+    {
+      "idAsta": "97249956",
+      "prezzo": "93.36",
+      "vincitore": "serafinalki",
+      "durata": "15h 53m",
+      "puntateTotali": "3268",
+      "paid_bids": "695",
+      "free_bids": "2573"
+    },
+    {
+      "idAsta": "97318913",
+      "prezzo": "83.68",
+      "vincitore": "maraleffi",
+      "durata": "14h 16m",
+      "puntateTotali": "3866",
+      "paid_bids": "859",
+      "free_bids": "3007"
+    },
+    {
+      "idAsta": "97381774",
+      "prezzo": "93.23",
+      "vincitore": "avvugofantozzi",
+      "durata": "15h 54m",
+      "puntateTotali": "4402",
+      "paid_bids": "721",
+      "free_bids": "3681"
+    },
+    {
+      "idAsta": "97449964",
+      "prezzo": "44.67",
+      "vincitore": "ranfeldi3",
+      "durata": "7h 37m",
+      "puntateTotali": "2190",
+      "paid_bids": "1363",
+      "free_bids": "827"
+    },
+    {
+      "idAsta": "97486567",
+      "prezzo": "137.74",
+      "vincitore": "aseumas",
+      "durata": "23h 24m",
+      "puntateTotali": "43",
+      "paid_bids": "0",
+      "free_bids": "43"
+    }
+  ]
+}

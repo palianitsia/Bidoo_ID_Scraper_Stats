@@ -1,0 +1,24 @@
+{
+  "id": "24204",
+  "title": "Sdraio Sospesa a Dondolo Kelly",
+  "records": [
+    {
+      "idAsta": "97213803",
+      "prezzo": "23.54",
+      "vincitore": "gancioppo30",
+      "durata": "2h 42m",
+      "puntateTotali": "153",
+      "paid_bids": "0",
+      "free_bids": "153"
+    },
+    {
+      "idAsta": "97449467",
+      "prezzo": "43.45",
+      "vincitore": "madi43",
+      "durata": "4h 56m",
+      "puntateTotali": "27",
+      "paid_bids": "0",
+      "free_bids": "27"
+    }
+  ]
+}

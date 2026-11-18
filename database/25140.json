@@ -1,0 +1,42 @@
+{
+  "id": "25140",
+  "title": "Apple Watch 11 Titanio Cellular 46mm",
+  "records": [
+    {
+      "idAsta": "97263022",
+      "prezzo": "62.96",
+      "vincitore": "keremao",
+      "durata": "7h 2m",
+      "puntateTotali": "2218",
+      "paid_bids": "0",
+      "free_bids": "2218"
+    },
+    {
+      "idAsta": "97373699",
+      "prezzo": "214.79",
+      "vincitore": "arturo33",
+      "durata": "24h 35m",
+      "puntateTotali": "931",
+      "paid_bids": "762",
+      "free_bids": "169"
+    },
+    {
+      "idAsta": "97373701",
+      "prezzo": "140.06",
+      "vincitore": "benvenuto1908",
+      "durata": "31h 25m",
+      "puntateTotali": "6685",
+      "paid_bids": "0",
+      "free_bids": "6685"
+    },
+    {
+      "idAsta": "97373700",
+      "prezzo": "1.51",
+      "vincitore": "leagambino",
+      "durata": "15m",
+      "puntateTotali": "73",
+      "paid_bids": "5",
+      "free_bids": "68"
+    }
+  ]
+}

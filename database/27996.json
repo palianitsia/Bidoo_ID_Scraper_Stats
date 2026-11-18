@@ -1,0 +1,90 @@
+{
+  "id": "27996",
+  "title": "Philips OneBlade Intimate",
+  "records": [
+    {
+      "idAsta": "101642182",
+      "prezzo": "1.13",
+      "vincitore": "flacometa",
+      "durata": "11m",
+      "puntateTotali": "43"
+    },
+    {
+      "idAsta": "101453611",
+      "prezzo": "2.01",
+      "vincitore": "tiltfaro",
+      "durata": "20m",
+      "puntateTotali": "23"
+    },
+    {
+      "idAsta": "101375275",
+      "prezzo": "6.08",
+      "vincitore": "zeccdario",
+      "durata": "1h 2m",
+      "puntateTotali": "76"
+    },
+    {
+      "idAsta": "101330112",
+      "prezzo": "1.65",
+      "vincitore": "lelloradio",
+      "durata": "17m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "101231040",
+      "prezzo": "3.21",
+      "vincitore": "aspidone",
+      "durata": "33m",
+      "puntateTotali": "14"
+    },
+    {
+      "idAsta": "101166966",
+      "prezzo": "1.69",
+      "vincitore": "zambonileo",
+      "durata": "17m",
+      "puntateTotali": "52"
+    },
+    {
+      "idAsta": "101077712",
+      "prezzo": "1.38",
+      "vincitore": "totomulo",
+      "durata": "14m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "100636955",
+      "prezzo": "3.05",
+      "vincitore": "evecerfo",
+      "durata": "30m",
+      "puntateTotali": "29"
+    },
+    {
+      "idAsta": "100563876",
+      "prezzo": "4.29",
+      "vincitore": "alex161191",
+      "durata": "44m",
+      "puntateTotali": "202"
+    },
+    {
+      "idAsta": "100196996",
+      "prezzo": "2.40",
+      "vincitore": "eziofronda",
+      "durata": "25m",
+      "puntateTotali": "27"
+    },
+    {
+      "idAsta": "102025246",
+      "prezzo": "4.20",
+      "vincitore": "guadaorma",
+      "durata": "41m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "101924773",
+      "prezzo": "13.84",
+      "vincitore": "gariotta",
+      "durata": "2h 22m",
+      "puntateTotali": "13"
+    }
+  ]
+}

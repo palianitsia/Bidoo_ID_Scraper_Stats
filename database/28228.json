@@ -1,0 +1,55 @@
+{
+  "id": "28228",
+  "title": "Moulinex Easy Max",
+  "records": [
+    {
+      "idAsta": "101642654",
+      "prezzo": "1.65",
+      "vincitore": "danylogan",
+      "durata": "13m",
+      "puntateTotali": "60"
+    },
+    {
+      "idAsta": "101574179",
+      "prezzo": "3.16",
+      "vincitore": "solariis",
+      "durata": "32m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "101453833",
+      "prezzo": "0.78",
+      "vincitore": "turivespa",
+      "durata": "7m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101247376",
+      "prezzo": "12.30",
+      "vincitore": "tinodragno",
+      "durata": "2h 2m",
+      "puntateTotali": "46"
+    },
+    {
+      "idAsta": "101078357",
+      "prezzo": "5.18",
+      "vincitore": "ivancolpo",
+      "durata": "1h 1m",
+      "puntateTotali": "30"
+    },
+    {
+      "idAsta": "102027894",
+      "prezzo": "6.96",
+      "vincitore": "runeorlo",
+      "durata": "58m",
+      "puntateTotali": "10"
+    },
+    {
+      "idAsta": "101925388",
+      "prezzo": "7.37",
+      "vincitore": "ogrti",
+      "durata": "1h 11m",
+      "puntateTotali": "44"
+    }
+  ]
+}

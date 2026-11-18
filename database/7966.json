@@ -1,0 +1,24 @@
+{
+  "id": "7966",
+  "title": "Cassetta St. Michael Eppan 6pz",
+  "records": [
+    {
+      "idAsta": "9099370",
+      "prezzo": "8.36",
+      "vincitore": "nono99",
+      "durata": "1h 26m",
+      "puntateTotali": "60",
+      "paid_bids": "7",
+      "free_bids": "53"
+    },
+    {
+      "idAsta": "9099371",
+      "prezzo": "1.83",
+      "vincitore": "manufluor",
+      "durata": "12m",
+      "puntateTotali": "62",
+      "paid_bids": "14",
+      "free_bids": "48"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2057",
+  "title": "PlayStation 4 Pro",
+  "records": [
+    {
+      "idAsta": "9022021",
+      "prezzo": "81.05",
+      "vincitore": "lordlore",
+      "durata": "17h 28m",
+      "puntateTotali": "1869",
+      "paid_bids": "115",
+      "free_bids": "1754"
+    },
+    {
+      "idAsta": "9056937",
+      "prezzo": "151.83",
+      "vincitore": "compromolto",
+      "durata": "12h 51m",
+      "puntateTotali": "3302",
+      "paid_bids": "200",
+      "free_bids": "3102"
+    }
+  ]
+}

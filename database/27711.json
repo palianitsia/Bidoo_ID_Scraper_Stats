@@ -1,0 +1,41 @@
+{
+  "id": "27711",
+  "title": "100€ Padel Nuestro +100P",
+  "records": [
+    {
+      "idAsta": "101870201",
+      "prezzo": "22.43",
+      "vincitore": "badidago",
+      "durata": "2h 3m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101870176",
+      "prezzo": "16.80",
+      "vincitore": "ganfacce",
+      "durata": "1h 33m",
+      "puntateTotali": "106"
+    },
+    {
+      "idAsta": "101870151",
+      "prezzo": "10.06",
+      "vincitore": "regpesca",
+      "durata": "56m",
+      "puntateTotali": "61"
+    },
+    {
+      "idAsta": "101870126",
+      "prezzo": "7.94",
+      "vincitore": "mausamper",
+      "durata": "43m",
+      "puntateTotali": "110"
+    },
+    {
+      "idAsta": "101316160",
+      "prezzo": "7.77",
+      "vincitore": "gildaross",
+      "durata": "1h 20m",
+      "puntateTotali": "48"
+    }
+  ]
+}

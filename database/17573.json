@@ -1,0 +1,24 @@
+{
+  "id": "17573",
+  "title": "Dyson V15s Detect Submarine",
+  "records": [
+    {
+      "idAsta": "97075788",
+      "prezzo": "115.54",
+      "vincitore": "quelko",
+      "durata": "19h 18m",
+      "puntateTotali": "3102",
+      "paid_bids": "0",
+      "free_bids": "3102"
+    },
+    {
+      "idAsta": "97216537",
+      "prezzo": "202.55",
+      "vincitore": "drogmau",
+      "durata": "34h 6m",
+      "puntateTotali": "254",
+      "paid_bids": "0",
+      "free_bids": "254"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "7551",
+  "title": "Cuscino Silver Therapy",
+  "records": [
+    {
+      "idAsta": "9000163",
+      "prezzo": "2.57",
+      "vincitore": "missele88",
+      "durata": "23m",
+      "puntateTotali": "75",
+      "paid_bids": "0",
+      "free_bids": "75"
+    },
+    {
+      "idAsta": "9025094",
+      "prezzo": "3.00",
+      "vincitore": "apollo69",
+      "durata": "29m",
+      "puntateTotali": "89",
+      "paid_bids": "35",
+      "free_bids": "54"
+    },
+    {
+      "idAsta": "9045432",
+      "prezzo": "0.95",
+      "vincitore": "pipporte",
+      "durata": "9m",
+      "puntateTotali": "42",
+      "paid_bids": "11",
+      "free_bids": "31"
+    },
+    {
+      "idAsta": "9066026",
+      "prezzo": "0.54",
+      "vincitore": "busskull",
+      "durata": "4m",
+      "puntateTotali": "9",
+      "paid_bids": "0",
+      "free_bids": "9"
+    },
+    {
+      "idAsta": "9086402",
+      "prezzo": "1.10",
+      "vincitore": "exsauro",
+      "durata": "10m",
+      "puntateTotali": "2",
+      "paid_bids": "0",
+      "free_bids": "2"
+    }
+  ]
+}

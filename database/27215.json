@@ -1,0 +1,33 @@
+{
+  "id": "27215",
+  "title": "Magic Teenage Mutant Ninja Turtles Ita",
+  "records": [
+    {
+      "idAsta": "97281300",
+      "prezzo": "16.64",
+      "vincitore": "sofuleminis",
+      "durata": "2h 47m",
+      "puntateTotali": "23",
+      "paid_bids": "0",
+      "free_bids": "23"
+    },
+    {
+      "idAsta": "97281299",
+      "prezzo": "29.35",
+      "vincitore": "cardie93",
+      "durata": "2h 32m",
+      "puntateTotali": "14",
+      "paid_bids": "3",
+      "free_bids": "11"
+    },
+    {
+      "idAsta": "97281301",
+      "prezzo": "6.92",
+      "vincitore": "laspromonte",
+      "durata": "1h 31m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    }
+  ]
+}

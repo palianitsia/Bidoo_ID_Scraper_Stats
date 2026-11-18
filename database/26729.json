@@ -1,0 +1,24 @@
+{
+  "id": "26729",
+  "title": "Dyson Spot+Scrub AI Robot",
+  "records": [
+    {
+      "idAsta": "97075797",
+      "prezzo": "241.09",
+      "vincitore": "cobremosi",
+      "durata": "40h 40m",
+      "puntateTotali": "365",
+      "paid_bids": "0",
+      "free_bids": "365"
+    },
+    {
+      "idAsta": "97216512",
+      "prezzo": "431.03",
+      "vincitore": "cobe384",
+      "durata": "72h 28m",
+      "puntateTotali": "234",
+      "paid_bids": "0",
+      "free_bids": "234"
+    }
+  ]
+}

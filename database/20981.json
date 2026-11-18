@@ -1,0 +1,34 @@
+{
+  "id": "20981",
+  "title": "50€ Rumbo +100P",
+  "records": [
+    {
+      "idAsta": "101491357",
+      "prezzo": "0.34",
+      "vincitore": "anguabdo",
+      "durata": "1m",
+      "puntateTotali": "17"
+    },
+    {
+      "idAsta": "101316079",
+      "prezzo": "1.87",
+      "vincitore": "motobepi",
+      "durata": "19m",
+      "puntateTotali": "7"
+    },
+    {
+      "idAsta": "100741155",
+      "prezzo": "0.52",
+      "vincitore": "bigitul",
+      "durata": "2m",
+      "puntateTotali": "26"
+    },
+    {
+      "idAsta": "101933228",
+      "prezzo": "0.44",
+      "vincitore": "barrfidel",
+      "durata": "2m",
+      "puntateTotali": "22"
+    }
+  ]
+}

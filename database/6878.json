@@ -1,0 +1,51 @@
+{
+  "id": "6878",
+  "title": "Cintura Pet",
+  "records": [
+    {
+      "idAsta": "9000286",
+      "prezzo": "1.51",
+      "vincitore": "belardos",
+      "durata": "12m",
+      "puntateTotali": "74",
+      "paid_bids": "0",
+      "free_bids": "74"
+    },
+    {
+      "idAsta": "9025105",
+      "prezzo": "0.95",
+      "vincitore": "townt",
+      "durata": "8m",
+      "puntateTotali": "42",
+      "paid_bids": "10",
+      "free_bids": "32"
+    },
+    {
+      "idAsta": "9045443",
+      "prezzo": "1.33",
+      "vincitore": "jacopotrv",
+      "durata": "7m",
+      "puntateTotali": "50",
+      "paid_bids": "0",
+      "free_bids": "50"
+    },
+    {
+      "idAsta": "9066150",
+      "prezzo": "0.39",
+      "vincitore": "wikileaks",
+      "durata": "3m",
+      "puntateTotali": "19",
+      "paid_bids": "0",
+      "free_bids": "19"
+    },
+    {
+      "idAsta": "9086501",
+      "prezzo": "0.48",
+      "vincitore": "eleonoramarti",
+      "durata": "4m",
+      "puntateTotali": "24",
+      "paid_bids": "0",
+      "free_bids": "24"
+    }
+  ]
+}

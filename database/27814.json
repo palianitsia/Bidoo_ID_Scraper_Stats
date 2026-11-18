@@ -1,0 +1,27 @@
+{
+  "id": "27814",
+  "title": "Moulinex UltraCompact Bistecchiera",
+  "records": [
+    {
+      "idAsta": "101766691",
+      "prezzo": "44.29",
+      "vincitore": "voltolinetti",
+      "durata": "7h 20m",
+      "puntateTotali": "20"
+    },
+    {
+      "idAsta": "101537462",
+      "prezzo": "40.78",
+      "vincitore": "peporrina",
+      "durata": "4h 56m",
+      "puntateTotali": "190"
+    },
+    {
+      "idAsta": "100505725",
+      "prezzo": "1.51",
+      "vincitore": "fcecco1959",
+      "durata": "15m",
+      "puntateTotali": "73"
+    }
+  ]
+}

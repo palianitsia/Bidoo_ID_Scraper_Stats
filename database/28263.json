@@ -1,0 +1,27 @@
+{
+  "id": "28263",
+  "title": "MacBook PROLED M5 Pro 14\" 24GB/1TB",
+  "records": [
+    {
+      "idAsta": "101575361",
+      "prezzo": "271.12",
+      "vincitore": "ritafalce",
+      "durata": "46h 19m",
+      "puntateTotali": "317"
+    },
+    {
+      "idAsta": "101172176",
+      "prezzo": "412.64",
+      "vincitore": "partmarinella",
+      "durata": "69h 52m",
+      "puntateTotali": "16599"
+    },
+    {
+      "idAsta": "100945328",
+      "prezzo": "425.01",
+      "vincitore": "bruquerci",
+      "durata": "71h 36m",
+      "puntateTotali": "14491"
+    }
+  ]
+}

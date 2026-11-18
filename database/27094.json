@@ -1,0 +1,42 @@
+{
+  "id": "27094",
+  "title": "MotoGP 26 ‐ Dayone Edition",
+  "records": [
+    {
+      "idAsta": "97015645",
+      "prezzo": "2.63",
+      "vincitore": "customizzato",
+      "durata": "27m",
+      "puntateTotali": "6",
+      "paid_bids": "0",
+      "free_bids": "6"
+    },
+    {
+      "idAsta": "97208312",
+      "prezzo": "1.38",
+      "vincitore": "fostiemole2",
+      "durata": "14m",
+      "puntateTotali": "30",
+      "paid_bids": "0",
+      "free_bids": "30"
+    },
+    {
+      "idAsta": "97222962",
+      "prezzo": "2.18",
+      "vincitore": "preottolian",
+      "durata": "23m",
+      "puntateTotali": "40",
+      "paid_bids": "0",
+      "free_bids": "40"
+    },
+    {
+      "idAsta": "97403909",
+      "prezzo": "1.24",
+      "vincitore": "andorkk389",
+      "durata": "13m",
+      "puntateTotali": "8",
+      "paid_bids": "0",
+      "free_bids": "8"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "17797",
+  "title": "Addobbo Natalizio Cappello Elfo 52 cm",
+  "records": [
+    {
+      "idAsta": "101069918",
+      "prezzo": "0.18",
+      "vincitore": "fienifabi",
+      "durata": "1m",
+      "puntateTotali": "9"
+    },
+    {
+      "idAsta": "101069777",
+      "prezzo": "5.51",
+      "vincitore": "patriziabaraldi",
+      "durata": "25m",
+      "puntateTotali": "273"
+    },
+    {
+      "idAsta": "101938371",
+      "prezzo": "3.34",
+      "vincitore": "danylogan",
+      "durata": "23m",
+      "puntateTotali": "40"
+    },
+    {
+      "idAsta": "101938467",
+      "prezzo": "3.56",
+      "vincitore": "dalipiacere",
+      "durata": "24m",
+      "puntateTotali": "53"
+    }
+  ]
+}

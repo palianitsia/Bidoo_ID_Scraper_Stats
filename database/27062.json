@@ -1,0 +1,42 @@
+{
+  "id": "27062",
+  "title": "Motorola razr 70 ultra",
+  "records": [
+    {
+      "idAsta": "97105022",
+      "prezzo": "243.28",
+      "vincitore": "saedfre2",
+      "durata": "41h 23m",
+      "puntateTotali": "171",
+      "paid_bids": "86",
+      "free_bids": "85"
+    },
+    {
+      "idAsta": "97139018",
+      "prezzo": "368.27",
+      "vincitore": "galimberti3949",
+      "durata": "63h 15m",
+      "puntateTotali": "5",
+      "paid_bids": "0",
+      "free_bids": "5"
+    },
+    {
+      "idAsta": "97204487",
+      "prezzo": "128.19",
+      "vincitore": "crepoce03",
+      "durata": "14h 40m",
+      "puntateTotali": "398",
+      "paid_bids": "0",
+      "free_bids": "398"
+    },
+    {
+      "idAsta": "97494921",
+      "prezzo": "175.94",
+      "vincitore": "salmendi3",
+      "durata": "30h 0m",
+      "puntateTotali": "8678",
+      "paid_bids": "13",
+      "free_bids": "8665"
+    }
+  ]
+}

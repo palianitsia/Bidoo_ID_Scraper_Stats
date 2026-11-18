@@ -1,0 +1,48 @@
+{
+  "id": "28030",
+  "title": "Caleffi Parure Copripiumino Color",
+  "records": [
+    {
+      "idAsta": "101766852",
+      "prezzo": "18.99",
+      "vincitore": "zenotagato",
+      "durata": "3h 23m",
+      "puntateTotali": "81"
+    },
+    {
+      "idAsta": "101537575",
+      "prezzo": "17.48",
+      "vincitore": "zenomariuolo",
+      "durata": "3h 9m",
+      "puntateTotali": "22"
+    },
+    {
+      "idAsta": "101396379",
+      "prezzo": "19.13",
+      "vincitore": "balaquino",
+      "durata": "3h 17m",
+      "puntateTotali": "128"
+    },
+    {
+      "idAsta": "100817037",
+      "prezzo": "25.69",
+      "vincitore": "camlibe",
+      "durata": "4h 35m",
+      "puntateTotali": "45"
+    },
+    {
+      "idAsta": "100743005",
+      "prezzo": "19.17",
+      "vincitore": "schiaviresca",
+      "durata": "3h 13m",
+      "puntateTotali": "4"
+    },
+    {
+      "idAsta": "100441002",
+      "prezzo": "5.24",
+      "vincitore": "domorsini",
+      "durata": "25m",
+      "puntateTotali": "41"
+    }
+  ]
+}

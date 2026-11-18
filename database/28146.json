@@ -1,0 +1,34 @@
+{
+  "id": "28146",
+  "title": "BOX Apple Home Theater",
+  "records": [
+    {
+      "idAsta": "101386680",
+      "prezzo": "317.14",
+      "vincitore": "nandorovo",
+      "durata": "53h 41m",
+      "puntateTotali": "194"
+    },
+    {
+      "idAsta": "101397900",
+      "prezzo": "152.86",
+      "vincitore": "misterruspa",
+      "durata": "25h 44m",
+      "puntateTotali": "374"
+    },
+    {
+      "idAsta": "100850170",
+      "prezzo": "91.45",
+      "vincitore": "pasmanni",
+      "durata": "15h 23m",
+      "puntateTotali": "346"
+    },
+    {
+      "idAsta": "100799189",
+      "prezzo": "136.14",
+      "vincitore": "tatianarocca",
+      "durata": "22h 59m",
+      "puntateTotali": "188"
+    }
+  ]
+}

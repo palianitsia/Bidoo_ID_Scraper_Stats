@@ -1,0 +1,96 @@
+{
+  "id": "19151",
+  "title": "Playstation 5 PULSE Explorer",
+  "records": [
+    {
+      "idAsta": "97046860",
+      "prezzo": "3.64",
+      "vincitore": "bedenet",
+      "durata": "19m",
+      "puntateTotali": "168",
+      "paid_bids": "0",
+      "free_bids": "168"
+    },
+    {
+      "idAsta": "97046899",
+      "prezzo": "3.22",
+      "vincitore": "somirinisi",
+      "durata": "17m",
+      "puntateTotali": "158",
+      "paid_bids": "0",
+      "free_bids": "158"
+    },
+    {
+      "idAsta": "97046938",
+      "prezzo": "4.47",
+      "vincitore": "botirnelei94",
+      "durata": "23m",
+      "puntateTotali": "222",
+      "paid_bids": "0",
+      "free_bids": "222"
+    },
+    {
+      "idAsta": "97160185",
+      "prezzo": "8.87",
+      "vincitore": "casandra30",
+      "durata": "44m",
+      "puntateTotali": "425",
+      "paid_bids": "0",
+      "free_bids": "425"
+    },
+    {
+      "idAsta": "97160224",
+      "prezzo": "25.96",
+      "vincitore": "delrur940",
+      "durata": "2h 14m",
+      "puntateTotali": "554",
+      "paid_bids": "0",
+      "free_bids": "554"
+    },
+    {
+      "idAsta": "97160293",
+      "prezzo": "22.91",
+      "vincitore": "geppityuo",
+      "durata": "1h 58m",
+      "puntateTotali": "974",
+      "paid_bids": "0",
+      "free_bids": "974"
+    },
+    {
+      "idAsta": "97403884",
+      "prezzo": "11.80",
+      "vincitore": "foriendo3",
+      "durata": "2h 0m",
+      "puntateTotali": "455",
+      "paid_bids": "0",
+      "free_bids": "455"
+    },
+    {
+      "idAsta": "97488471",
+      "prezzo": "33.84",
+      "vincitore": "maderutti",
+      "durata": "2h 56m",
+      "puntateTotali": "234",
+      "paid_bids": "140",
+      "free_bids": "94"
+    },
+    {
+      "idAsta": "97488370",
+      "prezzo": "4.05",
+      "vincitore": "spuntonia",
+      "durata": "22m",
+      "puntateTotali": "193",
+      "paid_bids": "0",
+      "free_bids": "193"
+    },
+    {
+      "idAsta": "97488409",
+      "prezzo": "35.36",
+      "vincitore": "sborisci2",
+      "durata": "3h 1m",
+      "puntateTotali": "1328",
+      "paid_bids": "341",
+      "free_bids": "987"
+    }
+  ]
+}

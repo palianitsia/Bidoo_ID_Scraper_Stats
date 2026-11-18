@@ -1,0 +1,33 @@
+{
+  "id": "13811",
+  "title": "2000€ Bidoo Shop + 2000 pt",
+  "records": [
+    {
+      "idAsta": "97259268",
+      "prezzo": "407.11",
+      "vincitore": "vole93",
+      "durata": "69h 10m",
+      "puntateTotali": "130",
+      "paid_bids": "0",
+      "free_bids": "130"
+    },
+    {
+      "idAsta": "97262705",
+      "prezzo": "597.38",
+      "vincitore": "ilaborghini",
+      "durata": "134h 32m",
+      "puntateTotali": "457",
+      "paid_bids": "0",
+      "free_bids": "457"
+    },
+    {
+      "idAsta": "97486192",
+      "prezzo": "677.23",
+      "vincitore": "1dambrosia",
+      "durata": "78h 26m",
+      "puntateTotali": "407",
+      "paid_bids": "0",
+      "free_bids": "407"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "23317",
+  "title": "Philips Rasoio Elettrico Wet and Dry SkinIQ",
+  "records": [
+    {
+      "idAsta": "97046855",
+      "prezzo": "7.83",
+      "vincitore": "defelico",
+      "durata": "40m",
+      "puntateTotali": "390",
+      "paid_bids": "0",
+      "free_bids": "390"
+    },
+    {
+      "idAsta": "97046894",
+      "prezzo": "6.98",
+      "vincitore": "satrimau",
+      "durata": "36m",
+      "puntateTotali": "347",
+      "paid_bids": "0",
+      "free_bids": "347"
+    },
+    {
+      "idAsta": "97046933",
+      "prezzo": "48.55",
+      "vincitore": "plaza494",
+      "durata": "4h 11m",
+      "puntateTotali": "1984",
+      "paid_bids": "585",
+      "free_bids": "1399"
+    },
+    {
+      "idAsta": "97160180",
+      "prezzo": "5.65",
+      "vincitore": "arcibengo",
+      "durata": "29m",
+      "puntateTotali": "282",
+      "paid_bids": "134",
+      "free_bids": "148"
+    },
+    {
+      "idAsta": "97160219",
+      "prezzo": "39.98",
+      "vincitore": "astra394",
+      "durata": "3h 25m",
+      "puntateTotali": "1644",
+      "paid_bids": "0",
+      "free_bids": "1644"
+    },
+    {
+      "idAsta": "97160288",
+      "prezzo": "15.32",
+      "vincitore": "mrfedneu3",
+      "durata": "1h 19m",
+      "puntateTotali": "756",
+      "paid_bids": "0",
+      "free_bids": "756"
+    },
+    {
+      "idAsta": "97488365",
+      "prezzo": "44.17",
+      "vincitore": "marquez9a3",
+      "durata": "3h 47m",
+      "puntateTotali": "1905",
+      "paid_bids": "0",
+      "free_bids": "1905"
+    },
+    {
+      "idAsta": "97488459",
+      "prezzo": "10.66",
+      "vincitore": "marinatefri",
+      "durata": "56m",
+      "puntateTotali": "531",
+      "paid_bids": "0",
+      "free_bids": "531"
+    },
+    {
+      "idAsta": "97488404",
+      "prezzo": "7.10",
+      "vincitore": "pikachu21",
+      "durata": "37m",
+      "puntateTotali": "268",
+      "paid_bids": "0",
+      "free_bids": "268"
+    }
+  ]
+}

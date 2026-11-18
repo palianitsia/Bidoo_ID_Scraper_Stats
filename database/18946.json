@@ -1,0 +1,24 @@
+{
+  "id": "18946",
+  "title": "Galaxy S24 Ultra 256GB",
+  "records": [
+    {
+      "idAsta": "97149395",
+      "prezzo": "375.65",
+      "vincitore": "ginopela",
+      "durata": "64h 13m",
+      "puntateTotali": "200",
+      "paid_bids": "0",
+      "free_bids": "200"
+    },
+    {
+      "idAsta": "97393291",
+      "prezzo": "298.43",
+      "vincitore": "morosista",
+      "durata": "50h 33m",
+      "puntateTotali": "374",
+      "paid_bids": "187",
+      "free_bids": "187"
+    }
+  ]
+}

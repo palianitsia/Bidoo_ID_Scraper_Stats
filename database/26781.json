@@ -1,0 +1,42 @@
+{
+  "id": "26781",
+  "title": "WWE 2K26",
+  "records": [
+    {
+      "idAsta": "97015711",
+      "prezzo": "1.23",
+      "vincitore": "fraska930",
+      "durata": "9m",
+      "puntateTotali": "29",
+      "paid_bids": "5",
+      "free_bids": "24"
+    },
+    {
+      "idAsta": "97015757",
+      "prezzo": "2.21",
+      "vincitore": "capaolina2",
+      "durata": "16m",
+      "puntateTotali": "27",
+      "paid_bids": "0",
+      "free_bids": "27"
+    },
+    {
+      "idAsta": "97208378",
+      "prezzo": "1.89",
+      "vincitore": "drugo61",
+      "durata": "14m",
+      "puntateTotali": "20",
+      "paid_bids": "0",
+      "free_bids": "20"
+    },
+    {
+      "idAsta": "97208394",
+      "prezzo": "1.67",
+      "vincitore": "foschia93",
+      "durata": "12m",
+      "puntateTotali": "13",
+      "paid_bids": "0",
+      "free_bids": "13"
+    }
+  ]
+}

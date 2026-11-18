@@ -1,0 +1,33 @@
+{
+  "id": "27530",
+  "title": "ghd Chronos Max Jelly Mint",
+  "records": [
+    {
+      "idAsta": "97097029",
+      "prezzo": "22.45",
+      "vincitore": "spatula203",
+      "durata": "3h 46m",
+      "puntateTotali": "830",
+      "paid_bids": "0",
+      "free_bids": "830"
+    },
+    {
+      "idAsta": "97222437",
+      "prezzo": "6.56",
+      "vincitore": "carlabrai",
+      "durata": "1h 7m",
+      "puntateTotali": "317",
+      "paid_bids": "157",
+      "free_bids": "160"
+    },
+    {
+      "idAsta": "97345106",
+      "prezzo": "10.39",
+      "vincitore": "modieum84",
+      "durata": "1h 42m",
+      "puntateTotali": "481",
+      "paid_bids": "0",
+      "free_bids": "481"
+    }
+  ]
+}

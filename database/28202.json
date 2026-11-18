@@ -1,0 +1,34 @@
+{
+  "id": "28202",
+  "title": "Caleffi Trapunta Orange",
+  "records": [
+    {
+      "idAsta": "101396377",
+      "prezzo": "20.92",
+      "vincitore": "rotocalco",
+      "durata": "3h 36m",
+      "puntateTotali": "24"
+    },
+    {
+      "idAsta": "100743004",
+      "prezzo": "13.59",
+      "vincitore": "malignonev",
+      "durata": "2h 17m",
+      "puntateTotali": "223"
+    },
+    {
+      "idAsta": "100743003",
+      "prezzo": "12.08",
+      "vincitore": "sandrvoid",
+      "durata": "2h 4m",
+      "puntateTotali": "60"
+    },
+    {
+      "idAsta": "101978579",
+      "prezzo": "11.67",
+      "vincitore": "ossidakarus",
+      "durata": "1h 51m",
+      "puntateTotali": "164"
+    }
+  ]
+}

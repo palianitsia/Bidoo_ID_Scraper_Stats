@@ -1,0 +1,27 @@
+{
+  "id": "28231",
+  "title": "Bulova Marine Star",
+  "records": [
+    {
+      "idAsta": "101039117",
+      "prezzo": "83.69",
+      "vincitore": "cosmirto",
+      "durata": "14h 5m",
+      "puntateTotali": "70"
+    },
+    {
+      "idAsta": "100694792",
+      "prezzo": "57.97",
+      "vincitore": "pelaivo",
+      "durata": "9h 53m",
+      "puntateTotali": "2619"
+    },
+    {
+      "idAsta": "101903472",
+      "prezzo": "176.79",
+      "vincitore": "lucamortal",
+      "durata": "29h 52m",
+      "puntateTotali": "823"
+    }
+  ]
+}

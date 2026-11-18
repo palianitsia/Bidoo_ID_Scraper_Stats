@@ -1,0 +1,24 @@
+{
+  "id": "27582",
+  "title": "Turtle Beach Burst II Pro",
+  "records": [
+    {
+      "idAsta": "97222434",
+      "prezzo": "3.15",
+      "vincitore": "telegol49",
+      "durata": "33m",
+      "puntateTotali": "37",
+      "paid_bids": "0",
+      "free_bids": "37"
+    },
+    {
+      "idAsta": "97343760",
+      "prezzo": "4.67",
+      "vincitore": "lebronre",
+      "durata": "33m",
+      "puntateTotali": "61",
+      "paid_bids": "0",
+      "free_bids": "61"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "27913",
+  "title": "Fendi Commando Donna",
+  "records": [
+    {
+      "idAsta": "101375209",
+      "prezzo": "259.11",
+      "vincitore": "anzaben",
+      "durata": "43h 53m",
+      "puntateTotali": "10761"
+    },
+    {
+      "idAsta": "101109988",
+      "prezzo": "273.29",
+      "vincitore": "lucioriva",
+      "durata": "46h 15m",
+      "puntateTotali": "466"
+    },
+    {
+      "idAsta": "101039112",
+      "prezzo": "228.41",
+      "vincitore": "lelelume",
+      "durata": "38h 45m",
+      "puntateTotali": "9177"
+    },
+    {
+      "idAsta": "100786205",
+      "prezzo": "152.76",
+      "vincitore": "ledmala",
+      "durata": "25h 43m",
+      "puntateTotali": "375"
+    },
+    {
+      "idAsta": "100167295",
+      "prezzo": "312.14",
+      "vincitore": "giordusk",
+      "durata": "52h 47m",
+      "puntateTotali": "579"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "27035",
+  "title": "JBL Grip Pro Sound",
+  "records": [
+    {
+      "idAsta": "97096578",
+      "prezzo": "3.00",
+      "vincitore": "talgolia",
+      "durata": "31m",
+      "puntateTotali": "31",
+      "paid_bids": "0",
+      "free_bids": "31"
+    },
+    {
+      "idAsta": "97223037",
+      "prezzo": "5.61",
+      "vincitore": "masenol",
+      "durata": "55m",
+      "puntateTotali": "83",
+      "paid_bids": "2",
+      "free_bids": "81"
+    },
+    {
+      "idAsta": "97280867",
+      "prezzo": "16.03",
+      "vincitore": "txosky",
+      "durata": "1h 55m",
+      "puntateTotali": "249",
+      "paid_bids": "101",
+      "free_bids": "148"
+    },
+    {
+      "idAsta": "97344762",
+      "prezzo": "17.14",
+      "vincitore": "tronido",
+      "durata": "2h 54m",
+      "puntateTotali": "70",
+      "paid_bids": "0",
+      "free_bids": "70"
+    }
+  ]
+}

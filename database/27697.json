@@ -1,0 +1,24 @@
+{
+  "id": "27697",
+  "title": "Google Pixel 11 Pro 1TB",
+  "records": [
+    {
+      "idAsta": "97045149",
+      "prezzo": "301.82",
+      "vincitore": "11block",
+      "durata": "50h 56m",
+      "puntateTotali": "179",
+      "paid_bids": "0",
+      "free_bids": "179"
+    },
+    {
+      "idAsta": "97139000",
+      "prezzo": "504.66",
+      "vincitore": "leilaboi2",
+      "durata": "85h 20m",
+      "puntateTotali": "1153",
+      "paid_bids": "700",
+      "free_bids": "453"
+    }
+  ]
+}

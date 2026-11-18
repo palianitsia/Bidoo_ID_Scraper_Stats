@@ -1,0 +1,27 @@
+{
+  "id": "26724",
+  "title": "Apple Studio Display XDR",
+  "records": [
+    {
+      "idAsta": "100408875",
+      "prezzo": "464.65",
+      "vincitore": "burrailar",
+      "durata": "78h 37m",
+      "puntateTotali": "19780"
+    },
+    {
+      "idAsta": "100167335",
+      "prezzo": "211.69",
+      "vincitore": "igozippa",
+      "durata": "35h 45m",
+      "puntateTotali": "164"
+    },
+    {
+      "idAsta": "99755757",
+      "prezzo": "777.71",
+      "vincitore": "descarti",
+      "durata": "131h 35m",
+      "puntateTotali": "380"
+    }
+  ]
+}

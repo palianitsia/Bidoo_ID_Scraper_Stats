@@ -1,0 +1,42 @@
+{
+  "id": "7404",
+  "title": "Specchio Trucco 21 LEDs",
+  "records": [
+    {
+      "idAsta": "9025399",
+      "prezzo": "5.28",
+      "vincitore": "giuliogol",
+      "durata": "40m",
+      "puntateTotali": "53",
+      "paid_bids": "0",
+      "free_bids": "53"
+    },
+    {
+      "idAsta": "9045467",
+      "prezzo": "0.08",
+      "vincitore": "alliona",
+      "durata": "1m",
+      "puntateTotali": "4",
+      "paid_bids": "0",
+      "free_bids": "4"
+    },
+    {
+      "idAsta": "9066454",
+      "prezzo": "0.10",
+      "vincitore": "vettorvalentina",
+      "durata": "1m",
+      "puntateTotali": "5",
+      "paid_bids": "0",
+      "free_bids": "5"
+    },
+    {
+      "idAsta": "9086524",
+      "prezzo": "5.82",
+      "vincitore": "lunavelenosa",
+      "durata": "20m",
+      "puntateTotali": "285",
+      "paid_bids": "0",
+      "free_bids": "285"
+    }
+  ]
+}

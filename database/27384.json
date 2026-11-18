@@ -1,0 +1,24 @@
+{
+  "id": "27384",
+  "title": "Stampante termica portatile",
+  "records": [
+    {
+      "idAsta": "97097089",
+      "prezzo": "10.12",
+      "vincitore": "madrloi",
+      "durata": "1h 42m",
+      "puntateTotali": "109",
+      "paid_bids": "0",
+      "free_bids": "109"
+    },
+    {
+      "idAsta": "97345162",
+      "prezzo": "13.27",
+      "vincitore": "navarrino",
+      "durata": "2h 11m",
+      "puntateTotali": "4",
+      "paid_bids": "2",
+      "free_bids": "2"
+    }
+  ]
+}

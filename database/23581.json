@@ -1,0 +1,33 @@
+{
+  "id": "23581",
+  "title": "Ooni Forno per Pizza a Gas Koda 2 Max",
+  "records": [
+    {
+      "idAsta": "97329392",
+      "prezzo": "388.10",
+      "vincitore": "marika9349",
+      "durata": "65h 14m",
+      "puntateTotali": "474",
+      "paid_bids": "0",
+      "free_bids": "474"
+    },
+    {
+      "idAsta": "97329391",
+      "prezzo": "305.33",
+      "vincitore": "alfaromyo",
+      "durata": "34h 42m",
+      "puntateTotali": "549",
+      "paid_bids": "350",
+      "free_bids": "199"
+    },
+    {
+      "idAsta": "97329390",
+      "prezzo": "78.29",
+      "vincitore": "paperino9922",
+      "durata": "6h 33m",
+      "puntateTotali": "332",
+      "paid_bids": "103",
+      "free_bids": "229"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "27894",
+  "title": "Hermès 2 mazzi carte Cheval Natté",
+  "records": [
+    {
+      "idAsta": "101642786",
+      "prezzo": "15.58",
+      "vincitore": "rairoca",
+      "durata": "2h 40m",
+      "puntateTotali": "33"
+    },
+    {
+      "idAsta": "101454060",
+      "prezzo": "18.98",
+      "vincitore": "sabvilla",
+      "durata": "3h 15m",
+      "puntateTotali": "260"
+    },
+    {
+      "idAsta": "101231078",
+      "prezzo": "41.67",
+      "vincitore": "lucaruota",
+      "durata": "7h 21m",
+      "puntateTotali": "127"
+    },
+    {
+      "idAsta": "101167007",
+      "prezzo": "34.09",
+      "vincitore": "porfipie",
+      "durata": "5h 52m",
+      "puntateTotali": "21"
+    },
+    {
+      "idAsta": "100909744",
+      "prezzo": "26.55",
+      "vincitore": "felbaldi",
+      "durata": "4h 34m",
+      "puntateTotali": "258"
+    },
+    {
+      "idAsta": "100445781",
+      "prezzo": "11.52",
+      "vincitore": "antifasci",
+      "durata": "1h 58m",
+      "puntateTotali": "68"
+    }
+  ]
+}

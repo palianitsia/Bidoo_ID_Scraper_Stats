@@ -1,0 +1,24 @@
+{
+  "id": "26628",
+  "title": "Panca da Giardino 2 Persone",
+  "records": [
+    {
+      "idAsta": "97213788",
+      "prezzo": "19.97",
+      "vincitore": "gemella931",
+      "durata": "2h 26m",
+      "puntateTotali": "7",
+      "paid_bids": "0",
+      "free_bids": "7"
+    },
+    {
+      "idAsta": "97449450",
+      "prezzo": "7.73",
+      "vincitore": "corduto903",
+      "durata": "53m",
+      "puntateTotali": "85",
+      "paid_bids": "0",
+      "free_bids": "85"
+    }
+  ]
+}

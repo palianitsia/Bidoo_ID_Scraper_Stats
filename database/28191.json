@@ -1,0 +1,34 @@
+{
+  "id": "28191",
+  "title": "Metz 32\" Smart TV QLED",
+  "records": [
+    {
+      "idAsta": "101077567",
+      "prezzo": "151.94",
+      "vincitore": "carmen1590",
+      "durata": "25h 41m",
+      "puntateTotali": "5035"
+    },
+    {
+      "idAsta": "100924869",
+      "prezzo": "23.19",
+      "vincitore": "doracovo",
+      "durata": "3h 55m",
+      "puntateTotali": "49"
+    },
+    {
+      "idAsta": "102025180",
+      "prezzo": "45.26",
+      "vincitore": "nicbaita",
+      "durata": "7h 1m",
+      "puntateTotali": "93"
+    },
+    {
+      "idAsta": "101903534",
+      "prezzo": "37.15",
+      "vincitore": "bossfumo",
+      "durata": "6h 13m",
+      "puntateTotali": "52"
+    }
+  ]
+}

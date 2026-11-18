@@ -1,0 +1,24 @@
+{
+  "id": "7841",
+  "title": "Zotac Rtx 2060 Super",
+  "records": [
+    {
+      "idAsta": "9038712",
+      "prezzo": "48.45",
+      "vincitore": "gregorio1982",
+      "durata": "19h 26m",
+      "puntateTotali": "2034",
+      "paid_bids": "100",
+      "free_bids": "1934"
+    },
+    {
+      "idAsta": "9057271",
+      "prezzo": "52.96",
+      "vincitore": "espositomary",
+      "durata": "10h 10m",
+      "puntateTotali": "2365",
+      "paid_bids": "34",
+      "free_bids": "2331"
+    }
+  ]
+}

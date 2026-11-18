@@ -1,0 +1,33 @@
+{
+  "id": "26792",
+  "title": "Logitech G PRO X SUPERLIGHT 2 SE",
+  "records": [
+    {
+      "idAsta": "97096831",
+      "prezzo": "9.74",
+      "vincitore": "coflexxx",
+      "durata": "1h 39m",
+      "puntateTotali": "97",
+      "paid_bids": "0",
+      "free_bids": "97"
+    },
+    {
+      "idAsta": "97343778",
+      "prezzo": "3.53",
+      "vincitore": "tedottone",
+      "durata": "25m",
+      "puntateTotali": "68",
+      "paid_bids": "0",
+      "free_bids": "68"
+    },
+    {
+      "idAsta": "97344970",
+      "prezzo": "2.56",
+      "vincitore": "terumauro",
+      "durata": "27m",
+      "puntateTotali": "20",
+      "paid_bids": "0",
+      "free_bids": "20"
+    }
+  ]
+}

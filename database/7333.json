@@ -1,0 +1,24 @@
+{
+  "id": "7333",
+  "title": "Galaxy Tab S6 128gb",
+  "records": [
+    {
+      "idAsta": "9052425",
+      "prezzo": "91.15",
+      "vincitore": "gintonica",
+      "durata": "17h 28m",
+      "puntateTotali": "4247",
+      "paid_bids": "1166",
+      "free_bids": "3081"
+    },
+    {
+      "idAsta": "9065799",
+      "prezzo": "70.67",
+      "vincitore": "leguman",
+      "durata": "12h 23m",
+      "puntateTotali": "2404",
+      "paid_bids": "130",
+      "free_bids": "2274"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "28125",
+  "title": "Seiko Classic Titanium",
+  "records": [
+    {
+      "idAsta": "101375138",
+      "prezzo": "44.14",
+      "vincitore": "beltbrag",
+      "durata": "7h 26m",
+      "puntateTotali": "2022"
+    },
+    {
+      "idAsta": "100498198",
+      "prezzo": "24.53",
+      "vincitore": "linograna",
+      "durata": "4h 15m",
+      "puntateTotali": "996"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "21654",
+  "title": "Hisense Lavatrice a Carica Frontale 6Kg",
+  "records": [
+    {
+      "idAsta": "101642523",
+      "prezzo": "45.12",
+      "vincitore": "clastefa",
+      "durata": "7h 35m",
+      "puntateTotali": "2126"
+    },
+    {
+      "idAsta": "101453817",
+      "prezzo": "22.23",
+      "vincitore": "steamadei",
+      "durata": "3h 43m",
+      "puntateTotali": "775"
+    },
+    {
+      "idAsta": "101231059",
+      "prezzo": "48.53",
+      "vincitore": "ilapetti",
+      "durata": "8h 5m",
+      "puntateTotali": "1695"
+    }
+  ]
+}

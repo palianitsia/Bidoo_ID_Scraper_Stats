@@ -1,0 +1,24 @@
+{
+  "id": "8151",
+  "title": "500€ Carrefour +1000P",
+  "records": [
+    {
+      "idAsta": "97208594",
+      "prezzo": "154.06",
+      "vincitore": "elsamikio",
+      "durata": "26h 11m",
+      "puntateTotali": "7507",
+      "paid_bids": "3572",
+      "free_bids": "3935"
+    },
+    {
+      "idAsta": "97208712",
+      "prezzo": "127.19",
+      "vincitore": "ameliarinti",
+      "durata": "21h 26m",
+      "puntateTotali": "5982",
+      "paid_bids": "3099",
+      "free_bids": "2883"
+    }
+  ]
+}

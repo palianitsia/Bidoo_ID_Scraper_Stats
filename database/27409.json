@@ -1,0 +1,33 @@
+{
+  "id": "27409",
+  "title": "Hermes Telo mare Yachting grande",
+  "records": [
+    {
+      "idAsta": "97163555",
+      "prezzo": "129.71",
+      "vincitore": "foruddi",
+      "durata": "15h 7m",
+      "puntateTotali": "6440",
+      "paid_bids": "3438",
+      "free_bids": "3002"
+    },
+    {
+      "idAsta": "97190434",
+      "prezzo": "81.68",
+      "vincitore": "fiiclai3",
+      "durata": "14h 4m",
+      "puntateTotali": "4070",
+      "paid_bids": "0",
+      "free_bids": "4070"
+    },
+    {
+      "idAsta": "97400900",
+      "prezzo": "37.85",
+      "vincitore": "portoluce",
+      "durata": "6h 28m",
+      "puntateTotali": "1890",
+      "paid_bids": "0",
+      "free_bids": "1890"
+    }
+  ]
+}

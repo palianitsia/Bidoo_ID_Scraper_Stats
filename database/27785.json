@@ -1,0 +1,24 @@
+{
+  "id": "27785",
+  "title": "Flashforge AD5X Stampante 3D",
+  "records": [
+    {
+      "idAsta": "97222963",
+      "prezzo": "143.54",
+      "vincitore": "vincsoft",
+      "durata": "24h 15m",
+      "puntateTotali": "5827",
+      "paid_bids": "550",
+      "free_bids": "5277"
+    },
+    {
+      "idAsta": "97491502",
+      "prezzo": "31.90",
+      "vincitore": "demeratto",
+      "durata": "5h 15m",
+      "puntateTotali": "1003",
+      "paid_bids": "285",
+      "free_bids": "718"
+    }
+  ]
+}

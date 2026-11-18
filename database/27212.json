@@ -1,0 +1,33 @@
+{
+  "id": "27212",
+  "title": "Magic Marvel's Spider‐Man Ita",
+  "records": [
+    {
+      "idAsta": "97281308",
+      "prezzo": "4.53",
+      "vincitore": "comisso304",
+      "durata": "24m",
+      "puntateTotali": "74",
+      "paid_bids": "0",
+      "free_bids": "74"
+    },
+    {
+      "idAsta": "97281310",
+      "prezzo": "6.13",
+      "vincitore": "martin4o304",
+      "durata": "1h 23m",
+      "puntateTotali": "112",
+      "paid_bids": "21",
+      "free_bids": "91"
+    },
+    {
+      "idAsta": "97281309",
+      "prezzo": "29.73",
+      "vincitore": "sofiundo3",
+      "durata": "5h 0m",
+      "puntateTotali": "60",
+      "paid_bids": "0",
+      "free_bids": "60"
+    }
+  ]
+}

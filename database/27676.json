@@ -1,0 +1,42 @@
+{
+  "id": "27676",
+  "title": "Seven Zaino New Fit Lovely",
+  "records": [
+    {
+      "idAsta": "97107001",
+      "prezzo": "2.21",
+      "vincitore": "sacerto49",
+      "durata": "23m",
+      "puntateTotali": "6",
+      "paid_bids": "0",
+      "free_bids": "6"
+    },
+    {
+      "idAsta": "97107038",
+      "prezzo": "20.43",
+      "vincitore": "puntrello2",
+      "durata": "3h 27m",
+      "puntateTotali": "96",
+      "paid_bids": "0",
+      "free_bids": "96"
+    },
+    {
+      "idAsta": "97211608",
+      "prezzo": "28.44",
+      "vincitore": "rosyxx93",
+      "durata": "1h 56m",
+      "puntateTotali": "473",
+      "paid_bids": "110",
+      "free_bids": "363"
+    },
+    {
+      "idAsta": "97211676",
+      "prezzo": "27.24",
+      "vincitore": "debilitat0r",
+      "durata": "1h 44m",
+      "puntateTotali": "99",
+      "paid_bids": "0",
+      "free_bids": "99"
+    }
+  ]
+}
